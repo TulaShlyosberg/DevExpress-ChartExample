@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartsExample.Android", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartsExample.iOS", "ChartsExample\ChartsExample.iOS\ChartsExample.iOS.csproj", "{94574941-0361-426F-BC6F-9C2686F26BC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartsExample", "ChartsExample\ChartsExample\ChartsExample.csproj", "{FA738D3B-9EC3-4C9D-ADC6-08FA75A8F8A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChartsExample", "ChartsExample\ChartsExample\ChartsExample.csproj", "{FA738D3B-9EC3-4C9D-ADC6-08FA75A8F8A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
