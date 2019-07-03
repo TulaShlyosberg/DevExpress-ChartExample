@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GoogleCalender"
+             xmlns:dxsch="clr-namespace:DevExpress.XamarinForms.Scheduler;assembly=DevExpress.XamarinForms.Scheduler"
+             xmlns:vm="clr-namespace:GoogleCalender.ViewModels"
+             x:Class="GoogleCalender.MainPage">
+
+    <ContentPage.BindingContext>
+        <vm:ReceptionDeskViewModel/>
+    </ContentPage.BindingContext>
+    <dxsch:SchedulerView x:Name="scheduler">
+        <dxsch:SchedulerView.DataSource>
+            <!--Replace it!-->
+            <dxsch:DataSource AppointmentsSource="{Binding GoogleUserAppointments}">
+                <dxsch:DataSource.AppointmentMappings>
+                    <dxsch:AppointmentMappings 
+                            Id="Id" 
+                            Start="StartTime" 
+                            End="EndTime" 
+                            Subject="Subject"
+                            LabelId="LabelId"
+                            Location="Location"/>
+                </dxsch:DataSource.AppointmentMappings>
+            </dxsch:DataSource>
+        </dxsch:SchedulerView.DataSource>
+    </dxsch:SchedulerView>
+
+</ContentPage>
