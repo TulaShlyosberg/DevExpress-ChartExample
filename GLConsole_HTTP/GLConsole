@@ -1,0 +1,5 @@
+accessToken = "ya29.Gls6B889tVQlSFrMruJkpo49xG--k2CrMZqBYGfNvmC5DozHEeX4ex2EVn47BuvPBnFrJI3Yo1BngimVEPLLMAFVuUdi3tAXjcCtUC4aX9J6GdHgpKkdTgWw1Zy7";
+var request = new XMLHttpRequest();
+var a = request.open("GET", "https://www.googleapis.com/calendar/v3/calendars/events?key=AIzaSyAMOgJJuWuaAgG9H450T5R3pV8BDCA8re8");
+request.setRequestHeader("Authorization", "Bearer " + accessToken);
+request.send();
