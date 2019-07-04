@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceAssemblyReference>true</ProduceAssemblyReference>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Xamarin.Forms" Version="4.1.0.555618" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DevExpress.XamarinForms.Core">
+      <HintPath>..\..\..\..\..\Git\DevExpress-ChartExample\Binaries\DevExpress.XamarinForms.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XamarinForms.Scheduler">
+      <HintPath>..\..\..\..\..\Git\DevExpress-ChartExample\Binaries\DevExpress.XamarinForms.Scheduler.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
