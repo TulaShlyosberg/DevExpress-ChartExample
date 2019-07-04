@@ -111,8 +111,6 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "GoogleCalender.Android.dll" comes first in this list. */
 		"GoogleCalender.Android.dll",
-		"DevExpress.Xamarin.Android.Scheduler.dll",
-		"DevExpress.XamarinForms.Scheduler.Android.dll",
 		"FormsViewGroup.dll",
 		"Google.Apis.Auth.dll",
 		"Google.Apis.Auth.PlatformServices.dll",

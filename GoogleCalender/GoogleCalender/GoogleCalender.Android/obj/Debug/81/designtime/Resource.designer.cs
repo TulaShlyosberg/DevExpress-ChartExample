@@ -26,2265 +26,6 @@ namespace GoogleCalender.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_fade_in = global::GoogleCalender.Droid.Resource.Animation.abc_fade_in;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_fade_out = global::GoogleCalender.Droid.Resource.Animation.abc_fade_out;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::GoogleCalender.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_popup_enter = global::GoogleCalender.Droid.Resource.Animation.abc_popup_enter;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_popup_exit = global::GoogleCalender.Droid.Resource.Animation.abc_popup_exit;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::GoogleCalender.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_slide_in_bottom = global::GoogleCalender.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_slide_in_top = global::GoogleCalender.Droid.Resource.Animation.abc_slide_in_top;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_slide_out_bottom = global::GoogleCalender.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.abc_slide_out_top = global::GoogleCalender.Droid.Resource.Animation.abc_slide_out_top;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.design_bottom_sheet_slide_in = global::GoogleCalender.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.design_bottom_sheet_slide_out = global::GoogleCalender.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.design_snackbar_in = global::GoogleCalender.Droid.Resource.Animation.design_snackbar_in;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.design_snackbar_out = global::GoogleCalender.Droid.Resource.Animation.design_snackbar_out;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.EnterFromLeft = global::GoogleCalender.Droid.Resource.Animation.EnterFromLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.EnterFromRight = global::GoogleCalender.Droid.Resource.Animation.EnterFromRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.ExitToLeft = global::GoogleCalender.Droid.Resource.Animation.ExitToLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.ExitToRight = global::GoogleCalender.Droid.Resource.Animation.ExitToRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.tooltip_enter = global::GoogleCalender.Droid.Resource.Animation.tooltip_enter;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animation.tooltip_exit = global::GoogleCalender.Droid.Resource.Animation.tooltip_exit;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Animator.design_appbar_state_list_animator = global::GoogleCalender.Droid.Resource.Animator.design_appbar_state_list_animator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Array.day_view_values = global::GoogleCalender.Droid.Resource.Array.day_view_values;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarDivider = global::GoogleCalender.Droid.Resource.Attribute.actionBarDivider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarItemBackground = global::GoogleCalender.Droid.Resource.Attribute.actionBarItemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarPopupTheme = global::GoogleCalender.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarSize = global::GoogleCalender.Droid.Resource.Attribute.actionBarSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarSplitStyle = global::GoogleCalender.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarStyle = global::GoogleCalender.Droid.Resource.Attribute.actionBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarTabBarStyle = global::GoogleCalender.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarTabStyle = global::GoogleCalender.Droid.Resource.Attribute.actionBarTabStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarTabTextStyle = global::GoogleCalender.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarTheme = global::GoogleCalender.Droid.Resource.Attribute.actionBarTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionBarWidgetTheme = global::GoogleCalender.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.actionButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionDropDownStyle = global::GoogleCalender.Droid.Resource.Attribute.actionDropDownStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionLayout = global::GoogleCalender.Droid.Resource.Attribute.actionLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionMenuTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionMenuTextColor = global::GoogleCalender.Droid.Resource.Attribute.actionMenuTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeBackground = global::GoogleCalender.Droid.Resource.Attribute.actionModeBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeCloseButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeCloseDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeCopyDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeCutDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeFindDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModePasteDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModePopupWindowStyle = global::GoogleCalender.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeSelectAllDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeShareDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeSplitBackground = global::GoogleCalender.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeStyle = global::GoogleCalender.Droid.Resource.Attribute.actionModeStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionModeWebSearchDrawable = global::GoogleCalender.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionOverflowButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionOverflowMenuStyle = global::GoogleCalender.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionProviderClass = global::GoogleCalender.Droid.Resource.Attribute.actionProviderClass;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.actionViewClass = global::GoogleCalender.Droid.Resource.Attribute.actionViewClass;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.activityChooserViewStyle = global::GoogleCalender.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::GoogleCalender.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.alertDialogCenterButtons = global::GoogleCalender.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.alertDialogStyle = global::GoogleCalender.Droid.Resource.Attribute.alertDialogStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.alertDialogTheme = global::GoogleCalender.Droid.Resource.Attribute.alertDialogTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.allowStacking = global::GoogleCalender.Droid.Resource.Attribute.allowStacking;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.alpha = global::GoogleCalender.Droid.Resource.Attribute.alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.alphabeticModifiers = global::GoogleCalender.Droid.Resource.Attribute.alphabeticModifiers;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.arrowHeadLength = global::GoogleCalender.Droid.Resource.Attribute.arrowHeadLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.arrowShaftLength = global::GoogleCalender.Droid.Resource.Attribute.arrowShaftLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.autoCompleteTextViewStyle = global::GoogleCalender.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.autoSizeMaxTextSize = global::GoogleCalender.Droid.Resource.Attribute.autoSizeMaxTextSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.autoSizeMinTextSize = global::GoogleCalender.Droid.Resource.Attribute.autoSizeMinTextSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.autoSizePresetSizes = global::GoogleCalender.Droid.Resource.Attribute.autoSizePresetSizes;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.autoSizeStepGranularity = global::GoogleCalender.Droid.Resource.Attribute.autoSizeStepGranularity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.autoSizeTextType = global::GoogleCalender.Droid.Resource.Attribute.autoSizeTextType;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.background = global::GoogleCalender.Droid.Resource.Attribute.background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.backgroundSplit = global::GoogleCalender.Droid.Resource.Attribute.backgroundSplit;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.backgroundStacked = global::GoogleCalender.Droid.Resource.Attribute.backgroundStacked;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.backgroundTint = global::GoogleCalender.Droid.Resource.Attribute.backgroundTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.backgroundTintMode = global::GoogleCalender.Droid.Resource.Attribute.backgroundTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.barLength = global::GoogleCalender.Droid.Resource.Attribute.barLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.behavior_autoHide = global::GoogleCalender.Droid.Resource.Attribute.behavior_autoHide;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.behavior_hideable = global::GoogleCalender.Droid.Resource.Attribute.behavior_hideable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.behavior_overlapTop = global::GoogleCalender.Droid.Resource.Attribute.behavior_overlapTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.behavior_peekHeight = global::GoogleCalender.Droid.Resource.Attribute.behavior_peekHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.behavior_skipCollapsed = global::GoogleCalender.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.borderWidth = global::GoogleCalender.Droid.Resource.Attribute.borderWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.borderlessButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.bottomSheetDialogTheme = global::GoogleCalender.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.bottomSheetStyle = global::GoogleCalender.Droid.Resource.Attribute.bottomSheetStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonBarButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonBarStyle = global::GoogleCalender.Droid.Resource.Attribute.buttonBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonGravity = global::GoogleCalender.Droid.Resource.Attribute.buttonGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonPanelSideLayout = global::GoogleCalender.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonStyle = global::GoogleCalender.Droid.Resource.Attribute.buttonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonStyleSmall = global::GoogleCalender.Droid.Resource.Attribute.buttonStyleSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonTint = global::GoogleCalender.Droid.Resource.Attribute.buttonTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.buttonTintMode = global::GoogleCalender.Droid.Resource.Attribute.buttonTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.cardBackgroundColor = global::GoogleCalender.Droid.Resource.Attribute.cardBackgroundColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.cardCornerRadius = global::GoogleCalender.Droid.Resource.Attribute.cardCornerRadius;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.cardElevation = global::GoogleCalender.Droid.Resource.Attribute.cardElevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.cardMaxElevation = global::GoogleCalender.Droid.Resource.Attribute.cardMaxElevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.cardPreventCornerOverlap = global::GoogleCalender.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.cardUseCompatPadding = global::GoogleCalender.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.checkboxStyle = global::GoogleCalender.Droid.Resource.Attribute.checkboxStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.checkedTextViewStyle = global::GoogleCalender.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.closeIcon = global::GoogleCalender.Droid.Resource.Attribute.closeIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.closeItemLayout = global::GoogleCalender.Droid.Resource.Attribute.closeItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.collapseContentDescription = global::GoogleCalender.Droid.Resource.Attribute.collapseContentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.collapseIcon = global::GoogleCalender.Droid.Resource.Attribute.collapseIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.collapsedTitleGravity = global::GoogleCalender.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.collapsedTitleTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.color = global::GoogleCalender.Droid.Resource.Attribute.color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorAccent = global::GoogleCalender.Droid.Resource.Attribute.colorAccent;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorBackgroundFloating = global::GoogleCalender.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorButtonNormal = global::GoogleCalender.Droid.Resource.Attribute.colorButtonNormal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorControlActivated = global::GoogleCalender.Droid.Resource.Attribute.colorControlActivated;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorControlHighlight = global::GoogleCalender.Droid.Resource.Attribute.colorControlHighlight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorControlNormal = global::GoogleCalender.Droid.Resource.Attribute.colorControlNormal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorError = global::GoogleCalender.Droid.Resource.Attribute.colorError;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorPrimary = global::GoogleCalender.Droid.Resource.Attribute.colorPrimary;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorPrimaryDark = global::GoogleCalender.Droid.Resource.Attribute.colorPrimaryDark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.colorSwitchThumbNormal = global::GoogleCalender.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.commitIcon = global::GoogleCalender.Droid.Resource.Attribute.commitIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentDescription = global::GoogleCalender.Droid.Resource.Attribute.contentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentInsetEnd = global::GoogleCalender.Droid.Resource.Attribute.contentInsetEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentInsetEndWithActions = global::GoogleCalender.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentInsetLeft = global::GoogleCalender.Droid.Resource.Attribute.contentInsetLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentInsetRight = global::GoogleCalender.Droid.Resource.Attribute.contentInsetRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentInsetStart = global::GoogleCalender.Droid.Resource.Attribute.contentInsetStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentInsetStartWithNavigation = global::GoogleCalender.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentPadding = global::GoogleCalender.Droid.Resource.Attribute.contentPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentPaddingBottom = global::GoogleCalender.Droid.Resource.Attribute.contentPaddingBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentPaddingLeft = global::GoogleCalender.Droid.Resource.Attribute.contentPaddingLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentPaddingRight = global::GoogleCalender.Droid.Resource.Attribute.contentPaddingRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentPaddingTop = global::GoogleCalender.Droid.Resource.Attribute.contentPaddingTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.contentScrim = global::GoogleCalender.Droid.Resource.Attribute.contentScrim;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.controlBackground = global::GoogleCalender.Droid.Resource.Attribute.controlBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.counterEnabled = global::GoogleCalender.Droid.Resource.Attribute.counterEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.counterMaxLength = global::GoogleCalender.Droid.Resource.Attribute.counterMaxLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.counterOverflowTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.counterTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.counterTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.customNavigationLayout = global::GoogleCalender.Droid.Resource.Attribute.customNavigationLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.defaultQueryHint = global::GoogleCalender.Droid.Resource.Attribute.defaultQueryHint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.dialogPreferredPadding = global::GoogleCalender.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.dialogTheme = global::GoogleCalender.Droid.Resource.Attribute.dialogTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.displayOptions = global::GoogleCalender.Droid.Resource.Attribute.displayOptions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.divider = global::GoogleCalender.Droid.Resource.Attribute.divider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.dividerHorizontal = global::GoogleCalender.Droid.Resource.Attribute.dividerHorizontal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.dividerPadding = global::GoogleCalender.Droid.Resource.Attribute.dividerPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.dividerVertical = global::GoogleCalender.Droid.Resource.Attribute.dividerVertical;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.drawableSize = global::GoogleCalender.Droid.Resource.Attribute.drawableSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.drawerArrowStyle = global::GoogleCalender.Droid.Resource.Attribute.drawerArrowStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.dropDownListViewStyle = global::GoogleCalender.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::GoogleCalender.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.editTextBackground = global::GoogleCalender.Droid.Resource.Attribute.editTextBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.editTextColor = global::GoogleCalender.Droid.Resource.Attribute.editTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.editTextStyle = global::GoogleCalender.Droid.Resource.Attribute.editTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.elementState = global::GoogleCalender.Droid.Resource.Attribute.elementState;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.elevation = global::GoogleCalender.Droid.Resource.Attribute.elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.errorEnabled = global::GoogleCalender.Droid.Resource.Attribute.errorEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.errorTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.errorTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::GoogleCalender.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expanded = global::GoogleCalender.Droid.Resource.Attribute.expanded;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandedTitleGravity = global::GoogleCalender.Droid.Resource.Attribute.expandedTitleGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandedTitleMargin = global::GoogleCalender.Droid.Resource.Attribute.expandedTitleMargin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandedTitleMarginBottom = global::GoogleCalender.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandedTitleMarginEnd = global::GoogleCalender.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandedTitleMarginStart = global::GoogleCalender.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandedTitleMarginTop = global::GoogleCalender.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.expandedTitleTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.externalRouteEnabledDrawable = global::GoogleCalender.Droid.Resource.Attribute.externalRouteEnabledDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fabSize = global::GoogleCalender.Droid.Resource.Attribute.fabSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fastScrollEnabled = global::GoogleCalender.Droid.Resource.Attribute.fastScrollEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::GoogleCalender.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::GoogleCalender.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::GoogleCalender.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::GoogleCalender.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.font = global::GoogleCalender.Droid.Resource.Attribute.font;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontFamily = global::GoogleCalender.Droid.Resource.Attribute.fontFamily;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontProviderAuthority = global::GoogleCalender.Droid.Resource.Attribute.fontProviderAuthority;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontProviderCerts = global::GoogleCalender.Droid.Resource.Attribute.fontProviderCerts;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontProviderFetchStrategy = global::GoogleCalender.Droid.Resource.Attribute.fontProviderFetchStrategy;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontProviderFetchTimeout = global::GoogleCalender.Droid.Resource.Attribute.fontProviderFetchTimeout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontProviderPackage = global::GoogleCalender.Droid.Resource.Attribute.fontProviderPackage;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontProviderQuery = global::GoogleCalender.Droid.Resource.Attribute.fontProviderQuery;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontStyle = global::GoogleCalender.Droid.Resource.Attribute.fontStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.fontWeight = global::GoogleCalender.Droid.Resource.Attribute.fontWeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.foregroundInsidePadding = global::GoogleCalender.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.gapBetweenBars = global::GoogleCalender.Droid.Resource.Attribute.gapBetweenBars;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.goIcon = global::GoogleCalender.Droid.Resource.Attribute.goIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.headerLayout = global::GoogleCalender.Droid.Resource.Attribute.headerLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.height = global::GoogleCalender.Droid.Resource.Attribute.height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.hideOnContentScroll = global::GoogleCalender.Droid.Resource.Attribute.hideOnContentScroll;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.hintAnimationEnabled = global::GoogleCalender.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.hintEnabled = global::GoogleCalender.Droid.Resource.Attribute.hintEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.hintTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.hintTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.homeAsUpIndicator = global::GoogleCalender.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.homeLayout = global::GoogleCalender.Droid.Resource.Attribute.homeLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.icon = global::GoogleCalender.Droid.Resource.Attribute.icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.iconTint = global::GoogleCalender.Droid.Resource.Attribute.iconTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.iconTintMode = global::GoogleCalender.Droid.Resource.Attribute.iconTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.iconifiedByDefault = global::GoogleCalender.Droid.Resource.Attribute.iconifiedByDefault;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.imageButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.imageButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.indeterminateProgressStyle = global::GoogleCalender.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.initialActivityCount = global::GoogleCalender.Droid.Resource.Attribute.initialActivityCount;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.insetForeground = global::GoogleCalender.Droid.Resource.Attribute.insetForeground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.isLightTheme = global::GoogleCalender.Droid.Resource.Attribute.isLightTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.itemBackground = global::GoogleCalender.Droid.Resource.Attribute.itemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.itemIconTint = global::GoogleCalender.Droid.Resource.Attribute.itemIconTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.itemPadding = global::GoogleCalender.Droid.Resource.Attribute.itemPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.itemTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.itemTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.itemTextColor = global::GoogleCalender.Droid.Resource.Attribute.itemTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.keylines = global::GoogleCalender.Droid.Resource.Attribute.keylines;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout = global::GoogleCalender.Droid.Resource.Attribute.layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layoutManager = global::GoogleCalender.Droid.Resource.Attribute.layoutManager;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_anchor = global::GoogleCalender.Droid.Resource.Attribute.layout_anchor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_anchorGravity = global::GoogleCalender.Droid.Resource.Attribute.layout_anchorGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_behavior = global::GoogleCalender.Droid.Resource.Attribute.layout_behavior;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_collapseMode = global::GoogleCalender.Droid.Resource.Attribute.layout_collapseMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::GoogleCalender.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_dodgeInsetEdges = global::GoogleCalender.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_insetEdge = global::GoogleCalender.Droid.Resource.Attribute.layout_insetEdge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_keyline = global::GoogleCalender.Droid.Resource.Attribute.layout_keyline;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_scrollFlags = global::GoogleCalender.Droid.Resource.Attribute.layout_scrollFlags;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.layout_scrollInterpolator = global::GoogleCalender.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::GoogleCalender.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listDividerAlertDialog = global::GoogleCalender.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listItemLayout = global::GoogleCalender.Droid.Resource.Attribute.listItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listLayout = global::GoogleCalender.Droid.Resource.Attribute.listLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listMenuViewStyle = global::GoogleCalender.Droid.Resource.Attribute.listMenuViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listPopupWindowStyle = global::GoogleCalender.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listPreferredItemHeight = global::GoogleCalender.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listPreferredItemHeightLarge = global::GoogleCalender.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listPreferredItemHeightSmall = global::GoogleCalender.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::GoogleCalender.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.listPreferredItemPaddingRight = global::GoogleCalender.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.logo = global::GoogleCalender.Droid.Resource.Attribute.logo;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.logoDescription = global::GoogleCalender.Droid.Resource.Attribute.logoDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.maxActionInlineWidth = global::GoogleCalender.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.maxButtonHeight = global::GoogleCalender.Droid.Resource.Attribute.maxButtonHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.measureWithLargestChild = global::GoogleCalender.Droid.Resource.Attribute.measureWithLargestChild;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteAudioTrackDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteButtonTint = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteButtonTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteCloseDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteCloseDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteDefaultIconDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRoutePauseDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRoutePauseDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRoutePlayDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRoutePlayDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteStopDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteStopDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteTheme = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.mediaRouteTvIconDrawable = global::GoogleCalender.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.menu = global::GoogleCalender.Droid.Resource.Attribute.menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.multiChoiceItemLayout = global::GoogleCalender.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.navigationContentDescription = global::GoogleCalender.Droid.Resource.Attribute.navigationContentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.navigationIcon = global::GoogleCalender.Droid.Resource.Attribute.navigationIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.navigationMode = global::GoogleCalender.Droid.Resource.Attribute.navigationMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.numericModifiers = global::GoogleCalender.Droid.Resource.Attribute.numericModifiers;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.overlapAnchor = global::GoogleCalender.Droid.Resource.Attribute.overlapAnchor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.paddingBottomNoButtons = global::GoogleCalender.Droid.Resource.Attribute.paddingBottomNoButtons;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.paddingEnd = global::GoogleCalender.Droid.Resource.Attribute.paddingEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.paddingStart = global::GoogleCalender.Droid.Resource.Attribute.paddingStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.paddingTopNoTitle = global::GoogleCalender.Droid.Resource.Attribute.paddingTopNoTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.panelBackground = global::GoogleCalender.Droid.Resource.Attribute.panelBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.panelMenuListTheme = global::GoogleCalender.Droid.Resource.Attribute.panelMenuListTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.panelMenuListWidth = global::GoogleCalender.Droid.Resource.Attribute.panelMenuListWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.passwordToggleContentDescription = global::GoogleCalender.Droid.Resource.Attribute.passwordToggleContentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.passwordToggleDrawable = global::GoogleCalender.Droid.Resource.Attribute.passwordToggleDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.passwordToggleEnabled = global::GoogleCalender.Droid.Resource.Attribute.passwordToggleEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.passwordToggleTint = global::GoogleCalender.Droid.Resource.Attribute.passwordToggleTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.passwordToggleTintMode = global::GoogleCalender.Droid.Resource.Attribute.passwordToggleTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.popupMenuStyle = global::GoogleCalender.Droid.Resource.Attribute.popupMenuStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.popupTheme = global::GoogleCalender.Droid.Resource.Attribute.popupTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.popupWindowStyle = global::GoogleCalender.Droid.Resource.Attribute.popupWindowStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.preserveIconSpacing = global::GoogleCalender.Droid.Resource.Attribute.preserveIconSpacing;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.pressedTranslationZ = global::GoogleCalender.Droid.Resource.Attribute.pressedTranslationZ;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.progressBarPadding = global::GoogleCalender.Droid.Resource.Attribute.progressBarPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.progressBarStyle = global::GoogleCalender.Droid.Resource.Attribute.progressBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.queryBackground = global::GoogleCalender.Droid.Resource.Attribute.queryBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.queryHint = global::GoogleCalender.Droid.Resource.Attribute.queryHint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.radioButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.radioButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.ratingBarStyle = global::GoogleCalender.Droid.Resource.Attribute.ratingBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.ratingBarStyleIndicator = global::GoogleCalender.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.ratingBarStyleSmall = global::GoogleCalender.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.reverseLayout = global::GoogleCalender.Droid.Resource.Attribute.reverseLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.rippleColor = global::GoogleCalender.Droid.Resource.Attribute.rippleColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.scrimAnimationDuration = global::GoogleCalender.Droid.Resource.Attribute.scrimAnimationDuration;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::GoogleCalender.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.searchHintIcon = global::GoogleCalender.Droid.Resource.Attribute.searchHintIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.searchIcon = global::GoogleCalender.Droid.Resource.Attribute.searchIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.searchViewStyle = global::GoogleCalender.Droid.Resource.Attribute.searchViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.seekBarStyle = global::GoogleCalender.Droid.Resource.Attribute.seekBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.selectableItemBackground = global::GoogleCalender.Droid.Resource.Attribute.selectableItemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::GoogleCalender.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.showAsAction = global::GoogleCalender.Droid.Resource.Attribute.showAsAction;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.showDividers = global::GoogleCalender.Droid.Resource.Attribute.showDividers;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.showText = global::GoogleCalender.Droid.Resource.Attribute.showText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.showTitle = global::GoogleCalender.Droid.Resource.Attribute.showTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.singleChoiceItemLayout = global::GoogleCalender.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.spanCount = global::GoogleCalender.Droid.Resource.Attribute.spanCount;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.spinBars = global::GoogleCalender.Droid.Resource.Attribute.spinBars;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.spinnerDropDownItemStyle = global::GoogleCalender.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.spinnerStyle = global::GoogleCalender.Droid.Resource.Attribute.spinnerStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.splitTrack = global::GoogleCalender.Droid.Resource.Attribute.splitTrack;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.srcCompat = global::GoogleCalender.Droid.Resource.Attribute.srcCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.stackFromEnd = global::GoogleCalender.Droid.Resource.Attribute.stackFromEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.state_above_anchor = global::GoogleCalender.Droid.Resource.Attribute.state_above_anchor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.state_collapsed = global::GoogleCalender.Droid.Resource.Attribute.state_collapsed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.state_collapsible = global::GoogleCalender.Droid.Resource.Attribute.state_collapsible;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.statusBarBackground = global::GoogleCalender.Droid.Resource.Attribute.statusBarBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.statusBarScrim = global::GoogleCalender.Droid.Resource.Attribute.statusBarScrim;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.subMenuArrow = global::GoogleCalender.Droid.Resource.Attribute.subMenuArrow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.submitBackground = global::GoogleCalender.Droid.Resource.Attribute.submitBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.subtitle = global::GoogleCalender.Droid.Resource.Attribute.subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.subtitleTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.subtitleTextColor = global::GoogleCalender.Droid.Resource.Attribute.subtitleTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.subtitleTextStyle = global::GoogleCalender.Droid.Resource.Attribute.subtitleTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.suggestionRowLayout = global::GoogleCalender.Droid.Resource.Attribute.suggestionRowLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.switchMinWidth = global::GoogleCalender.Droid.Resource.Attribute.switchMinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.switchPadding = global::GoogleCalender.Droid.Resource.Attribute.switchPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.switchStyle = global::GoogleCalender.Droid.Resource.Attribute.switchStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.switchTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.switchTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabBackground = global::GoogleCalender.Droid.Resource.Attribute.tabBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabContentStart = global::GoogleCalender.Droid.Resource.Attribute.tabContentStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabGravity = global::GoogleCalender.Droid.Resource.Attribute.tabGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabIndicatorColor = global::GoogleCalender.Droid.Resource.Attribute.tabIndicatorColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabIndicatorHeight = global::GoogleCalender.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabMaxWidth = global::GoogleCalender.Droid.Resource.Attribute.tabMaxWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabMinWidth = global::GoogleCalender.Droid.Resource.Attribute.tabMinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabMode = global::GoogleCalender.Droid.Resource.Attribute.tabMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabPadding = global::GoogleCalender.Droid.Resource.Attribute.tabPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabPaddingBottom = global::GoogleCalender.Droid.Resource.Attribute.tabPaddingBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabPaddingEnd = global::GoogleCalender.Droid.Resource.Attribute.tabPaddingEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabPaddingStart = global::GoogleCalender.Droid.Resource.Attribute.tabPaddingStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabPaddingTop = global::GoogleCalender.Droid.Resource.Attribute.tabPaddingTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabSelectedTextColor = global::GoogleCalender.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.tabTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tabTextColor = global::GoogleCalender.Droid.Resource.Attribute.tabTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAllCaps = global::GoogleCalender.Droid.Resource.Attribute.textAllCaps;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::GoogleCalender.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearanceListItem = global::GoogleCalender.Droid.Resource.Attribute.textAppearanceListItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearanceListItemSecondary = global::GoogleCalender.Droid.Resource.Attribute.textAppearanceListItemSecondary;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearanceListItemSmall = global::GoogleCalender.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::GoogleCalender.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::GoogleCalender.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::GoogleCalender.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::GoogleCalender.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textColorAlertDialogListItem = global::GoogleCalender.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textColorError = global::GoogleCalender.Droid.Resource.Attribute.textColorError;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.textColorSearchUrl = global::GoogleCalender.Droid.Resource.Attribute.textColorSearchUrl;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.theme = global::GoogleCalender.Droid.Resource.Attribute.theme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.thickness = global::GoogleCalender.Droid.Resource.Attribute.thickness;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.thumbTextPadding = global::GoogleCalender.Droid.Resource.Attribute.thumbTextPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.thumbTint = global::GoogleCalender.Droid.Resource.Attribute.thumbTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.thumbTintMode = global::GoogleCalender.Droid.Resource.Attribute.thumbTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tickMark = global::GoogleCalender.Droid.Resource.Attribute.tickMark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tickMarkTint = global::GoogleCalender.Droid.Resource.Attribute.tickMarkTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tickMarkTintMode = global::GoogleCalender.Droid.Resource.Attribute.tickMarkTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tint = global::GoogleCalender.Droid.Resource.Attribute.tint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tintMode = global::GoogleCalender.Droid.Resource.Attribute.tintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.title = global::GoogleCalender.Droid.Resource.Attribute.title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleEnabled = global::GoogleCalender.Droid.Resource.Attribute.titleEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleMargin = global::GoogleCalender.Droid.Resource.Attribute.titleMargin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleMarginBottom = global::GoogleCalender.Droid.Resource.Attribute.titleMarginBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleMarginEnd = global::GoogleCalender.Droid.Resource.Attribute.titleMarginEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleMarginStart = global::GoogleCalender.Droid.Resource.Attribute.titleMarginStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleMarginTop = global::GoogleCalender.Droid.Resource.Attribute.titleMarginTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleMargins = global::GoogleCalender.Droid.Resource.Attribute.titleMargins;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleTextAppearance = global::GoogleCalender.Droid.Resource.Attribute.titleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleTextColor = global::GoogleCalender.Droid.Resource.Attribute.titleTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.titleTextStyle = global::GoogleCalender.Droid.Resource.Attribute.titleTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.toolbarId = global::GoogleCalender.Droid.Resource.Attribute.toolbarId;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::GoogleCalender.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.toolbarStyle = global::GoogleCalender.Droid.Resource.Attribute.toolbarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tooltipForegroundColor = global::GoogleCalender.Droid.Resource.Attribute.tooltipForegroundColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tooltipFrameBackground = global::GoogleCalender.Droid.Resource.Attribute.tooltipFrameBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.tooltipText = global::GoogleCalender.Droid.Resource.Attribute.tooltipText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.track = global::GoogleCalender.Droid.Resource.Attribute.track;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.trackTint = global::GoogleCalender.Droid.Resource.Attribute.trackTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.trackTintMode = global::GoogleCalender.Droid.Resource.Attribute.trackTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.treeDownValues = global::GoogleCalender.Droid.Resource.Attribute.treeDownValues;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.useCompatPadding = global::GoogleCalender.Droid.Resource.Attribute.useCompatPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.voiceIcon = global::GoogleCalender.Droid.Resource.Attribute.voiceIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowActionBar = global::GoogleCalender.Droid.Resource.Attribute.windowActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowActionBarOverlay = global::GoogleCalender.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowActionModeOverlay = global::GoogleCalender.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowFixedHeightMajor = global::GoogleCalender.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowFixedHeightMinor = global::GoogleCalender.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowFixedWidthMajor = global::GoogleCalender.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowFixedWidthMinor = global::GoogleCalender.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowMinWidthMajor = global::GoogleCalender.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowMinWidthMinor = global::GoogleCalender.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.windowNoTitle = global::GoogleCalender.Droid.Resource.Attribute.windowNoTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.xIndex = global::GoogleCalender.Droid.Resource.Attribute.xIndex;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Attribute.zIndex = global::GoogleCalender.Droid.Resource.Attribute.zIndex;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::GoogleCalender.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::GoogleCalender.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::GoogleCalender.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::GoogleCalender.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::GoogleCalender.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::GoogleCalender.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::GoogleCalender.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::GoogleCalender.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_btn_colored_text_material = global::GoogleCalender.Droid.Resource.Color.abc_btn_colored_text_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_color_highlight_material = global::GoogleCalender.Droid.Resource.Color.abc_color_highlight_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_hint_foreground_material_dark = global::GoogleCalender.Droid.Resource.Color.abc_hint_foreground_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_hint_foreground_material_light = global::GoogleCalender.Droid.Resource.Color.abc_hint_foreground_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_input_method_navigation_guard = global::GoogleCalender.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::GoogleCalender.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::GoogleCalender.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_primary_text_material_dark = global::GoogleCalender.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_primary_text_material_light = global::GoogleCalender.Droid.Resource.Color.abc_primary_text_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_search_url_text = global::GoogleCalender.Droid.Resource.Color.abc_search_url_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_search_url_text_normal = global::GoogleCalender.Droid.Resource.Color.abc_search_url_text_normal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_search_url_text_pressed = global::GoogleCalender.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_search_url_text_selected = global::GoogleCalender.Droid.Resource.Color.abc_search_url_text_selected;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_secondary_text_material_dark = global::GoogleCalender.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_secondary_text_material_light = global::GoogleCalender.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_tint_btn_checkable = global::GoogleCalender.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_tint_default = global::GoogleCalender.Droid.Resource.Color.abc_tint_default;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_tint_edittext = global::GoogleCalender.Droid.Resource.Color.abc_tint_edittext;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_tint_seek_thumb = global::GoogleCalender.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_tint_spinner = global::GoogleCalender.Droid.Resource.Color.abc_tint_spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.abc_tint_switch_track = global::GoogleCalender.Droid.Resource.Color.abc_tint_switch_track;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.accent_material_dark = global::GoogleCalender.Droid.Resource.Color.accent_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.accent_material_light = global::GoogleCalender.Droid.Resource.Color.accent_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.background_floating_material_dark = global::GoogleCalender.Droid.Resource.Color.background_floating_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.background_floating_material_light = global::GoogleCalender.Droid.Resource.Color.background_floating_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.background_material_dark = global::GoogleCalender.Droid.Resource.Color.background_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.background_material_light = global::GoogleCalender.Droid.Resource.Color.background_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.bright_foreground_disabled_material_dark = global::GoogleCalender.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.bright_foreground_disabled_material_light = global::GoogleCalender.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.bright_foreground_inverse_material_dark = global::GoogleCalender.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.bright_foreground_inverse_material_light = global::GoogleCalender.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.bright_foreground_material_dark = global::GoogleCalender.Droid.Resource.Color.bright_foreground_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.bright_foreground_material_light = global::GoogleCalender.Droid.Resource.Color.bright_foreground_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.button_material_dark = global::GoogleCalender.Droid.Resource.Color.button_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.button_material_light = global::GoogleCalender.Droid.Resource.Color.button_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.cardview_dark_background = global::GoogleCalender.Droid.Resource.Color.cardview_dark_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.cardview_light_background = global::GoogleCalender.Droid.Resource.Color.cardview_light_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.cardview_shadow_end_color = global::GoogleCalender.Droid.Resource.Color.cardview_shadow_end_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.cardview_shadow_start_color = global::GoogleCalender.Droid.Resource.Color.cardview_shadow_start_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_bottom_navigation_shadow_color = global::GoogleCalender.Droid.Resource.Color.design_bottom_navigation_shadow_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_error = global::GoogleCalender.Droid.Resource.Color.design_error;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_fab_shadow_end_color = global::GoogleCalender.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_fab_shadow_mid_color = global::GoogleCalender.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_fab_shadow_start_color = global::GoogleCalender.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_fab_stroke_end_inner_color = global::GoogleCalender.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_fab_stroke_end_outer_color = global::GoogleCalender.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_fab_stroke_top_inner_color = global::GoogleCalender.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_fab_stroke_top_outer_color = global::GoogleCalender.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_snackbar_background_color = global::GoogleCalender.Droid.Resource.Color.design_snackbar_background_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.design_tint_password_toggle = global::GoogleCalender.Droid.Resource.Color.design_tint_password_toggle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.dim_foreground_disabled_material_dark = global::GoogleCalender.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.dim_foreground_disabled_material_light = global::GoogleCalender.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.dim_foreground_material_dark = global::GoogleCalender.Droid.Resource.Color.dim_foreground_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.dim_foreground_material_light = global::GoogleCalender.Droid.Resource.Color.dim_foreground_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.error_color_material = global::GoogleCalender.Droid.Resource.Color.error_color_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.foreground_material_dark = global::GoogleCalender.Droid.Resource.Color.foreground_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.foreground_material_light = global::GoogleCalender.Droid.Resource.Color.foreground_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.highlighted_text_material_dark = global::GoogleCalender.Droid.Resource.Color.highlighted_text_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.highlighted_text_material_light = global::GoogleCalender.Droid.Resource.Color.highlighted_text_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_blue_grey_800 = global::GoogleCalender.Droid.Resource.Color.material_blue_grey_800;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_blue_grey_900 = global::GoogleCalender.Droid.Resource.Color.material_blue_grey_900;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_blue_grey_950 = global::GoogleCalender.Droid.Resource.Color.material_blue_grey_950;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_deep_teal_200 = global::GoogleCalender.Droid.Resource.Color.material_deep_teal_200;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_deep_teal_500 = global::GoogleCalender.Droid.Resource.Color.material_deep_teal_500;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_grey_100 = global::GoogleCalender.Droid.Resource.Color.material_grey_100;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_grey_300 = global::GoogleCalender.Droid.Resource.Color.material_grey_300;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_grey_50 = global::GoogleCalender.Droid.Resource.Color.material_grey_50;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_grey_600 = global::GoogleCalender.Droid.Resource.Color.material_grey_600;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_grey_800 = global::GoogleCalender.Droid.Resource.Color.material_grey_800;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_grey_850 = global::GoogleCalender.Droid.Resource.Color.material_grey_850;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.material_grey_900 = global::GoogleCalender.Droid.Resource.Color.material_grey_900;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.notification_action_color_filter = global::GoogleCalender.Droid.Resource.Color.notification_action_color_filter;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.notification_icon_bg_color = global::GoogleCalender.Droid.Resource.Color.notification_icon_bg_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.notification_material_background_media_default_color = global::GoogleCalender.Droid.Resource.Color.notification_material_background_media_default_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_dark_material_dark = global::GoogleCalender.Droid.Resource.Color.primary_dark_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_dark_material_light = global::GoogleCalender.Droid.Resource.Color.primary_dark_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_material_dark = global::GoogleCalender.Droid.Resource.Color.primary_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_material_light = global::GoogleCalender.Droid.Resource.Color.primary_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_text_default_material_dark = global::GoogleCalender.Droid.Resource.Color.primary_text_default_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_text_default_material_light = global::GoogleCalender.Droid.Resource.Color.primary_text_default_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_text_disabled_material_dark = global::GoogleCalender.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.primary_text_disabled_material_light = global::GoogleCalender.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.ripple_material_dark = global::GoogleCalender.Droid.Resource.Color.ripple_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.ripple_material_light = global::GoogleCalender.Droid.Resource.Color.ripple_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.secondary_text_default_material_dark = global::GoogleCalender.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.secondary_text_default_material_light = global::GoogleCalender.Droid.Resource.Color.secondary_text_default_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.secondary_text_disabled_material_dark = global::GoogleCalender.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.secondary_text_disabled_material_light = global::GoogleCalender.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.switch_thumb_disabled_material_dark = global::GoogleCalender.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.switch_thumb_disabled_material_light = global::GoogleCalender.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.switch_thumb_material_dark = global::GoogleCalender.Droid.Resource.Color.switch_thumb_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.switch_thumb_material_light = global::GoogleCalender.Droid.Resource.Color.switch_thumb_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.switch_thumb_normal_material_dark = global::GoogleCalender.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.switch_thumb_normal_material_light = global::GoogleCalender.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.tooltip_background_dark = global::GoogleCalender.Droid.Resource.Color.tooltip_background_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Color.tooltip_background_light = global::GoogleCalender.Droid.Resource.Color.tooltip_background_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_default_height_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_elevation_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_button_min_height_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_button_min_width_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::GoogleCalender.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::GoogleCalender.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::GoogleCalender.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_button_inset_vertical_material = global::GoogleCalender.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::GoogleCalender.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_button_padding_vertical_material = global::GoogleCalender.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::GoogleCalender.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_config_prefDialogWidth = global::GoogleCalender.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_control_corner_material = global::GoogleCalender.Droid.Resource.Dimension.abc_control_corner_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_control_inset_material = global::GoogleCalender.Droid.Resource.Dimension.abc_control_inset_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_control_padding_material = global::GoogleCalender.Droid.Resource.Dimension.abc_control_padding_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_min_width_major = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_min_width_minor = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_padding_material = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_padding_top_material = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dialog_title_divider_material = global::GoogleCalender.Droid.Resource.Dimension.abc_dialog_title_divider_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::GoogleCalender.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::GoogleCalender.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::GoogleCalender.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::GoogleCalender.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::GoogleCalender.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::GoogleCalender.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::GoogleCalender.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::GoogleCalender.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_floating_window_z = global::GoogleCalender.Droid.Resource.Dimension.abc_floating_window_z;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::GoogleCalender.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_panel_menu_list_width = global::GoogleCalender.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_progress_bar_height_material = global::GoogleCalender.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_search_view_preferred_height = global::GoogleCalender.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_search_view_preferred_width = global::GoogleCalender.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::GoogleCalender.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::GoogleCalender.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::GoogleCalender.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_switch_padding = global::GoogleCalender.Droid.Resource.Dimension.abc_switch_padding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_body_1_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_body_2_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_button_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_caption_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_display_1_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_display_2_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_display_3_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_display_4_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_headline_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_large_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_medium_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_menu_header_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_menu_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_small_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_subhead_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_title_material = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::GoogleCalender.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.cardview_compat_inset_shadow = global::GoogleCalender.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.cardview_default_elevation = global::GoogleCalender.Droid.Resource.Dimension.cardview_default_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.cardview_default_radius = global::GoogleCalender.Droid.Resource.Dimension.cardview_default_radius;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::GoogleCalender.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.compat_button_inset_vertical_material = global::GoogleCalender.Droid.Resource.Dimension.compat_button_inset_vertical_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::GoogleCalender.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.compat_button_padding_vertical_material = global::GoogleCalender.Droid.Resource.Dimension.compat_button_padding_vertical_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.compat_control_corner_material = global::GoogleCalender.Droid.Resource.Dimension.compat_control_corner_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_appbar_elevation = global::GoogleCalender.Droid.Resource.Dimension.design_appbar_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_elevation = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_height = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_margin = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_margin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_navigation_text_size = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_navigation_text_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::GoogleCalender.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_fab_border_width = global::GoogleCalender.Droid.Resource.Dimension.design_fab_border_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_fab_elevation = global::GoogleCalender.Droid.Resource.Dimension.design_fab_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_fab_image_size = global::GoogleCalender.Droid.Resource.Dimension.design_fab_image_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_fab_size_mini = global::GoogleCalender.Droid.Resource.Dimension.design_fab_size_mini;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_fab_size_normal = global::GoogleCalender.Droid.Resource.Dimension.design_fab_size_normal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_fab_translation_z_pressed = global::GoogleCalender.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_navigation_elevation = global::GoogleCalender.Droid.Resource.Dimension.design_navigation_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_navigation_icon_padding = global::GoogleCalender.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_navigation_icon_size = global::GoogleCalender.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_navigation_max_width = global::GoogleCalender.Droid.Resource.Dimension.design_navigation_max_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_navigation_padding_bottom = global::GoogleCalender.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::GoogleCalender.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_elevation = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_max_width = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_min_width = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_padding_vertical = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_snackbar_text_size = global::GoogleCalender.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_tab_max_width = global::GoogleCalender.Droid.Resource.Dimension.design_tab_max_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_tab_scrollable_min_width = global::GoogleCalender.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_tab_text_size = global::GoogleCalender.Droid.Resource.Dimension.design_tab_text_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.design_tab_text_size_2line = global::GoogleCalender.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.disabled_alpha_material_dark = global::GoogleCalender.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.disabled_alpha_material_light = global::GoogleCalender.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.fastscroll_default_thickness = global::GoogleCalender.Droid.Resource.Dimension.fastscroll_default_thickness;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.fastscroll_margin = global::GoogleCalender.Droid.Resource.Dimension.fastscroll_margin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.fastscroll_minimum_range = global::GoogleCalender.Droid.Resource.Dimension.fastscroll_minimum_range;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.highlight_alpha_material_colored = global::GoogleCalender.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.highlight_alpha_material_dark = global::GoogleCalender.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.highlight_alpha_material_light = global::GoogleCalender.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.hint_alpha_material_dark = global::GoogleCalender.Droid.Resource.Dimension.hint_alpha_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.hint_alpha_material_light = global::GoogleCalender.Droid.Resource.Dimension.hint_alpha_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::GoogleCalender.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::GoogleCalender.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::GoogleCalender.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::GoogleCalender.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::GoogleCalender.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.mr_controller_volume_group_list_item_height = global::GoogleCalender.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::GoogleCalender.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.mr_controller_volume_group_list_max_height = global::GoogleCalender.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::GoogleCalender.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.mr_dialog_fixed_width_major = global::GoogleCalender.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.mr_dialog_fixed_width_minor = global::GoogleCalender.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_action_icon_size = global::GoogleCalender.Droid.Resource.Dimension.notification_action_icon_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_action_text_size = global::GoogleCalender.Droid.Resource.Dimension.notification_action_text_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_big_circle_margin = global::GoogleCalender.Droid.Resource.Dimension.notification_big_circle_margin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_content_margin_start = global::GoogleCalender.Droid.Resource.Dimension.notification_content_margin_start;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_large_icon_height = global::GoogleCalender.Droid.Resource.Dimension.notification_large_icon_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_large_icon_width = global::GoogleCalender.Droid.Resource.Dimension.notification_large_icon_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_main_column_padding_top = global::GoogleCalender.Droid.Resource.Dimension.notification_main_column_padding_top;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_media_narrow_margin = global::GoogleCalender.Droid.Resource.Dimension.notification_media_narrow_margin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_right_icon_size = global::GoogleCalender.Droid.Resource.Dimension.notification_right_icon_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_right_side_padding_top = global::GoogleCalender.Droid.Resource.Dimension.notification_right_side_padding_top;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_small_icon_background_padding = global::GoogleCalender.Droid.Resource.Dimension.notification_small_icon_background_padding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_small_icon_size_as_large = global::GoogleCalender.Droid.Resource.Dimension.notification_small_icon_size_as_large;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_subtext_size = global::GoogleCalender.Droid.Resource.Dimension.notification_subtext_size;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_top_pad = global::GoogleCalender.Droid.Resource.Dimension.notification_top_pad;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.notification_top_pad_large_text = global::GoogleCalender.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_corner_radius = global::GoogleCalender.Droid.Resource.Dimension.tooltip_corner_radius;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_horizontal_padding = global::GoogleCalender.Droid.Resource.Dimension.tooltip_horizontal_padding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_margin = global::GoogleCalender.Droid.Resource.Dimension.tooltip_margin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::GoogleCalender.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::GoogleCalender.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_vertical_padding = global::GoogleCalender.Droid.Resource.Dimension.tooltip_vertical_padding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::GoogleCalender.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Dimension.tooltip_y_offset_touch = global::GoogleCalender.Droid.Resource.Dimension.tooltip_y_offset_touch;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_action_bar_item_background_material = global::GoogleCalender.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_borderless_material = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_check_material = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_check_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_colored_material = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_radio_material = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::GoogleCalender.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_cab_background_internal_bg = global::GoogleCalender.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_cab_background_top_material = global::GoogleCalender.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_control_background_material = global::GoogleCalender.Droid.Resource.Drawable.abc_control_background_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_dialog_material_background = global::GoogleCalender.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_edit_text_material = global::GoogleCalender.Droid.Resource.Drawable.abc_edit_text_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_ab_back_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_clear_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_go_search_api_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_search_api_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_star_black_16dp = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_star_black_36dp = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_star_black_48dp = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_star_black_48dp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_item_background_holo_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_item_background_holo_light = global::GoogleCalender.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_focused_holo = global::GoogleCalender.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_longpressed_holo = global::GoogleCalender.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_pressed_holo_light = global::GoogleCalender.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::GoogleCalender.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::GoogleCalender.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_selector_holo_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_list_selector_holo_light = global::GoogleCalender.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::GoogleCalender.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::GoogleCalender.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ratingbar_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_ratingbar_small_material = global::GoogleCalender.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::GoogleCalender.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::GoogleCalender.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_seekbar_thumb_material = global::GoogleCalender.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::GoogleCalender.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_seekbar_track_material = global::GoogleCalender.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::GoogleCalender.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_switch_thumb_material = global::GoogleCalender.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_tab_indicator_material = global::GoogleCalender.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_text_cursor_material = global::GoogleCalender.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::GoogleCalender.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::GoogleCalender.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::GoogleCalender.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::GoogleCalender.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::GoogleCalender.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_textfield_search_material = global::GoogleCalender.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.abc_vector_test = global::GoogleCalender.Droid.Resource.Drawable.abc_vector_test;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.avd_hide_password = global::GoogleCalender.Droid.Resource.Drawable.avd_hide_password;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.avd_show_password = global::GoogleCalender.Droid.Resource.Drawable.avd_show_password;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.changed_occurrence = global::GoogleCalender.Droid.Resource.Drawable.changed_occurrence;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.clock_icon = global::GoogleCalender.Droid.Resource.Drawable.clock_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.design_bottom_navigation_item_background = global::GoogleCalender.Droid.Resource.Drawable.design_bottom_navigation_item_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.design_fab_background = global::GoogleCalender.Droid.Resource.Drawable.design_fab_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.design_ic_visibility = global::GoogleCalender.Droid.Resource.Drawable.design_ic_visibility;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.design_ic_visibility_off = global::GoogleCalender.Droid.Resource.Drawable.design_ic_visibility_off;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.design_password_eye = global::GoogleCalender.Droid.Resource.Drawable.design_password_eye;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.design_snackbar_background = global::GoogleCalender.Droid.Resource.Drawable.design_snackbar_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_audiotrack_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_audiotrack_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_audiotrack_light = global::GoogleCalender.Droid.Resource.Drawable.ic_audiotrack_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_dialog_close_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_dialog_close_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_dialog_close_light = global::GoogleCalender.Droid.Resource.Drawable.ic_dialog_close_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_done = global::GoogleCalender.Droid.Resource.Drawable.ic_done;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_00 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_00;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_01 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_01;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_02 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_02;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_03 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_03;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_04 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_04;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_05 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_05;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_06 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_06;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_07 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_07;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_08 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_08;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_09 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_09;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_10 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_10;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_11 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_11;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_12 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_12;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_13 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_13;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_14 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_14;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_collapse_15 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_collapse_15;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_00 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_00;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_01 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_01;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_02 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_02;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_03 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_03;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_04 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_04;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_05 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_05;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_06 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_06;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_07 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_07;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_08 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_08;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_09 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_09;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_10 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_10;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_11 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_11;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_12 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_12;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_13 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_13;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_14 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_14;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_group_expand_15 = global::GoogleCalender.Droid.Resource.Drawable.ic_group_expand_15;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_media_pause_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_media_pause_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_media_pause_light = global::GoogleCalender.Droid.Resource.Drawable.ic_media_pause_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_media_play_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_media_play_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_media_play_light = global::GoogleCalender.Droid.Resource.Drawable.ic_media_play_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_media_stop_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_media_stop_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_media_stop_light = global::GoogleCalender.Droid.Resource.Drawable.ic_media_stop_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_00_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_00_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_01_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_01_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_02_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_02_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_03_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_03_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_04_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_04_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_05_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_05_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_06_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_06_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_07_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_07_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_08_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_08_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_09_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_09_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_10_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_10_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_11_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_11_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_12_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_12_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_13_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_13_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_14_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_14_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_15_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_15_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_16_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_16_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_17_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_17_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_18_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_18_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_19_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_19_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_20_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_20_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_21_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_21_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_22_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_22_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_23_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_23_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_23_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_23_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_24_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_24_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_24_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_24_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_25_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_25_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_25_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_25_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_26_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_26_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_26_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_26_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_27_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_27_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_27_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_27_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_28_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_28_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_28_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_28_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_29_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_29_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_29_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_29_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_30_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_30_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connected_30_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connected_30_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_00_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_00_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_01_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_01_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_02_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_02_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_03_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_03_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_04_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_04_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_05_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_05_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_06_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_06_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_07_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_07_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_08_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_08_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_09_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_09_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_10_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_10_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_11_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_11_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_12_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_12_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_13_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_13_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_14_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_14_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_15_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_15_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_16_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_16_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_17_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_17_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_18_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_18_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_19_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_19_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_20_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_20_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_21_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_21_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_22_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_22_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_23_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_23_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_23_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_23_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_24_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_24_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_24_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_24_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_25_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_25_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_25_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_25_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_26_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_26_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_26_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_26_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_27_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_27_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_27_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_27_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_28_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_28_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_28_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_28_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_29_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_29_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_29_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_29_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_30_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_30_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_connecting_30_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_connecting_30_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_disabled_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_disabled_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_disabled_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_disconnected_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_disconnected_light = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_mr_button_grey = global::GoogleCalender.Droid.Resource.Drawable.ic_mr_button_grey;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_vol_type_speaker_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_vol_type_speaker_group_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_vol_type_speaker_group_light = global::GoogleCalender.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_vol_type_speaker_light = global::GoogleCalender.Droid.Resource.Drawable.ic_vol_type_speaker_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_vol_type_tv_dark = global::GoogleCalender.Droid.Resource.Drawable.ic_vol_type_tv_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.ic_vol_type_tv_light = global::GoogleCalender.Droid.Resource.Drawable.ic_vol_type_tv_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_button_connected_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_button_connected_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_button_connected_light = global::GoogleCalender.Droid.Resource.Drawable.mr_button_connected_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_button_connecting_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_button_connecting_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_button_connecting_light = global::GoogleCalender.Droid.Resource.Drawable.mr_button_connecting_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_button_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_button_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_button_light = global::GoogleCalender.Droid.Resource.Drawable.mr_button_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_dialog_close_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_dialog_close_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_dialog_close_light = global::GoogleCalender.Droid.Resource.Drawable.mr_dialog_close_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_dialog_material_background_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_dialog_material_background_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_dialog_material_background_light = global::GoogleCalender.Droid.Resource.Drawable.mr_dialog_material_background_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_group_collapse = global::GoogleCalender.Droid.Resource.Drawable.mr_group_collapse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_group_expand = global::GoogleCalender.Droid.Resource.Drawable.mr_group_expand;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_media_pause_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_media_pause_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_media_pause_light = global::GoogleCalender.Droid.Resource.Drawable.mr_media_pause_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_media_play_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_media_play_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_media_play_light = global::GoogleCalender.Droid.Resource.Drawable.mr_media_play_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_media_stop_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_media_stop_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_media_stop_light = global::GoogleCalender.Droid.Resource.Drawable.mr_media_stop_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_vol_type_audiotrack_dark = global::GoogleCalender.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.mr_vol_type_audiotrack_light = global::GoogleCalender.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.navigation_empty_icon = global::GoogleCalender.Droid.Resource.Drawable.navigation_empty_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_action_background = global::GoogleCalender.Droid.Resource.Drawable.notification_action_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_bg = global::GoogleCalender.Droid.Resource.Drawable.notification_bg;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_bg_low = global::GoogleCalender.Droid.Resource.Drawable.notification_bg_low;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_bg_low_normal = global::GoogleCalender.Droid.Resource.Drawable.notification_bg_low_normal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_bg_low_pressed = global::GoogleCalender.Droid.Resource.Drawable.notification_bg_low_pressed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_bg_normal = global::GoogleCalender.Droid.Resource.Drawable.notification_bg_normal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_bg_normal_pressed = global::GoogleCalender.Droid.Resource.Drawable.notification_bg_normal_pressed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_icon_background = global::GoogleCalender.Droid.Resource.Drawable.notification_icon_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_template_icon_bg = global::GoogleCalender.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_template_icon_low_bg = global::GoogleCalender.Droid.Resource.Drawable.notification_template_icon_low_bg;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notification_tile_bg = global::GoogleCalender.Droid.Resource.Drawable.notification_tile_bg;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::GoogleCalender.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.occurrence = global::GoogleCalender.Droid.Resource.Drawable.occurrence;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.reminder = global::GoogleCalender.Droid.Resource.Drawable.reminder;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.repeat_icon = global::GoogleCalender.Droid.Resource.Drawable.repeat_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.subject_icon = global::GoogleCalender.Droid.Resource.Drawable.subject_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.tooltip_frame_dark = global::GoogleCalender.Droid.Resource.Drawable.tooltip_frame_dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Drawable.tooltip_frame_light = global::GoogleCalender.Droid.Resource.Drawable.tooltip_frame_light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action0 = global::GoogleCalender.Droid.Resource.Id.action0;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_bar = global::GoogleCalender.Droid.Resource.Id.action_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_bar_activity_content = global::GoogleCalender.Droid.Resource.Id.action_bar_activity_content;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_bar_container = global::GoogleCalender.Droid.Resource.Id.action_bar_container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_bar_root = global::GoogleCalender.Droid.Resource.Id.action_bar_root;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_bar_spinner = global::GoogleCalender.Droid.Resource.Id.action_bar_spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_bar_subtitle = global::GoogleCalender.Droid.Resource.Id.action_bar_subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_bar_title = global::GoogleCalender.Droid.Resource.Id.action_bar_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_container = global::GoogleCalender.Droid.Resource.Id.action_container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_context_bar = global::GoogleCalender.Droid.Resource.Id.action_context_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_divider = global::GoogleCalender.Droid.Resource.Id.action_divider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_image = global::GoogleCalender.Droid.Resource.Id.action_image;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_menu_divider = global::GoogleCalender.Droid.Resource.Id.action_menu_divider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_menu_presenter = global::GoogleCalender.Droid.Resource.Id.action_menu_presenter;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_mode_bar = global::GoogleCalender.Droid.Resource.Id.action_mode_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_mode_bar_stub = global::GoogleCalender.Droid.Resource.Id.action_mode_bar_stub;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_mode_close_button = global::GoogleCalender.Droid.Resource.Id.action_mode_close_button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.action_text = global::GoogleCalender.Droid.Resource.Id.action_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.actions = global::GoogleCalender.Droid.Resource.Id.actions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.activity_chooser_view_content = global::GoogleCalender.Droid.Resource.Id.activity_chooser_view_content;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.add = global::GoogleCalender.Droid.Resource.Id.add;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.alertTitle = global::GoogleCalender.Droid.Resource.Id.alertTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.async = global::GoogleCalender.Droid.Resource.Id.async;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.auto = global::GoogleCalender.Droid.Resource.Id.auto;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.blocking = global::GoogleCalender.Droid.Resource.Id.blocking;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.bottom = global::GoogleCalender.Droid.Resource.Id.bottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.buttonPanel = global::GoogleCalender.Droid.Resource.Id.buttonPanel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.cancel_action = global::GoogleCalender.Droid.Resource.Id.cancel_action;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.center = global::GoogleCalender.Droid.Resource.Id.center;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.checkbox = global::GoogleCalender.Droid.Resource.Id.checkbox;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.child = global::GoogleCalender.Droid.Resource.Id.child;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.chronometer = global::GoogleCalender.Droid.Resource.Id.chronometer;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.container = global::GoogleCalender.Droid.Resource.Id.container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.contentPanel = global::GoogleCalender.Droid.Resource.Id.contentPanel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.coordinator = global::GoogleCalender.Droid.Resource.Id.coordinator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.custom = global::GoogleCalender.Droid.Resource.Id.custom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.customPanel = global::GoogleCalender.Droid.Resource.Id.customPanel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.decor_content_parent = global::GoogleCalender.Droid.Resource.Id.decor_content_parent;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.default_activity_button = global::GoogleCalender.Droid.Resource.Id.default_activity_button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.design_bottom_sheet = global::GoogleCalender.Droid.Resource.Id.design_bottom_sheet;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.design_menu_item_action_area = global::GoogleCalender.Droid.Resource.Id.design_menu_item_action_area;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.design_menu_item_action_area_stub = global::GoogleCalender.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.design_menu_item_text = global::GoogleCalender.Droid.Resource.Id.design_menu_item_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.design_navigation_view = global::GoogleCalender.Droid.Resource.Id.design_navigation_view;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.edit_query = global::GoogleCalender.Droid.Resource.Id.edit_query;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.end = global::GoogleCalender.Droid.Resource.Id.end;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.end_padder = global::GoogleCalender.Droid.Resource.Id.end_padder;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.expand_activities_button = global::GoogleCalender.Droid.Resource.Id.expand_activities_button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.expanded_menu = global::GoogleCalender.Droid.Resource.Id.expanded_menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.fill = global::GoogleCalender.Droid.Resource.Id.fill;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.@fixed = global::GoogleCalender.Droid.Resource.Id.@fixed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.forever = global::GoogleCalender.Droid.Resource.Id.forever;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.ghost_view = global::GoogleCalender.Droid.Resource.Id.ghost_view;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.home = global::GoogleCalender.Droid.Resource.Id.home;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.icon = global::GoogleCalender.Droid.Resource.Id.icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.icon_group = global::GoogleCalender.Droid.Resource.Id.icon_group;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.image = global::GoogleCalender.Droid.Resource.Id.image;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.info = global::GoogleCalender.Droid.Resource.Id.info;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.italic = global::GoogleCalender.Droid.Resource.Id.italic;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.item_touch_helper_previous_elevation = global::GoogleCalender.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.largeLabel = global::GoogleCalender.Droid.Resource.Id.largeLabel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.left = global::GoogleCalender.Droid.Resource.Id.left;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.line1 = global::GoogleCalender.Droid.Resource.Id.line1;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.line3 = global::GoogleCalender.Droid.Resource.Id.line3;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.listMode = global::GoogleCalender.Droid.Resource.Id.listMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.list_item = global::GoogleCalender.Droid.Resource.Id.list_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.logicalIndex = global::GoogleCalender.Droid.Resource.Id.logicalIndex;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.masked = global::GoogleCalender.Droid.Resource.Id.masked;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.media_actions = global::GoogleCalender.Droid.Resource.Id.media_actions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.message = global::GoogleCalender.Droid.Resource.Id.message;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mini = global::GoogleCalender.Droid.Resource.Id.mini;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_art = global::GoogleCalender.Droid.Resource.Id.mr_art;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_chooser_list = global::GoogleCalender.Droid.Resource.Id.mr_chooser_list;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_chooser_route_desc = global::GoogleCalender.Droid.Resource.Id.mr_chooser_route_desc;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_chooser_route_icon = global::GoogleCalender.Droid.Resource.Id.mr_chooser_route_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_chooser_route_name = global::GoogleCalender.Droid.Resource.Id.mr_chooser_route_name;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_chooser_title = global::GoogleCalender.Droid.Resource.Id.mr_chooser_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_close = global::GoogleCalender.Droid.Resource.Id.mr_close;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_control_divider = global::GoogleCalender.Droid.Resource.Id.mr_control_divider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_control_playback_ctrl = global::GoogleCalender.Droid.Resource.Id.mr_control_playback_ctrl;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_control_subtitle = global::GoogleCalender.Droid.Resource.Id.mr_control_subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_control_title = global::GoogleCalender.Droid.Resource.Id.mr_control_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_control_title_container = global::GoogleCalender.Droid.Resource.Id.mr_control_title_container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_custom_control = global::GoogleCalender.Droid.Resource.Id.mr_custom_control;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_default_control = global::GoogleCalender.Droid.Resource.Id.mr_default_control;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_dialog_area = global::GoogleCalender.Droid.Resource.Id.mr_dialog_area;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_expandable_area = global::GoogleCalender.Droid.Resource.Id.mr_expandable_area;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_group_expand_collapse = global::GoogleCalender.Droid.Resource.Id.mr_group_expand_collapse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_media_main_control = global::GoogleCalender.Droid.Resource.Id.mr_media_main_control;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_name = global::GoogleCalender.Droid.Resource.Id.mr_name;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_playback_control = global::GoogleCalender.Droid.Resource.Id.mr_playback_control;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_title_bar = global::GoogleCalender.Droid.Resource.Id.mr_title_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_volume_control = global::GoogleCalender.Droid.Resource.Id.mr_volume_control;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_volume_group_list = global::GoogleCalender.Droid.Resource.Id.mr_volume_group_list;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_volume_item_icon = global::GoogleCalender.Droid.Resource.Id.mr_volume_item_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.mr_volume_slider = global::GoogleCalender.Droid.Resource.Id.mr_volume_slider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.multiply = global::GoogleCalender.Droid.Resource.Id.multiply;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.navigation_header_container = global::GoogleCalender.Droid.Resource.Id.navigation_header_container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.none = global::GoogleCalender.Droid.Resource.Id.none;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.normal = global::GoogleCalender.Droid.Resource.Id.normal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.notification_background = global::GoogleCalender.Droid.Resource.Id.notification_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.notification_main_column = global::GoogleCalender.Droid.Resource.Id.notification_main_column;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.notification_main_column_container = global::GoogleCalender.Droid.Resource.Id.notification_main_column_container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.parallax = global::GoogleCalender.Droid.Resource.Id.parallax;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.parentPanel = global::GoogleCalender.Droid.Resource.Id.parentPanel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.parent_matrix = global::GoogleCalender.Droid.Resource.Id.parent_matrix;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.pin = global::GoogleCalender.Droid.Resource.Id.pin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.position = global::GoogleCalender.Droid.Resource.Id.position;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.progress_circular = global::GoogleCalender.Droid.Resource.Id.progress_circular;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.progress_horizontal = global::GoogleCalender.Droid.Resource.Id.progress_horizontal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.radio = global::GoogleCalender.Droid.Resource.Id.radio;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.right = global::GoogleCalender.Droid.Resource.Id.right;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.right_icon = global::GoogleCalender.Droid.Resource.Id.right_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.right_side = global::GoogleCalender.Droid.Resource.Id.right_side;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.root = global::GoogleCalender.Droid.Resource.Id.root;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.save_image_matrix = global::GoogleCalender.Droid.Resource.Id.save_image_matrix;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.save_non_transition_alpha = global::GoogleCalender.Droid.Resource.Id.save_non_transition_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.save_scale_type = global::GoogleCalender.Droid.Resource.Id.save_scale_type;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.screen = global::GoogleCalender.Droid.Resource.Id.screen;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.scrollIndicatorDown = global::GoogleCalender.Droid.Resource.Id.scrollIndicatorDown;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.scrollIndicatorUp = global::GoogleCalender.Droid.Resource.Id.scrollIndicatorUp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.scrollView = global::GoogleCalender.Droid.Resource.Id.scrollView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.scrollable = global::GoogleCalender.Droid.Resource.Id.scrollable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_badge = global::GoogleCalender.Droid.Resource.Id.search_badge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_bar = global::GoogleCalender.Droid.Resource.Id.search_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_button = global::GoogleCalender.Droid.Resource.Id.search_button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_close_btn = global::GoogleCalender.Droid.Resource.Id.search_close_btn;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_edit_frame = global::GoogleCalender.Droid.Resource.Id.search_edit_frame;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_go_btn = global::GoogleCalender.Droid.Resource.Id.search_go_btn;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_mag_icon = global::GoogleCalender.Droid.Resource.Id.search_mag_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_plate = global::GoogleCalender.Droid.Resource.Id.search_plate;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_src_text = global::GoogleCalender.Droid.Resource.Id.search_src_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.search_voice_btn = global::GoogleCalender.Droid.Resource.Id.search_voice_btn;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.select_dialog_listview = global::GoogleCalender.Droid.Resource.Id.select_dialog_listview;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.shortcut = global::GoogleCalender.Droid.Resource.Id.shortcut;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.smallLabel = global::GoogleCalender.Droid.Resource.Id.smallLabel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.snackbar_action = global::GoogleCalender.Droid.Resource.Id.snackbar_action;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.snackbar_text = global::GoogleCalender.Droid.Resource.Id.snackbar_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.spacer = global::GoogleCalender.Droid.Resource.Id.spacer;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.split_action_bar = global::GoogleCalender.Droid.Resource.Id.split_action_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.src_atop = global::GoogleCalender.Droid.Resource.Id.src_atop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.src_in = global::GoogleCalender.Droid.Resource.Id.src_in;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.src_over = global::GoogleCalender.Droid.Resource.Id.src_over;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.start = global::GoogleCalender.Droid.Resource.Id.start;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.status_bar_latest_event_content = global::GoogleCalender.Droid.Resource.Id.status_bar_latest_event_content;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.submenuarrow = global::GoogleCalender.Droid.Resource.Id.submenuarrow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.submit_area = global::GoogleCalender.Droid.Resource.Id.submit_area;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.tabMode = global::GoogleCalender.Droid.Resource.Id.tabMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.tag_transition_group = global::GoogleCalender.Droid.Resource.Id.tag_transition_group;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.text = global::GoogleCalender.Droid.Resource.Id.text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.text2 = global::GoogleCalender.Droid.Resource.Id.text2;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.textSpacerNoButtons = global::GoogleCalender.Droid.Resource.Id.textSpacerNoButtons;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.textSpacerNoTitle = global::GoogleCalender.Droid.Resource.Id.textSpacerNoTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.text_input_password_toggle = global::GoogleCalender.Droid.Resource.Id.text_input_password_toggle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.textinput_counter = global::GoogleCalender.Droid.Resource.Id.textinput_counter;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.textinput_error = global::GoogleCalender.Droid.Resource.Id.textinput_error;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.time = global::GoogleCalender.Droid.Resource.Id.time;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.title = global::GoogleCalender.Droid.Resource.Id.title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.titleDividerNoCustom = global::GoogleCalender.Droid.Resource.Id.titleDividerNoCustom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.title_template = global::GoogleCalender.Droid.Resource.Id.title_template;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.top = global::GoogleCalender.Droid.Resource.Id.top;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.topPanel = global::GoogleCalender.Droid.Resource.Id.topPanel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.touch_outside = global::GoogleCalender.Droid.Resource.Id.touch_outside;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.transition_current_scene = global::GoogleCalender.Droid.Resource.Id.transition_current_scene;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.transition_layout_save = global::GoogleCalender.Droid.Resource.Id.transition_layout_save;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.transition_position = global::GoogleCalender.Droid.Resource.Id.transition_position;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.transition_scene_layoutid_cache = global::GoogleCalender.Droid.Resource.Id.transition_scene_layoutid_cache;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.transition_transform = global::GoogleCalender.Droid.Resource.Id.transition_transform;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.uniform = global::GoogleCalender.Droid.Resource.Id.uniform;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.up = global::GoogleCalender.Droid.Resource.Id.up;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.view_offset_helper = global::GoogleCalender.Droid.Resource.Id.view_offset_helper;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.visible = global::GoogleCalender.Droid.Resource.Id.visible;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.volume_item_container = global::GoogleCalender.Droid.Resource.Id.volume_item_container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Id.wrap_content = global::GoogleCalender.Droid.Resource.Id.wrap_content;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.abc_config_activityDefaultDur = global::GoogleCalender.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.abc_config_activityShortDur = global::GoogleCalender.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.app_bar_elevation_anim_duration = global::GoogleCalender.Droid.Resource.Integer.app_bar_elevation_anim_duration;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.bottom_sheet_slide_duration = global::GoogleCalender.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.cancel_button_image_alpha = global::GoogleCalender.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.config_tooltipAnimTime = global::GoogleCalender.Droid.Resource.Integer.config_tooltipAnimTime;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.design_snackbar_text_max_lines = global::GoogleCalender.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.hide_password_duration = global::GoogleCalender.Droid.Resource.Integer.hide_password_duration;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::GoogleCalender.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::GoogleCalender.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::GoogleCalender.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.show_password_duration = global::GoogleCalender.Droid.Resource.Integer.show_password_duration;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Integer.status_bar_notification_info_maxnum = global::GoogleCalender.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Interpolator.mr_fast_out_slow_in = global::GoogleCalender.Droid.Resource.Interpolator.mr_fast_out_slow_in;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Interpolator.mr_linear_out_slow_in = global::GoogleCalender.Droid.Resource.Interpolator.mr_linear_out_slow_in;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_action_bar_title_item = global::GoogleCalender.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_action_bar_up_container = global::GoogleCalender.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_action_menu_item_layout = global::GoogleCalender.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_action_menu_layout = global::GoogleCalender.Droid.Resource.Layout.abc_action_menu_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_action_mode_bar = global::GoogleCalender.Droid.Resource.Layout.abc_action_mode_bar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_action_mode_close_item_material = global::GoogleCalender.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_activity_chooser_view = global::GoogleCalender.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::GoogleCalender.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::GoogleCalender.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_alert_dialog_material = global::GoogleCalender.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_alert_dialog_title_material = global::GoogleCalender.Droid.Resource.Layout.abc_alert_dialog_title_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_dialog_title_material = global::GoogleCalender.Droid.Resource.Layout.abc_dialog_title_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_expanded_menu_layout = global::GoogleCalender.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_list_menu_item_checkbox = global::GoogleCalender.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_list_menu_item_icon = global::GoogleCalender.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_list_menu_item_layout = global::GoogleCalender.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_list_menu_item_radio = global::GoogleCalender.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::GoogleCalender.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_popup_menu_item_layout = global::GoogleCalender.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_screen_content_include = global::GoogleCalender.Droid.Resource.Layout.abc_screen_content_include;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_screen_simple = global::GoogleCalender.Droid.Resource.Layout.abc_screen_simple;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::GoogleCalender.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_screen_toolbar = global::GoogleCalender.Droid.Resource.Layout.abc_screen_toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::GoogleCalender.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_search_view = global::GoogleCalender.Droid.Resource.Layout.abc_search_view;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.abc_select_dialog_material = global::GoogleCalender.Droid.Resource.Layout.abc_select_dialog_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.BottomTabLayout = global::GoogleCalender.Droid.Resource.Layout.BottomTabLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.dayview_layout = global::GoogleCalender.Droid.Resource.Layout.dayview_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_bottom_navigation_item = global::GoogleCalender.Droid.Resource.Layout.design_bottom_navigation_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_bottom_sheet_dialog = global::GoogleCalender.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_layout_snackbar = global::GoogleCalender.Droid.Resource.Layout.design_layout_snackbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_layout_snackbar_include = global::GoogleCalender.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_layout_tab_icon = global::GoogleCalender.Droid.Resource.Layout.design_layout_tab_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_layout_tab_text = global::GoogleCalender.Droid.Resource.Layout.design_layout_tab_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_menu_item_action_area = global::GoogleCalender.Droid.Resource.Layout.design_menu_item_action_area;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_navigation_item = global::GoogleCalender.Droid.Resource.Layout.design_navigation_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_navigation_item_header = global::GoogleCalender.Droid.Resource.Layout.design_navigation_item_header;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_navigation_item_separator = global::GoogleCalender.Droid.Resource.Layout.design_navigation_item_separator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_navigation_item_subheader = global::GoogleCalender.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_navigation_menu = global::GoogleCalender.Droid.Resource.Layout.design_navigation_menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_navigation_menu_item = global::GoogleCalender.Droid.Resource.Layout.design_navigation_menu_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.design_text_input_password_icon = global::GoogleCalender.Droid.Resource.Layout.design_text_input_password_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.FlyoutContent = global::GoogleCalender.Droid.Resource.Layout.FlyoutContent;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.mr_chooser_dialog = global::GoogleCalender.Droid.Resource.Layout.mr_chooser_dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.mr_chooser_list_item = global::GoogleCalender.Droid.Resource.Layout.mr_chooser_list_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.mr_controller_material_dialog_b = global::GoogleCalender.Droid.Resource.Layout.mr_controller_material_dialog_b;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.mr_controller_volume_item = global::GoogleCalender.Droid.Resource.Layout.mr_controller_volume_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.mr_playback_control = global::GoogleCalender.Droid.Resource.Layout.mr_playback_control;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.mr_volume_control = global::GoogleCalender.Droid.Resource.Layout.mr_volume_control;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_action = global::GoogleCalender.Droid.Resource.Layout.notification_action;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_action_tombstone = global::GoogleCalender.Droid.Resource.Layout.notification_action_tombstone;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_media_action = global::GoogleCalender.Droid.Resource.Layout.notification_media_action;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_media_cancel_action = global::GoogleCalender.Droid.Resource.Layout.notification_media_cancel_action;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_big_media = global::GoogleCalender.Droid.Resource.Layout.notification_template_big_media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_big_media_custom = global::GoogleCalender.Droid.Resource.Layout.notification_template_big_media_custom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_big_media_narrow = global::GoogleCalender.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::GoogleCalender.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_custom_big = global::GoogleCalender.Droid.Resource.Layout.notification_template_custom_big;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_icon_group = global::GoogleCalender.Droid.Resource.Layout.notification_template_icon_group;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_lines_media = global::GoogleCalender.Droid.Resource.Layout.notification_template_lines_media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_media = global::GoogleCalender.Droid.Resource.Layout.notification_template_media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_media_custom = global::GoogleCalender.Droid.Resource.Layout.notification_template_media_custom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_part_chronometer = global::GoogleCalender.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.notification_template_part_time = global::GoogleCalender.Droid.Resource.Layout.notification_template_part_time;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.RootLayout = global::GoogleCalender.Droid.Resource.Layout.RootLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.select_dialog_item_material = global::GoogleCalender.Droid.Resource.Layout.select_dialog_item_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.select_dialog_multichoice_material = global::GoogleCalender.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.select_dialog_singlechoice_material = global::GoogleCalender.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.ShellContent = global::GoogleCalender.Droid.Resource.Layout.ShellContent;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::GoogleCalender.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Layout.tooltip = global::GoogleCalender.Droid.Resource.Layout.tooltip;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_action_bar_home_description = global::GoogleCalender.Droid.Resource.String.abc_action_bar_home_description;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_action_bar_up_description = global::GoogleCalender.Droid.Resource.String.abc_action_bar_up_description;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_action_menu_overflow_description = global::GoogleCalender.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_action_mode_done = global::GoogleCalender.Droid.Resource.String.abc_action_mode_done;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_activity_chooser_view_see_all = global::GoogleCalender.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_activitychooserview_choose_application = global::GoogleCalender.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_capital_off = global::GoogleCalender.Droid.Resource.String.abc_capital_off;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_capital_on = global::GoogleCalender.Droid.Resource.String.abc_capital_on;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_body_1_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_body_1_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_body_2_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_body_2_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_button_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_button_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_caption_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_caption_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_display_1_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_display_1_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_display_2_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_display_2_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_display_3_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_display_3_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_display_4_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_display_4_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_headline_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_headline_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_menu_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_menu_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_subhead_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_subhead_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_font_family_title_material = global::GoogleCalender.Droid.Resource.String.abc_font_family_title_material;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_search_hint = global::GoogleCalender.Droid.Resource.String.abc_search_hint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_searchview_description_clear = global::GoogleCalender.Droid.Resource.String.abc_searchview_description_clear;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_searchview_description_query = global::GoogleCalender.Droid.Resource.String.abc_searchview_description_query;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_searchview_description_search = global::GoogleCalender.Droid.Resource.String.abc_searchview_description_search;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_searchview_description_submit = global::GoogleCalender.Droid.Resource.String.abc_searchview_description_submit;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_searchview_description_voice = global::GoogleCalender.Droid.Resource.String.abc_searchview_description_voice;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_shareactionprovider_share_with = global::GoogleCalender.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_shareactionprovider_share_with_application = global::GoogleCalender.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.abc_toolbar_collapse_description = global::GoogleCalender.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.app_name = global::GoogleCalender.Droid.Resource.String.app_name;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.appbar_scrolling_view_behavior = global::GoogleCalender.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.bottom_sheet_behavior = global::GoogleCalender.Droid.Resource.String.bottom_sheet_behavior;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.character_counter_pattern = global::GoogleCalender.Droid.Resource.String.character_counter_pattern;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.library_name = global::GoogleCalender.Droid.Resource.String.library_name;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_button_content_description = global::GoogleCalender.Droid.Resource.String.mr_button_content_description;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_cast_button_connected = global::GoogleCalender.Droid.Resource.String.mr_cast_button_connected;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_cast_button_connecting = global::GoogleCalender.Droid.Resource.String.mr_cast_button_connecting;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_cast_button_disconnected = global::GoogleCalender.Droid.Resource.String.mr_cast_button_disconnected;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_chooser_searching = global::GoogleCalender.Droid.Resource.String.mr_chooser_searching;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_chooser_title = global::GoogleCalender.Droid.Resource.String.mr_chooser_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_album_art = global::GoogleCalender.Droid.Resource.String.mr_controller_album_art;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_casting_screen = global::GoogleCalender.Droid.Resource.String.mr_controller_casting_screen;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_close_description = global::GoogleCalender.Droid.Resource.String.mr_controller_close_description;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_collapse_group = global::GoogleCalender.Droid.Resource.String.mr_controller_collapse_group;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_disconnect = global::GoogleCalender.Droid.Resource.String.mr_controller_disconnect;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_expand_group = global::GoogleCalender.Droid.Resource.String.mr_controller_expand_group;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_no_info_available = global::GoogleCalender.Droid.Resource.String.mr_controller_no_info_available;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_no_media_selected = global::GoogleCalender.Droid.Resource.String.mr_controller_no_media_selected;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_pause = global::GoogleCalender.Droid.Resource.String.mr_controller_pause;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_play = global::GoogleCalender.Droid.Resource.String.mr_controller_play;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_stop = global::GoogleCalender.Droid.Resource.String.mr_controller_stop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_stop_casting = global::GoogleCalender.Droid.Resource.String.mr_controller_stop_casting;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_controller_volume_slider = global::GoogleCalender.Droid.Resource.String.mr_controller_volume_slider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_system_route_name = global::GoogleCalender.Droid.Resource.String.mr_system_route_name;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.mr_user_route_category_name = global::GoogleCalender.Droid.Resource.String.mr_user_route_category_name;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.password_toggle_content_description = global::GoogleCalender.Droid.Resource.String.password_toggle_content_description;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.path_password_eye = global::GoogleCalender.Droid.Resource.String.path_password_eye;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.path_password_eye_mask_strike_through = global::GoogleCalender.Droid.Resource.String.path_password_eye_mask_strike_through;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.path_password_eye_mask_visible = global::GoogleCalender.Droid.Resource.String.path_password_eye_mask_visible;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.path_password_strike_through = global::GoogleCalender.Droid.Resource.String.path_password_strike_through;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.search_menu_title = global::GoogleCalender.Droid.Resource.String.search_menu_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.String.status_bar_notification_info_overflow = global::GoogleCalender.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.AlertDialog_AppCompat = global::GoogleCalender.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.AlertDialog_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Animation_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::GoogleCalender.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Animation_AppCompat_Tooltip = global::GoogleCalender.Droid.Resource.Style.Animation_AppCompat_Tooltip;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::GoogleCalender.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_AlertDialog_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::GoogleCalender.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::GoogleCalender.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_CardView = global::GoogleCalender.Droid.Resource.Style.Base_CardView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::GoogleCalender.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::GoogleCalender.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::GoogleCalender.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::GoogleCalender.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::GoogleCalender.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::GoogleCalender.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::GoogleCalender.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::GoogleCalender.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::GoogleCalender.Droid.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V21_Theme_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::GoogleCalender.Droid.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V22_Theme_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V23_Theme_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V26_Theme_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_V26_Theme_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::GoogleCalender.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::GoogleCalender.Droid.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_Theme_AppCompat = global::GoogleCalender.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::GoogleCalender.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::GoogleCalender.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::GoogleCalender.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Button = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::GoogleCalender.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_Design_AppBarLayout = global::GoogleCalender.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Base_Widget_Design_TabLayout = global::GoogleCalender.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.CardView = global::GoogleCalender.Droid.Resource.Style.CardView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.CardView_Dark = global::GoogleCalender.Droid.Resource.Style.CardView_Dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.CardView_Light = global::GoogleCalender.Droid.Resource.Style.CardView_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_AppCompat = global::GoogleCalender.Droid.Resource.Style.Platform_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::GoogleCalender.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::GoogleCalender.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V11_AppCompat = global::GoogleCalender.Droid.Resource.Style.Platform_V11_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V11_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Platform_V11_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V14_AppCompat = global::GoogleCalender.Droid.Resource.Style.Platform_V14_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V14_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Platform_V14_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V21_AppCompat = global::GoogleCalender.Droid.Resource.Style.Platform_V21_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V21_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Platform_V21_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V25_AppCompat = global::GoogleCalender.Droid.Resource.Style.Platform_V25_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_V25_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Platform_V25_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::GoogleCalender.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::GoogleCalender.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::GoogleCalender.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::GoogleCalender.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Button = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Large = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Small = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::GoogleCalender.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Design_Counter = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Design_Error = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Design_Hint = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Design_Tab = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::GoogleCalender.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::GoogleCalender.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_MediaRouter_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::GoogleCalender.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DayNight = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::GoogleCalender.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_Design = global::GoogleCalender.Droid.Resource.Style.Theme_Design;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::GoogleCalender.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_Design_Light = global::GoogleCalender.Droid.Resource.Style.Theme_Design_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::GoogleCalender.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::GoogleCalender.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_Design_NoActionBar = global::GoogleCalender.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_MediaRouter = global::GoogleCalender.Droid.Resource.Style.Theme_MediaRouter;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_MediaRouter_Light = global::GoogleCalender.Droid.Resource.Style.Theme_MediaRouter_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::GoogleCalender.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Theme_MediaRouter_LightControlPanel = global::GoogleCalender.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_AppCompat = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.ThemeOverlay_MediaRouter_Light = global::GoogleCalender.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionButton = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActionMode = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Button = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Button_Small = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_EditText = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ImageButton = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ListView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_RatingBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_SearchView = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_SeekBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Spinner = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Toolbar = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::GoogleCalender.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::GoogleCalender.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Compat_NotificationActionText = global::GoogleCalender.Droid.Resource.Style.Widget_Compat_NotificationActionText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_AppBarLayout = global::GoogleCalender.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_BottomNavigationView = global::GoogleCalender.Droid.Resource.Style.Widget_Design_BottomNavigationView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::GoogleCalender.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::GoogleCalender.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::GoogleCalender.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_FloatingActionButton = global::GoogleCalender.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_NavigationView = global::GoogleCalender.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::GoogleCalender.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_Snackbar = global::GoogleCalender.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_TabLayout = global::GoogleCalender.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_Design_TextInputLayout = global::GoogleCalender.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::GoogleCalender.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::GoogleCalender.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar = global::GoogleCalender.Droid.Resource.Styleable.ActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_background = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_backgroundSplit = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_backgroundStacked = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_contentInsetRight = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_contentInsetStart = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_displayOptions = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_divider = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_divider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_elevation = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_height = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_homeLayout = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_icon = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_itemPadding = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_logo = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_logo;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_navigationMode = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_popupTheme = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_progressBarPadding = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_progressBarStyle = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_subtitle = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_title = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBar_titleTextStyle = global::GoogleCalender.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBarLayout = global::GoogleCalender.Droid.Resource.Styleable.ActionBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::GoogleCalender.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMenuItemView = global::GoogleCalender.Droid.Resource.Styleable.ActionMenuItemView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::GoogleCalender.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMenuView = global::GoogleCalender.Droid.Resource.Styleable.ActionMenuView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMode = global::GoogleCalender.Droid.Resource.Styleable.ActionMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMode_background = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMode_backgroundSplit = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMode_closeItemLayout = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMode_height = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActionMode_titleTextStyle = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActivityChooserView = global::GoogleCalender.Droid.Resource.Styleable.ActivityChooserView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::GoogleCalender.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::GoogleCalender.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog_android_layout = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog_listItemLayout = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog_listLayout = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog_showTitle = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog_showTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::GoogleCalender.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_android_background = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_elevation = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_expanded = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayoutStates = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_Layout = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_Layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::GoogleCalender.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatImageView = global::GoogleCalender.Droid.Resource.Styleable.AppCompatImageView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatImageView_android_src = global::GoogleCalender.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::GoogleCalender.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatImageView_tint = global::GoogleCalender.Droid.Resource.Styleable.AppCompatImageView_tint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatImageView_tintMode = global::GoogleCalender.Droid.Resource.Styleable.AppCompatImageView_tintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatSeekBar = global::GoogleCalender.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::GoogleCalender.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::GoogleCalender.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::GoogleCalender.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::GoogleCalender.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorError = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorError;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::GoogleCalender.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomNavigationView = global::GoogleCalender.Droid.Resource.Styleable.BottomNavigationView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomNavigationView_elevation = global::GoogleCalender.Droid.Resource.Styleable.BottomNavigationView_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::GoogleCalender.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::GoogleCalender.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::GoogleCalender.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomNavigationView_menu = global::GoogleCalender.Droid.Resource.Styleable.BottomNavigationView_menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::GoogleCalender.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::GoogleCalender.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::GoogleCalender.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::GoogleCalender.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ButtonBarLayout = global::GoogleCalender.Droid.Resource.Styleable.ButtonBarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::GoogleCalender.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView = global::GoogleCalender.Droid.Resource.Styleable.CardView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_android_minHeight = global::GoogleCalender.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_android_minWidth = global::GoogleCalender.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_cardBackgroundColor = global::GoogleCalender.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_cardCornerRadius = global::GoogleCalender.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_cardElevation = global::GoogleCalender.Droid.Resource.Styleable.CardView_cardElevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_cardMaxElevation = global::GoogleCalender.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::GoogleCalender.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::GoogleCalender.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_contentPadding = global::GoogleCalender.Droid.Resource.Styleable.CardView_contentPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_contentPaddingBottom = global::GoogleCalender.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_contentPaddingLeft = global::GoogleCalender.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_contentPaddingRight = global::GoogleCalender.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CardView_contentPaddingTop = global::GoogleCalender.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::GoogleCalender.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ColorStateListItem = global::GoogleCalender.Droid.Resource.Styleable.ColorStateListItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ColorStateListItem_alpha = global::GoogleCalender.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::GoogleCalender.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ColorStateListItem_android_color = global::GoogleCalender.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CompoundButton = global::GoogleCalender.Droid.Resource.Styleable.CompoundButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CompoundButton_android_button = global::GoogleCalender.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CompoundButton_buttonTint = global::GoogleCalender.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::GoogleCalender.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_keylines = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::GoogleCalender.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DesignTheme = global::GoogleCalender.Droid.Resource.Styleable.DesignTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::GoogleCalender.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::GoogleCalender.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DesignTheme_textColorError = global::GoogleCalender.Droid.Resource.Styleable.DesignTheme_textColorError;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_color = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::GoogleCalender.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_elevation = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_fabSize = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::GoogleCalender.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamily = global::GoogleCalender.Droid.Resource.Styleable.FontFamily;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::GoogleCalender.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::GoogleCalender.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::GoogleCalender.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::GoogleCalender.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::GoogleCalender.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::GoogleCalender.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamilyFont = global::GoogleCalender.Droid.Resource.Styleable.FontFamilyFont;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamilyFont_android_font = global::GoogleCalender.Droid.Resource.Styleable.FontFamilyFont_android_font;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::GoogleCalender.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::GoogleCalender.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamilyFont_font = global::GoogleCalender.Droid.Resource.Styleable.FontFamilyFont_font;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::GoogleCalender.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::GoogleCalender.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ForegroundLinearLayout = global::GoogleCalender.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::GoogleCalender.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::GoogleCalender.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::GoogleCalender.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_divider = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::GoogleCalender.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ListPopupWindow = global::GoogleCalender.Droid.Resource.Styleable.ListPopupWindow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::GoogleCalender.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::GoogleCalender.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MediaRouteButton = global::GoogleCalender.Droid.Resource.Styleable.MediaRouteButton;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MediaRouteButton_android_minHeight = global::GoogleCalender.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MediaRouteButton_android_minWidth = global::GoogleCalender.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::GoogleCalender.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint = global::GoogleCalender.Droid.Resource.Styleable.MediaRouteButton_mediaRouteButtonTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuGroup = global::GoogleCalender.Droid.Resource.Styleable.MenuGroup;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::GoogleCalender.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuGroup_android_enabled = global::GoogleCalender.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuGroup_android_id = global::GoogleCalender.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::GoogleCalender.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::GoogleCalender.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuGroup_android_visible = global::GoogleCalender.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem = global::GoogleCalender.Droid.Resource.Styleable.MenuItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_actionLayout = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_actionProviderClass = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_actionViewClass = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_checkable = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_checked = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_enabled = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_icon = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_id = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_id;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_menuCategory = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_onClick = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_title = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_android_visible = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_contentDescription = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_contentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_iconTint = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_iconTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_iconTintMode = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_iconTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_numericModifiers = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_numericModifiers;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_showAsAction = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuItem_tooltipText = global::GoogleCalender.Droid.Resource.Styleable.MenuItem_tooltipText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView = global::GoogleCalender.Droid.Resource.Styleable.MenuView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_android_headerBackground = global::GoogleCalender.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::GoogleCalender.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_android_itemBackground = global::GoogleCalender.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::GoogleCalender.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_android_verticalDivider = global::GoogleCalender.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::GoogleCalender.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::GoogleCalender.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.MenuView_subMenuArrow = global::GoogleCalender.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView = global::GoogleCalender.Droid.Resource.Styleable.NavigationView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_android_background = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_android_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_android_maxWidth = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_elevation = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_headerLayout = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_itemBackground = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_itemIconTint = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_itemTextColor = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.NavigationView_menu = global::GoogleCalender.Droid.Resource.Styleable.NavigationView_menu;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.PopupWindow = global::GoogleCalender.Droid.Resource.Styleable.PopupWindow;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::GoogleCalender.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::GoogleCalender.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::GoogleCalender.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.PopupWindowBackgroundState = global::GoogleCalender.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::GoogleCalender.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecycleListView = global::GoogleCalender.Droid.Resource.Styleable.RecycleListView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::GoogleCalender.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::GoogleCalender.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_android_orientation = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_layoutManager = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_reverseLayout = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_spanCount = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::GoogleCalender.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Scheduler = global::GoogleCalender.Droid.Resource.Styleable.Scheduler;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Scheduler_elementState = global::GoogleCalender.Droid.Resource.Styleable.Scheduler_elementState;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Scheduler_treeDownValues = global::GoogleCalender.Droid.Resource.Styleable.Scheduler_treeDownValues;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Scheduler_xIndex = global::GoogleCalender.Droid.Resource.Styleable.Scheduler_xIndex;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Scheduler_zIndex = global::GoogleCalender.Droid.Resource.Styleable.Scheduler_zIndex;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::GoogleCalender.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::GoogleCalender.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::GoogleCalender.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::GoogleCalender.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView = global::GoogleCalender.Droid.Resource.Styleable.SearchView;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_android_focusable = global::GoogleCalender.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_android_imeOptions = global::GoogleCalender.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_android_inputType = global::GoogleCalender.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_android_maxWidth = global::GoogleCalender.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_closeIcon = global::GoogleCalender.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_commitIcon = global::GoogleCalender.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_defaultQueryHint = global::GoogleCalender.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_goIcon = global::GoogleCalender.Droid.Resource.Styleable.SearchView_goIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::GoogleCalender.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_layout = global::GoogleCalender.Droid.Resource.Styleable.SearchView_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_queryBackground = global::GoogleCalender.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_queryHint = global::GoogleCalender.Droid.Resource.Styleable.SearchView_queryHint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_searchHintIcon = global::GoogleCalender.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_searchIcon = global::GoogleCalender.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_submitBackground = global::GoogleCalender.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::GoogleCalender.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SearchView_voiceIcon = global::GoogleCalender.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SnackbarLayout = global::GoogleCalender.Droid.Resource.Styleable.SnackbarLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::GoogleCalender.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SnackbarLayout_elevation = global::GoogleCalender.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::GoogleCalender.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Spinner = global::GoogleCalender.Droid.Resource.Styleable.Spinner;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::GoogleCalender.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Spinner_android_entries = global::GoogleCalender.Droid.Resource.Styleable.Spinner_android_entries;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Spinner_android_popupBackground = global::GoogleCalender.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Spinner_android_prompt = global::GoogleCalender.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Spinner_popupTheme = global::GoogleCalender.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_android_textOff = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_android_textOn = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_android_thumb = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_showText = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_splitTrack = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_switchPadding = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_thumbTint = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_track = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_track;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_trackTint = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::GoogleCalender.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabItem = global::GoogleCalender.Droid.Resource.Styleable.TabItem;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabItem_android_icon = global::GoogleCalender.Droid.Resource.Styleable.TabItem_android_icon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabItem_android_layout = global::GoogleCalender.Droid.Resource.Styleable.TabItem_android_layout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabItem_android_text = global::GoogleCalender.Droid.Resource.Styleable.TabItem_android_text;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout = global::GoogleCalender.Droid.Resource.Styleable.TabLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabBackground = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabContentStart = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabGravity = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabMinWidth = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabMode = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabPadding = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TabLayout_tabTextColor = global::GoogleCalender.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_textColor = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_textSize = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_textStyle = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_android_typeface = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_fontFamily = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_fontFamily;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextAppearance_textAllCaps = global::GoogleCalender.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_android_hint = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::GoogleCalender.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar = global::GoogleCalender.Droid.Resource.Styleable.Toolbar;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_android_gravity = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_android_minHeight = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_buttonGravity = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_collapseIcon = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_contentInsetRight = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_contentInsetStart = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_logo = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_logo;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_logoDescription = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_navigationIcon = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_popupTheme = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_subtitle = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_title = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_title;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleMargin = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleMarginStart = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleMarginTop = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleMargins = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.Toolbar_titleTextColor = global::GoogleCalender.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.View = global::GoogleCalender.Droid.Resource.Styleable.View;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.View_android_focusable = global::GoogleCalender.Droid.Resource.Styleable.View_android_focusable;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.View_android_theme = global::GoogleCalender.Droid.Resource.Styleable.View_android_theme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.View_paddingEnd = global::GoogleCalender.Droid.Resource.Styleable.View_paddingEnd;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.View_paddingStart = global::GoogleCalender.Droid.Resource.Styleable.View_paddingStart;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.View_theme = global::GoogleCalender.Droid.Resource.Styleable.View_theme;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewBackgroundHelper = global::GoogleCalender.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::GoogleCalender.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::GoogleCalender.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::GoogleCalender.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewStubCompat = global::GoogleCalender.Droid.Resource.Styleable.ViewStubCompat;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewStubCompat_android_id = global::GoogleCalender.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::GoogleCalender.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::DevExpress.XamarinForms.Scheduler.Android.Resource.Styleable.ViewStubCompat_android_layout = global::GoogleCalender.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::GoogleCalender.Droid.Resource.Animation.abc_fade_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::GoogleCalender.Droid.Resource.Animation.abc_fade_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::GoogleCalender.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
@@ -3710,7 +1451,6 @@ namespace GoogleCalender.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::GoogleCalender.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::GoogleCalender.Droid.Resource.Styleable.ActionMenuItemView;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::GoogleCalender.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::GoogleCalender.Droid.Resource.Styleable.ActionMenuView;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode = global::GoogleCalender.Droid.Resource.Styleable.ActionMode;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_background = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_background;
 			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::GoogleCalender.Droid.Resource.Styleable.ActionMode_backgroundSplit;
@@ -4265,12 +2005,6 @@ namespace GoogleCalender.Droid
 			public const int abc_slide_out_top = 2130771978;
 			
 			// aapt resource value: 0x7F01000B
-			public const int abc_tooltip_enter = 2130771979;
-			
-			// aapt resource value: 0x7F01000C
-			public const int abc_tooltip_exit = 2130771980;
-			
-			// aapt resource value: 0x7F01000B
 			public const int design_bottom_sheet_slide_in = 2130771979;
 			
 			// aapt resource value: 0x7F01000C
@@ -4282,17 +2016,17 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F01000E
 			public const int design_snackbar_out = 2130771982;
 			
-			// aapt resource value: 0x7F090020
-			public const int EnterFromLeft = 2131296288;
+			// aapt resource value: 0x7F070018
+			public const int EnterFromLeft = 2131165208;
 			
-			// aapt resource value: 0x7F090021
-			public const int EnterFromRight = 2131296289;
+			// aapt resource value: 0x7F070019
+			public const int EnterFromRight = 2131165209;
 			
-			// aapt resource value: 0x7F090022
-			public const int ExitToLeft = 2131296290;
+			// aapt resource value: 0x7F070020
+			public const int ExitToLeft = 2131165216;
 			
-			// aapt resource value: 0x7F090023
-			public const int ExitToRight = 2131296291;
+			// aapt resource value: 0x7F070021
+			public const int ExitToRight = 2131165217;
 			
 			// aapt resource value: 0x7F01000F
 			public const int tooltip_enter = 2130771983;
@@ -4322,22 +2056,6 @@ namespace GoogleCalender.Droid
 			}
 			
 			private Animator()
-			{
-			}
-		}
-		
-		public partial class Array
-		{
-			
-			// aapt resource value: 0x7F030001
-			public const int day_view_values = 2130903041;
-			
-			static Array()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Array()
 			{
 			}
 		}
@@ -4525,8 +2243,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F04003C
 			public const int behavior_skipCollapsed = 2130968636;
 			
-			// aapt resource value: 0x7F040038
-			public const int borderlessButtonStyle = 2130968632;
+			// aapt resource value: 0x7F04003E
+			public const int borderlessButtonStyle = 2130968638;
 			
 			// aapt resource value: 0x7F04003D
 			public const int borderWidth = 2130968637;
@@ -4537,41 +2255,38 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F040040
 			public const int bottomSheetStyle = 2130968640;
 			
-			// aapt resource value: 0x7F040039
-			public const int buttonBarButtonStyle = 2130968633;
-			
-			// aapt resource value: 0x7F04003A
-			public const int buttonBarNegativeButtonStyle = 2130968634;
-			
-			// aapt resource value: 0x7F04003B
-			public const int buttonBarNeutralButtonStyle = 2130968635;
-			
-			// aapt resource value: 0x7F04003C
-			public const int buttonBarPositiveButtonStyle = 2130968636;
-			
-			// aapt resource value: 0x7F04003D
-			public const int buttonBarStyle = 2130968637;
-			
-			// aapt resource value: 0x7F04003E
-			public const int buttonGravity = 2130968638;
-			
-			// aapt resource value: 0x7F04003F
-			public const int buttonIconDimen = 2130968639;
-			
-			// aapt resource value: 0x7F040040
-			public const int buttonPanelSideLayout = 2130968640;
-			
 			// aapt resource value: 0x7F040041
-			public const int buttonStyle = 2130968641;
+			public const int buttonBarButtonStyle = 2130968641;
 			
 			// aapt resource value: 0x7F040042
-			public const int buttonStyleSmall = 2130968642;
+			public const int buttonBarNegativeButtonStyle = 2130968642;
 			
 			// aapt resource value: 0x7F040043
-			public const int buttonTint = 2130968643;
+			public const int buttonBarNeutralButtonStyle = 2130968643;
 			
 			// aapt resource value: 0x7F040044
-			public const int buttonTintMode = 2130968644;
+			public const int buttonBarPositiveButtonStyle = 2130968644;
+			
+			// aapt resource value: 0x7F040045
+			public const int buttonBarStyle = 2130968645;
+			
+			// aapt resource value: 0x7F040046
+			public const int buttonGravity = 2130968646;
+			
+			// aapt resource value: 0x7F040047
+			public const int buttonPanelSideLayout = 2130968647;
+			
+			// aapt resource value: 0x7F040048
+			public const int buttonStyle = 2130968648;
+			
+			// aapt resource value: 0x7F040049
+			public const int buttonStyleSmall = 2130968649;
+			
+			// aapt resource value: 0x7F04004A
+			public const int buttonTint = 2130968650;
+			
+			// aapt resource value: 0x7F04004B
+			public const int buttonTintMode = 2130968651;
 			
 			// aapt resource value: 0x7F040001
 			public const int cardBackgroundColor = 2130968577;
@@ -4591,20 +2306,20 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F040006
 			public const int cardUseCompatPadding = 2130968582;
 			
-			// aapt resource value: 0x7F040045
-			public const int checkboxStyle = 2130968645;
+			// aapt resource value: 0x7F04004C
+			public const int checkboxStyle = 2130968652;
 			
-			// aapt resource value: 0x7F040046
-			public const int checkedTextViewStyle = 2130968646;
+			// aapt resource value: 0x7F04004D
+			public const int checkedTextViewStyle = 2130968653;
 			
-			// aapt resource value: 0x7F040047
-			public const int closeIcon = 2130968647;
+			// aapt resource value: 0x7F04004E
+			public const int closeIcon = 2130968654;
 			
-			// aapt resource value: 0x7F040048
-			public const int closeItemLayout = 2130968648;
+			// aapt resource value: 0x7F04004F
+			public const int closeItemLayout = 2130968655;
 			
-			// aapt resource value: 0x7F040049
-			public const int collapseContentDescription = 2130968649;
+			// aapt resource value: 0x7F040050
+			public const int collapseContentDescription = 2130968656;
 			
 			// aapt resource value: 0x7F040052
 			public const int collapsedTitleGravity = 2130968658;
@@ -4612,65 +2327,65 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F040053
 			public const int collapsedTitleTextAppearance = 2130968659;
 			
-			// aapt resource value: 0x7F04004A
-			public const int collapseIcon = 2130968650;
-			
-			// aapt resource value: 0x7F04004B
-			public const int color = 2130968651;
-			
-			// aapt resource value: 0x7F04004C
-			public const int colorAccent = 2130968652;
-			
-			// aapt resource value: 0x7F04004D
-			public const int colorBackgroundFloating = 2130968653;
-			
-			// aapt resource value: 0x7F04004E
-			public const int colorButtonNormal = 2130968654;
-			
-			// aapt resource value: 0x7F04004F
-			public const int colorControlActivated = 2130968655;
-			
-			// aapt resource value: 0x7F040050
-			public const int colorControlHighlight = 2130968656;
-			
 			// aapt resource value: 0x7F040051
-			public const int colorControlNormal = 2130968657;
-			
-			// aapt resource value: 0x7F040052
-			public const int colorError = 2130968658;
-			
-			// aapt resource value: 0x7F040053
-			public const int colorPrimary = 2130968659;
+			public const int collapseIcon = 2130968657;
 			
 			// aapt resource value: 0x7F040054
-			public const int colorPrimaryDark = 2130968660;
+			public const int color = 2130968660;
 			
 			// aapt resource value: 0x7F040055
-			public const int colorSwitchThumbNormal = 2130968661;
+			public const int colorAccent = 2130968661;
 			
 			// aapt resource value: 0x7F040056
-			public const int commitIcon = 2130968662;
+			public const int colorBackgroundFloating = 2130968662;
 			
 			// aapt resource value: 0x7F040057
-			public const int contentDescription = 2130968663;
+			public const int colorButtonNormal = 2130968663;
 			
 			// aapt resource value: 0x7F040058
-			public const int contentInsetEnd = 2130968664;
+			public const int colorControlActivated = 2130968664;
 			
 			// aapt resource value: 0x7F040059
-			public const int contentInsetEndWithActions = 2130968665;
+			public const int colorControlHighlight = 2130968665;
 			
 			// aapt resource value: 0x7F04005A
-			public const int contentInsetLeft = 2130968666;
+			public const int colorControlNormal = 2130968666;
 			
 			// aapt resource value: 0x7F04005B
-			public const int contentInsetRight = 2130968667;
+			public const int colorError = 2130968667;
 			
 			// aapt resource value: 0x7F04005C
-			public const int contentInsetStart = 2130968668;
+			public const int colorPrimary = 2130968668;
 			
 			// aapt resource value: 0x7F04005D
-			public const int contentInsetStartWithNavigation = 2130968669;
+			public const int colorPrimaryDark = 2130968669;
+			
+			// aapt resource value: 0x7F04005E
+			public const int colorSwitchThumbNormal = 2130968670;
+			
+			// aapt resource value: 0x7F04005F
+			public const int commitIcon = 2130968671;
+			
+			// aapt resource value: 0x7F040060
+			public const int contentDescription = 2130968672;
+			
+			// aapt resource value: 0x7F040061
+			public const int contentInsetEnd = 2130968673;
+			
+			// aapt resource value: 0x7F040062
+			public const int contentInsetEndWithActions = 2130968674;
+			
+			// aapt resource value: 0x7F040063
+			public const int contentInsetLeft = 2130968675;
+			
+			// aapt resource value: 0x7F040064
+			public const int contentInsetRight = 2130968676;
+			
+			// aapt resource value: 0x7F040065
+			public const int contentInsetStart = 2130968677;
+			
+			// aapt resource value: 0x7F040066
+			public const int contentInsetStartWithNavigation = 2130968678;
 			
 			// aapt resource value: 0x7F040007
 			public const int contentPadding = 2130968583;
@@ -4690,11 +2405,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F040067
 			public const int contentScrim = 2130968679;
 			
-			// aapt resource value: 0x7F04005E
-			public const int controlBackground = 2130968670;
-			
-			// aapt resource value: 0x7F04005F
-			public const int coordinatorLayoutStyle = 2130968671;
+			// aapt resource value: 0x7F040068
+			public const int controlBackground = 2130968680;
 			
 			// aapt resource value: 0x7F040069
 			public const int counterEnabled = 2130968681;
@@ -4708,62 +2420,56 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F04006C
 			public const int counterTextAppearance = 2130968684;
 			
-			// aapt resource value: 0x7F040060
-			public const int customNavigationLayout = 2130968672;
-			
-			// aapt resource value: 0x7F040061
-			public const int defaultQueryHint = 2130968673;
-			
-			// aapt resource value: 0x7F040062
-			public const int dialogCornerRadius = 2130968674;
-			
-			// aapt resource value: 0x7F040063
-			public const int dialogPreferredPadding = 2130968675;
-			
-			// aapt resource value: 0x7F040064
-			public const int dialogTheme = 2130968676;
-			
-			// aapt resource value: 0x7F040065
-			public const int displayOptions = 2130968677;
-			
-			// aapt resource value: 0x7F040066
-			public const int divider = 2130968678;
-			
-			// aapt resource value: 0x7F040067
-			public const int dividerHorizontal = 2130968679;
-			
-			// aapt resource value: 0x7F040068
-			public const int dividerPadding = 2130968680;
-			
-			// aapt resource value: 0x7F040069
-			public const int dividerVertical = 2130968681;
-			
-			// aapt resource value: 0x7F04006A
-			public const int drawableSize = 2130968682;
-			
-			// aapt resource value: 0x7F04006B
-			public const int drawerArrowStyle = 2130968683;
-			
 			// aapt resource value: 0x7F04006D
-			public const int dropdownListPreferredItemHeight = 2130968685;
-			
-			// aapt resource value: 0x7F04006C
-			public const int dropDownListViewStyle = 2130968684;
+			public const int customNavigationLayout = 2130968685;
 			
 			// aapt resource value: 0x7F04006E
-			public const int editTextBackground = 2130968686;
+			public const int defaultQueryHint = 2130968686;
 			
 			// aapt resource value: 0x7F04006F
-			public const int editTextColor = 2130968687;
+			public const int dialogPreferredPadding = 2130968687;
 			
 			// aapt resource value: 0x7F040070
-			public const int editTextStyle = 2130968688;
+			public const int dialogTheme = 2130968688;
 			
 			// aapt resource value: 0x7F040071
-			public const int elementState = 2130968689;
+			public const int displayOptions = 2130968689;
 			
 			// aapt resource value: 0x7F040072
-			public const int elevation = 2130968690;
+			public const int divider = 2130968690;
+			
+			// aapt resource value: 0x7F040073
+			public const int dividerHorizontal = 2130968691;
+			
+			// aapt resource value: 0x7F040074
+			public const int dividerPadding = 2130968692;
+			
+			// aapt resource value: 0x7F040075
+			public const int dividerVertical = 2130968693;
+			
+			// aapt resource value: 0x7F040076
+			public const int drawableSize = 2130968694;
+			
+			// aapt resource value: 0x7F040077
+			public const int drawerArrowStyle = 2130968695;
+			
+			// aapt resource value: 0x7F040079
+			public const int dropdownListPreferredItemHeight = 2130968697;
+			
+			// aapt resource value: 0x7F040078
+			public const int dropDownListViewStyle = 2130968696;
+			
+			// aapt resource value: 0x7F04007A
+			public const int editTextBackground = 2130968698;
+			
+			// aapt resource value: 0x7F04007B
+			public const int editTextColor = 2130968699;
+			
+			// aapt resource value: 0x7F04007C
+			public const int editTextStyle = 2130968700;
+			
+			// aapt resource value: 0x7F04007D
+			public const int elevation = 2130968701;
 			
 			// aapt resource value: 0x7F04007E
 			public const int errorEnabled = 2130968702;
@@ -4771,8 +2477,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F04007F
 			public const int errorTextAppearance = 2130968703;
 			
-			// aapt resource value: 0x7F040073
-			public const int expandActivityOverflowButtonDrawable = 2130968691;
+			// aapt resource value: 0x7F040080
+			public const int expandActivityOverflowButtonDrawable = 2130968704;
 			
 			// aapt resource value: 0x7F040081
 			public const int expanded = 2130968705;
@@ -4819,59 +2525,53 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F04008E
 			public const int fastScrollVerticalTrackDrawable = 2130968718;
 			
-			// aapt resource value: 0x7F040074
-			public const int firstBaselineToTopHeight = 2130968692;
+			// aapt resource value: 0x7F040001
+			public const int font = 2130968577;
 			
-			// aapt resource value: 0x7F040075
-			public const int font = 2130968693;
+			// aapt resource value: 0x7F040090
+			public const int fontFamily = 2130968720;
 			
-			// aapt resource value: 0x7F040076
-			public const int fontFamily = 2130968694;
+			// aapt resource value: 0x7F040002
+			public const int fontProviderAuthority = 2130968578;
 			
-			// aapt resource value: 0x7F040077
-			public const int fontProviderAuthority = 2130968695;
+			// aapt resource value: 0x7F040003
+			public const int fontProviderCerts = 2130968579;
 			
-			// aapt resource value: 0x7F040078
-			public const int fontProviderCerts = 2130968696;
+			// aapt resource value: 0x7F040004
+			public const int fontProviderFetchStrategy = 2130968580;
 			
-			// aapt resource value: 0x7F040079
-			public const int fontProviderFetchStrategy = 2130968697;
+			// aapt resource value: 0x7F040005
+			public const int fontProviderFetchTimeout = 2130968581;
 			
-			// aapt resource value: 0x7F04007A
-			public const int fontProviderFetchTimeout = 2130968698;
+			// aapt resource value: 0x7F040006
+			public const int fontProviderPackage = 2130968582;
 			
-			// aapt resource value: 0x7F04007B
-			public const int fontProviderPackage = 2130968699;
+			// aapt resource value: 0x7F040007
+			public const int fontProviderQuery = 2130968583;
 			
-			// aapt resource value: 0x7F04007C
-			public const int fontProviderQuery = 2130968700;
+			// aapt resource value: 0x7F040008
+			public const int fontStyle = 2130968584;
 			
-			// aapt resource value: 0x7F04007D
-			public const int fontStyle = 2130968701;
-			
-			// aapt resource value: 0x7F04007E
-			public const int fontVariationSettings = 2130968702;
-			
-			// aapt resource value: 0x7F04007F
-			public const int fontWeight = 2130968703;
+			// aapt resource value: 0x7F040009
+			public const int fontWeight = 2130968585;
 			
 			// aapt resource value: 0x7F040099
 			public const int foregroundInsidePadding = 2130968729;
 			
-			// aapt resource value: 0x7F040080
-			public const int gapBetweenBars = 2130968704;
+			// aapt resource value: 0x7F04009A
+			public const int gapBetweenBars = 2130968730;
 			
-			// aapt resource value: 0x7F040081
-			public const int goIcon = 2130968705;
+			// aapt resource value: 0x7F04009B
+			public const int goIcon = 2130968731;
 			
 			// aapt resource value: 0x7F04009C
 			public const int headerLayout = 2130968732;
 			
-			// aapt resource value: 0x7F040082
-			public const int height = 2130968706;
+			// aapt resource value: 0x7F04009D
+			public const int height = 2130968733;
 			
-			// aapt resource value: 0x7F040083
-			public const int hideOnContentScroll = 2130968707;
+			// aapt resource value: 0x7F04009E
+			public const int hideOnContentScroll = 2130968734;
 			
 			// aapt resource value: 0x7F04009F
 			public const int hintAnimationEnabled = 2130968735;
@@ -4882,38 +2582,38 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400A1
 			public const int hintTextAppearance = 2130968737;
 			
-			// aapt resource value: 0x7F040084
-			public const int homeAsUpIndicator = 2130968708;
+			// aapt resource value: 0x7F0400A2
+			public const int homeAsUpIndicator = 2130968738;
 			
-			// aapt resource value: 0x7F040085
-			public const int homeLayout = 2130968709;
+			// aapt resource value: 0x7F0400A3
+			public const int homeLayout = 2130968739;
 			
-			// aapt resource value: 0x7F040086
-			public const int icon = 2130968710;
+			// aapt resource value: 0x7F0400A4
+			public const int icon = 2130968740;
 			
-			// aapt resource value: 0x7F040089
-			public const int iconifiedByDefault = 2130968713;
+			// aapt resource value: 0x7F0400A7
+			public const int iconifiedByDefault = 2130968743;
 			
-			// aapt resource value: 0x7F040087
-			public const int iconTint = 2130968711;
+			// aapt resource value: 0x7F0400A5
+			public const int iconTint = 2130968741;
 			
-			// aapt resource value: 0x7F040088
-			public const int iconTintMode = 2130968712;
+			// aapt resource value: 0x7F0400A6
+			public const int iconTintMode = 2130968742;
 			
-			// aapt resource value: 0x7F04008A
-			public const int imageButtonStyle = 2130968714;
+			// aapt resource value: 0x7F0400A8
+			public const int imageButtonStyle = 2130968744;
 			
-			// aapt resource value: 0x7F04008B
-			public const int indeterminateProgressStyle = 2130968715;
+			// aapt resource value: 0x7F0400A9
+			public const int indeterminateProgressStyle = 2130968745;
 			
-			// aapt resource value: 0x7F04008C
-			public const int initialActivityCount = 2130968716;
+			// aapt resource value: 0x7F0400AA
+			public const int initialActivityCount = 2130968746;
 			
 			// aapt resource value: 0x7F0400AB
 			public const int insetForeground = 2130968747;
 			
-			// aapt resource value: 0x7F04008D
-			public const int isLightTheme = 2130968717;
+			// aapt resource value: 0x7F0400AC
+			public const int isLightTheme = 2130968748;
 			
 			// aapt resource value: 0x7F0400AD
 			public const int itemBackground = 2130968749;
@@ -4921,8 +2621,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400AE
 			public const int itemIconTint = 2130968750;
 			
-			// aapt resource value: 0x7F04008E
-			public const int itemPadding = 2130968718;
+			// aapt resource value: 0x7F0400AF
+			public const int itemPadding = 2130968751;
 			
 			// aapt resource value: 0x7F0400B0
 			public const int itemTextAppearance = 2130968752;
@@ -4930,26 +2630,23 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400B1
 			public const int itemTextColor = 2130968753;
 			
-			// aapt resource value: 0x7F04008F
-			public const int keylines = 2130968719;
+			// aapt resource value: 0x7F0400B2
+			public const int keylines = 2130968754;
 			
-			// aapt resource value: 0x7F040090
-			public const int lastBaselineToBottomHeight = 2130968720;
-			
-			// aapt resource value: 0x7F040091
-			public const int layout = 2130968721;
+			// aapt resource value: 0x7F0400B3
+			public const int layout = 2130968755;
 			
 			// aapt resource value: 0x7F0400B4
 			public const int layoutManager = 2130968756;
 			
-			// aapt resource value: 0x7F040092
-			public const int layout_anchor = 2130968722;
+			// aapt resource value: 0x7F0400B5
+			public const int layout_anchor = 2130968757;
 			
-			// aapt resource value: 0x7F040093
-			public const int layout_anchorGravity = 2130968723;
+			// aapt resource value: 0x7F0400B6
+			public const int layout_anchorGravity = 2130968758;
 			
-			// aapt resource value: 0x7F040094
-			public const int layout_behavior = 2130968724;
+			// aapt resource value: 0x7F0400B7
+			public const int layout_behavior = 2130968759;
 			
 			// aapt resource value: 0x7F0400B8
 			public const int layout_collapseMode = 2130968760;
@@ -4957,14 +2654,14 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400B9
 			public const int layout_collapseParallaxMultiplier = 2130968761;
 			
-			// aapt resource value: 0x7F040095
-			public const int layout_dodgeInsetEdges = 2130968725;
+			// aapt resource value: 0x7F0400BA
+			public const int layout_dodgeInsetEdges = 2130968762;
 			
-			// aapt resource value: 0x7F040096
-			public const int layout_insetEdge = 2130968726;
+			// aapt resource value: 0x7F0400BB
+			public const int layout_insetEdge = 2130968763;
 			
-			// aapt resource value: 0x7F040097
-			public const int layout_keyline = 2130968727;
+			// aapt resource value: 0x7F0400BC
+			public const int layout_keyline = 2130968764;
 			
 			// aapt resource value: 0x7F0400BD
 			public const int layout_scrollFlags = 2130968765;
@@ -4972,56 +2669,53 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400BE
 			public const int layout_scrollInterpolator = 2130968766;
 			
-			// aapt resource value: 0x7F040098
-			public const int lineHeight = 2130968728;
+			// aapt resource value: 0x7F0400BF
+			public const int listChoiceBackgroundIndicator = 2130968767;
 			
-			// aapt resource value: 0x7F040099
-			public const int listChoiceBackgroundIndicator = 2130968729;
+			// aapt resource value: 0x7F0400C0
+			public const int listDividerAlertDialog = 2130968768;
 			
-			// aapt resource value: 0x7F04009A
-			public const int listDividerAlertDialog = 2130968730;
+			// aapt resource value: 0x7F0400C1
+			public const int listItemLayout = 2130968769;
 			
-			// aapt resource value: 0x7F04009B
-			public const int listItemLayout = 2130968731;
+			// aapt resource value: 0x7F0400C2
+			public const int listLayout = 2130968770;
 			
-			// aapt resource value: 0x7F04009C
-			public const int listLayout = 2130968732;
+			// aapt resource value: 0x7F0400C3
+			public const int listMenuViewStyle = 2130968771;
 			
-			// aapt resource value: 0x7F04009D
-			public const int listMenuViewStyle = 2130968733;
+			// aapt resource value: 0x7F0400C4
+			public const int listPopupWindowStyle = 2130968772;
 			
-			// aapt resource value: 0x7F04009E
-			public const int listPopupWindowStyle = 2130968734;
+			// aapt resource value: 0x7F0400C5
+			public const int listPreferredItemHeight = 2130968773;
 			
-			// aapt resource value: 0x7F04009F
-			public const int listPreferredItemHeight = 2130968735;
+			// aapt resource value: 0x7F0400C6
+			public const int listPreferredItemHeightLarge = 2130968774;
 			
-			// aapt resource value: 0x7F0400A0
-			public const int listPreferredItemHeightLarge = 2130968736;
+			// aapt resource value: 0x7F0400C7
+			public const int listPreferredItemHeightSmall = 2130968775;
 			
-			// aapt resource value: 0x7F0400A1
-			public const int listPreferredItemHeightSmall = 2130968737;
+			// aapt resource value: 0x7F0400C8
+			public const int listPreferredItemPaddingLeft = 2130968776;
 			
-			// aapt resource value: 0x7F0400A2
-			public const int listPreferredItemPaddingLeft = 2130968738;
+			// aapt resource value: 0x7F0400C9
+			public const int listPreferredItemPaddingRight = 2130968777;
 			
-			// aapt resource value: 0x7F0400A3
-			public const int listPreferredItemPaddingRight = 2130968739;
+			// aapt resource value: 0x7F0400CA
+			public const int logo = 2130968778;
 			
-			// aapt resource value: 0x7F0400A4
-			public const int logo = 2130968740;
-			
-			// aapt resource value: 0x7F0400A5
-			public const int logoDescription = 2130968741;
+			// aapt resource value: 0x7F0400CB
+			public const int logoDescription = 2130968779;
 			
 			// aapt resource value: 0x7F0400CC
 			public const int maxActionInlineWidth = 2130968780;
 			
-			// aapt resource value: 0x7F0400A6
-			public const int maxButtonHeight = 2130968742;
+			// aapt resource value: 0x7F0400CD
+			public const int maxButtonHeight = 2130968781;
 			
-			// aapt resource value: 0x7F0400A7
-			public const int measureWithLargestChild = 2130968743;
+			// aapt resource value: 0x7F0400CE
+			public const int measureWithLargestChild = 2130968782;
 			
 			// aapt resource value: 0x7F04009A
 			public const int mediaRouteAudioTrackDrawable = 2130968730;
@@ -5065,44 +2759,44 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400CF
 			public const int menu = 2130968783;
 			
-			// aapt resource value: 0x7F0400A8
-			public const int multiChoiceItemLayout = 2130968744;
+			// aapt resource value: 0x7F0400D0
+			public const int multiChoiceItemLayout = 2130968784;
 			
-			// aapt resource value: 0x7F0400A9
-			public const int navigationContentDescription = 2130968745;
+			// aapt resource value: 0x7F0400D1
+			public const int navigationContentDescription = 2130968785;
 			
-			// aapt resource value: 0x7F0400AA
-			public const int navigationIcon = 2130968746;
+			// aapt resource value: 0x7F0400D2
+			public const int navigationIcon = 2130968786;
 			
-			// aapt resource value: 0x7F0400AB
-			public const int navigationMode = 2130968747;
+			// aapt resource value: 0x7F0400D3
+			public const int navigationMode = 2130968787;
 			
-			// aapt resource value: 0x7F0400AC
-			public const int numericModifiers = 2130968748;
+			// aapt resource value: 0x7F0400D4
+			public const int numericModifiers = 2130968788;
 			
-			// aapt resource value: 0x7F0400AD
-			public const int overlapAnchor = 2130968749;
+			// aapt resource value: 0x7F0400D5
+			public const int overlapAnchor = 2130968789;
 			
-			// aapt resource value: 0x7F0400AE
-			public const int paddingBottomNoButtons = 2130968750;
+			// aapt resource value: 0x7F0400D6
+			public const int paddingBottomNoButtons = 2130968790;
 			
-			// aapt resource value: 0x7F0400AF
-			public const int paddingEnd = 2130968751;
+			// aapt resource value: 0x7F0400D7
+			public const int paddingEnd = 2130968791;
 			
-			// aapt resource value: 0x7F0400B0
-			public const int paddingStart = 2130968752;
+			// aapt resource value: 0x7F0400D8
+			public const int paddingStart = 2130968792;
 			
-			// aapt resource value: 0x7F0400B1
-			public const int paddingTopNoTitle = 2130968753;
+			// aapt resource value: 0x7F0400D9
+			public const int paddingTopNoTitle = 2130968793;
 			
-			// aapt resource value: 0x7F0400B2
-			public const int panelBackground = 2130968754;
+			// aapt resource value: 0x7F0400DA
+			public const int panelBackground = 2130968794;
 			
-			// aapt resource value: 0x7F0400B3
-			public const int panelMenuListTheme = 2130968755;
+			// aapt resource value: 0x7F0400DB
+			public const int panelMenuListTheme = 2130968795;
 			
-			// aapt resource value: 0x7F0400B4
-			public const int panelMenuListWidth = 2130968756;
+			// aapt resource value: 0x7F0400DC
+			public const int panelMenuListWidth = 2130968796;
 			
 			// aapt resource value: 0x7F0400DD
 			public const int passwordToggleContentDescription = 2130968797;
@@ -5119,44 +2813,44 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400E1
 			public const int passwordToggleTintMode = 2130968801;
 			
-			// aapt resource value: 0x7F0400B5
-			public const int popupMenuStyle = 2130968757;
+			// aapt resource value: 0x7F0400E2
+			public const int popupMenuStyle = 2130968802;
 			
-			// aapt resource value: 0x7F0400B6
-			public const int popupTheme = 2130968758;
+			// aapt resource value: 0x7F0400E3
+			public const int popupTheme = 2130968803;
 			
-			// aapt resource value: 0x7F0400B7
-			public const int popupWindowStyle = 2130968759;
+			// aapt resource value: 0x7F0400E4
+			public const int popupWindowStyle = 2130968804;
 			
-			// aapt resource value: 0x7F0400B8
-			public const int preserveIconSpacing = 2130968760;
+			// aapt resource value: 0x7F0400E5
+			public const int preserveIconSpacing = 2130968805;
 			
 			// aapt resource value: 0x7F0400E6
 			public const int pressedTranslationZ = 2130968806;
 			
-			// aapt resource value: 0x7F0400B9
-			public const int progressBarPadding = 2130968761;
+			// aapt resource value: 0x7F0400E7
+			public const int progressBarPadding = 2130968807;
 			
-			// aapt resource value: 0x7F0400BA
-			public const int progressBarStyle = 2130968762;
+			// aapt resource value: 0x7F0400E8
+			public const int progressBarStyle = 2130968808;
 			
-			// aapt resource value: 0x7F0400BB
-			public const int queryBackground = 2130968763;
+			// aapt resource value: 0x7F0400E9
+			public const int queryBackground = 2130968809;
 			
-			// aapt resource value: 0x7F0400BC
-			public const int queryHint = 2130968764;
+			// aapt resource value: 0x7F0400EA
+			public const int queryHint = 2130968810;
 			
-			// aapt resource value: 0x7F0400BD
-			public const int radioButtonStyle = 2130968765;
+			// aapt resource value: 0x7F0400EB
+			public const int radioButtonStyle = 2130968811;
 			
-			// aapt resource value: 0x7F0400BE
-			public const int ratingBarStyle = 2130968766;
+			// aapt resource value: 0x7F0400EC
+			public const int ratingBarStyle = 2130968812;
 			
-			// aapt resource value: 0x7F0400BF
-			public const int ratingBarStyleIndicator = 2130968767;
+			// aapt resource value: 0x7F0400ED
+			public const int ratingBarStyleIndicator = 2130968813;
 			
-			// aapt resource value: 0x7F0400C0
-			public const int ratingBarStyleSmall = 2130968768;
+			// aapt resource value: 0x7F0400EE
+			public const int ratingBarStyleSmall = 2130968814;
 			
 			// aapt resource value: 0x7F0400EF
 			public const int reverseLayout = 2130968815;
@@ -5170,62 +2864,62 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0400F2
 			public const int scrimVisibleHeightTrigger = 2130968818;
 			
-			// aapt resource value: 0x7F0400C1
-			public const int searchHintIcon = 2130968769;
+			// aapt resource value: 0x7F0400F3
+			public const int searchHintIcon = 2130968819;
 			
-			// aapt resource value: 0x7F0400C2
-			public const int searchIcon = 2130968770;
+			// aapt resource value: 0x7F0400F4
+			public const int searchIcon = 2130968820;
 			
-			// aapt resource value: 0x7F0400C3
-			public const int searchViewStyle = 2130968771;
+			// aapt resource value: 0x7F0400F5
+			public const int searchViewStyle = 2130968821;
 			
-			// aapt resource value: 0x7F0400C4
-			public const int seekBarStyle = 2130968772;
+			// aapt resource value: 0x7F0400F6
+			public const int seekBarStyle = 2130968822;
 			
-			// aapt resource value: 0x7F0400C5
-			public const int selectableItemBackground = 2130968773;
+			// aapt resource value: 0x7F0400F7
+			public const int selectableItemBackground = 2130968823;
 			
-			// aapt resource value: 0x7F0400C6
-			public const int selectableItemBackgroundBorderless = 2130968774;
+			// aapt resource value: 0x7F0400F8
+			public const int selectableItemBackgroundBorderless = 2130968824;
 			
-			// aapt resource value: 0x7F0400C7
-			public const int showAsAction = 2130968775;
+			// aapt resource value: 0x7F0400F9
+			public const int showAsAction = 2130968825;
 			
-			// aapt resource value: 0x7F0400C8
-			public const int showDividers = 2130968776;
+			// aapt resource value: 0x7F0400FA
+			public const int showDividers = 2130968826;
 			
-			// aapt resource value: 0x7F0400C9
-			public const int showText = 2130968777;
+			// aapt resource value: 0x7F0400FB
+			public const int showText = 2130968827;
 			
-			// aapt resource value: 0x7F0400CA
-			public const int showTitle = 2130968778;
+			// aapt resource value: 0x7F0400FC
+			public const int showTitle = 2130968828;
 			
-			// aapt resource value: 0x7F0400CB
-			public const int singleChoiceItemLayout = 2130968779;
+			// aapt resource value: 0x7F0400FD
+			public const int singleChoiceItemLayout = 2130968829;
 			
 			// aapt resource value: 0x7F0400FE
 			public const int spanCount = 2130968830;
 			
-			// aapt resource value: 0x7F0400CC
-			public const int spinBars = 2130968780;
+			// aapt resource value: 0x7F0400FF
+			public const int spinBars = 2130968831;
 			
-			// aapt resource value: 0x7F0400CD
-			public const int spinnerDropDownItemStyle = 2130968781;
+			// aapt resource value: 0x7F040100
+			public const int spinnerDropDownItemStyle = 2130968832;
 			
-			// aapt resource value: 0x7F0400CE
-			public const int spinnerStyle = 2130968782;
+			// aapt resource value: 0x7F040101
+			public const int spinnerStyle = 2130968833;
 			
-			// aapt resource value: 0x7F0400CF
-			public const int splitTrack = 2130968783;
+			// aapt resource value: 0x7F040102
+			public const int splitTrack = 2130968834;
 			
-			// aapt resource value: 0x7F0400D0
-			public const int srcCompat = 2130968784;
+			// aapt resource value: 0x7F040103
+			public const int srcCompat = 2130968835;
 			
 			// aapt resource value: 0x7F040104
 			public const int stackFromEnd = 2130968836;
 			
-			// aapt resource value: 0x7F0400D1
-			public const int state_above_anchor = 2130968785;
+			// aapt resource value: 0x7F040105
+			public const int state_above_anchor = 2130968837;
 			
 			// aapt resource value: 0x7F040106
 			public const int state_collapsed = 2130968838;
@@ -5233,44 +2927,44 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F040107
 			public const int state_collapsible = 2130968839;
 			
-			// aapt resource value: 0x7F0400D2
-			public const int statusBarBackground = 2130968786;
+			// aapt resource value: 0x7F040108
+			public const int statusBarBackground = 2130968840;
 			
 			// aapt resource value: 0x7F040109
 			public const int statusBarScrim = 2130968841;
 			
-			// aapt resource value: 0x7F0400D3
-			public const int subMenuArrow = 2130968787;
+			// aapt resource value: 0x7F04010A
+			public const int subMenuArrow = 2130968842;
 			
-			// aapt resource value: 0x7F0400D4
-			public const int submitBackground = 2130968788;
+			// aapt resource value: 0x7F04010B
+			public const int submitBackground = 2130968843;
 			
-			// aapt resource value: 0x7F0400D5
-			public const int subtitle = 2130968789;
+			// aapt resource value: 0x7F04010C
+			public const int subtitle = 2130968844;
 			
-			// aapt resource value: 0x7F0400D6
-			public const int subtitleTextAppearance = 2130968790;
+			// aapt resource value: 0x7F04010D
+			public const int subtitleTextAppearance = 2130968845;
 			
-			// aapt resource value: 0x7F0400D7
-			public const int subtitleTextColor = 2130968791;
+			// aapt resource value: 0x7F04010E
+			public const int subtitleTextColor = 2130968846;
 			
-			// aapt resource value: 0x7F0400D8
-			public const int subtitleTextStyle = 2130968792;
+			// aapt resource value: 0x7F04010F
+			public const int subtitleTextStyle = 2130968847;
 			
-			// aapt resource value: 0x7F0400D9
-			public const int suggestionRowLayout = 2130968793;
+			// aapt resource value: 0x7F040110
+			public const int suggestionRowLayout = 2130968848;
 			
-			// aapt resource value: 0x7F0400DA
-			public const int switchMinWidth = 2130968794;
+			// aapt resource value: 0x7F040111
+			public const int switchMinWidth = 2130968849;
 			
-			// aapt resource value: 0x7F0400DB
-			public const int switchPadding = 2130968795;
+			// aapt resource value: 0x7F040112
+			public const int switchPadding = 2130968850;
 			
-			// aapt resource value: 0x7F0400DC
-			public const int switchStyle = 2130968796;
+			// aapt resource value: 0x7F040113
+			public const int switchStyle = 2130968851;
 			
-			// aapt resource value: 0x7F0400DD
-			public const int switchTextAppearance = 2130968797;
+			// aapt resource value: 0x7F040114
+			public const int switchTextAppearance = 2130968852;
 			
 			// aapt resource value: 0x7F040115
 			public const int tabBackground = 2130968853;
@@ -5320,182 +3014,167 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F040124
 			public const int tabTextColor = 2130968868;
 			
-			// aapt resource value: 0x7F0400DE
-			public const int textAllCaps = 2130968798;
+			// aapt resource value: 0x7F040125
+			public const int textAllCaps = 2130968869;
 			
-			// aapt resource value: 0x7F0400DF
-			public const int textAppearanceLargePopupMenu = 2130968799;
+			// aapt resource value: 0x7F040126
+			public const int textAppearanceLargePopupMenu = 2130968870;
 			
-			// aapt resource value: 0x7F0400E0
-			public const int textAppearanceListItem = 2130968800;
+			// aapt resource value: 0x7F040127
+			public const int textAppearanceListItem = 2130968871;
 			
-			// aapt resource value: 0x7F0400E1
-			public const int textAppearanceListItemSecondary = 2130968801;
+			// aapt resource value: 0x7F040128
+			public const int textAppearanceListItemSecondary = 2130968872;
 			
-			// aapt resource value: 0x7F0400E2
-			public const int textAppearanceListItemSmall = 2130968802;
+			// aapt resource value: 0x7F040129
+			public const int textAppearanceListItemSmall = 2130968873;
 			
-			// aapt resource value: 0x7F0400E3
-			public const int textAppearancePopupMenuHeader = 2130968803;
+			// aapt resource value: 0x7F04012A
+			public const int textAppearancePopupMenuHeader = 2130968874;
 			
-			// aapt resource value: 0x7F0400E4
-			public const int textAppearanceSearchResultSubtitle = 2130968804;
+			// aapt resource value: 0x7F04012B
+			public const int textAppearanceSearchResultSubtitle = 2130968875;
 			
-			// aapt resource value: 0x7F0400E5
-			public const int textAppearanceSearchResultTitle = 2130968805;
+			// aapt resource value: 0x7F04012C
+			public const int textAppearanceSearchResultTitle = 2130968876;
 			
-			// aapt resource value: 0x7F0400E6
-			public const int textAppearanceSmallPopupMenu = 2130968806;
+			// aapt resource value: 0x7F04012D
+			public const int textAppearanceSmallPopupMenu = 2130968877;
 			
-			// aapt resource value: 0x7F0400E7
-			public const int textColorAlertDialogListItem = 2130968807;
+			// aapt resource value: 0x7F04012E
+			public const int textColorAlertDialogListItem = 2130968878;
 			
 			// aapt resource value: 0x7F04012F
 			public const int textColorError = 2130968879;
 			
-			// aapt resource value: 0x7F0400E8
-			public const int textColorSearchUrl = 2130968808;
+			// aapt resource value: 0x7F040130
+			public const int textColorSearchUrl = 2130968880;
 			
-			// aapt resource value: 0x7F0400E9
-			public const int theme = 2130968809;
+			// aapt resource value: 0x7F040131
+			public const int theme = 2130968881;
 			
-			// aapt resource value: 0x7F0400EA
-			public const int thickness = 2130968810;
+			// aapt resource value: 0x7F040132
+			public const int thickness = 2130968882;
 			
-			// aapt resource value: 0x7F0400EB
-			public const int thumbTextPadding = 2130968811;
+			// aapt resource value: 0x7F040133
+			public const int thumbTextPadding = 2130968883;
 			
-			// aapt resource value: 0x7F0400EC
-			public const int thumbTint = 2130968812;
+			// aapt resource value: 0x7F040134
+			public const int thumbTint = 2130968884;
 			
-			// aapt resource value: 0x7F0400ED
-			public const int thumbTintMode = 2130968813;
+			// aapt resource value: 0x7F040135
+			public const int thumbTintMode = 2130968885;
 			
-			// aapt resource value: 0x7F0400EE
-			public const int tickMark = 2130968814;
+			// aapt resource value: 0x7F040136
+			public const int tickMark = 2130968886;
 			
-			// aapt resource value: 0x7F0400EF
-			public const int tickMarkTint = 2130968815;
+			// aapt resource value: 0x7F040137
+			public const int tickMarkTint = 2130968887;
 			
-			// aapt resource value: 0x7F0400F0
-			public const int tickMarkTintMode = 2130968816;
+			// aapt resource value: 0x7F040138
+			public const int tickMarkTintMode = 2130968888;
 			
-			// aapt resource value: 0x7F0400F1
-			public const int tint = 2130968817;
+			// aapt resource value: 0x7F040139
+			public const int tint = 2130968889;
 			
-			// aapt resource value: 0x7F0400F2
-			public const int tintMode = 2130968818;
+			// aapt resource value: 0x7F04013A
+			public const int tintMode = 2130968890;
 			
-			// aapt resource value: 0x7F0400F3
-			public const int title = 2130968819;
+			// aapt resource value: 0x7F04013B
+			public const int title = 2130968891;
 			
 			// aapt resource value: 0x7F04013C
 			public const int titleEnabled = 2130968892;
 			
-			// aapt resource value: 0x7F0400F4
-			public const int titleMargin = 2130968820;
+			// aapt resource value: 0x7F04013D
+			public const int titleMargin = 2130968893;
 			
-			// aapt resource value: 0x7F0400F5
-			public const int titleMarginBottom = 2130968821;
+			// aapt resource value: 0x7F04013E
+			public const int titleMarginBottom = 2130968894;
 			
-			// aapt resource value: 0x7F0400F6
-			public const int titleMarginEnd = 2130968822;
+			// aapt resource value: 0x7F04013F
+			public const int titleMarginEnd = 2130968895;
 			
-			// aapt resource value: 0x7F0400F9
-			public const int titleMargins = 2130968825;
+			// aapt resource value: 0x7F040142
+			public const int titleMargins = 2130968898;
 			
-			// aapt resource value: 0x7F0400F7
-			public const int titleMarginStart = 2130968823;
+			// aapt resource value: 0x7F040140
+			public const int titleMarginStart = 2130968896;
 			
-			// aapt resource value: 0x7F0400F8
-			public const int titleMarginTop = 2130968824;
+			// aapt resource value: 0x7F040141
+			public const int titleMarginTop = 2130968897;
 			
-			// aapt resource value: 0x7F0400FA
-			public const int titleTextAppearance = 2130968826;
+			// aapt resource value: 0x7F040143
+			public const int titleTextAppearance = 2130968899;
 			
-			// aapt resource value: 0x7F0400FB
-			public const int titleTextColor = 2130968827;
+			// aapt resource value: 0x7F040144
+			public const int titleTextColor = 2130968900;
 			
-			// aapt resource value: 0x7F0400FC
-			public const int titleTextStyle = 2130968828;
+			// aapt resource value: 0x7F040145
+			public const int titleTextStyle = 2130968901;
 			
 			// aapt resource value: 0x7F040146
 			public const int toolbarId = 2130968902;
 			
-			// aapt resource value: 0x7F0400FD
-			public const int toolbarNavigationButtonStyle = 2130968829;
+			// aapt resource value: 0x7F040147
+			public const int toolbarNavigationButtonStyle = 2130968903;
 			
-			// aapt resource value: 0x7F0400FE
-			public const int toolbarStyle = 2130968830;
+			// aapt resource value: 0x7F040148
+			public const int toolbarStyle = 2130968904;
 			
-			// aapt resource value: 0x7F0400FF
-			public const int tooltipForegroundColor = 2130968831;
+			// aapt resource value: 0x7F040149
+			public const int tooltipForegroundColor = 2130968905;
 			
-			// aapt resource value: 0x7F040100
-			public const int tooltipFrameBackground = 2130968832;
+			// aapt resource value: 0x7F04014A
+			public const int tooltipFrameBackground = 2130968906;
 			
-			// aapt resource value: 0x7F040101
-			public const int tooltipText = 2130968833;
+			// aapt resource value: 0x7F04014B
+			public const int tooltipText = 2130968907;
 			
-			// aapt resource value: 0x7F040102
-			public const int track = 2130968834;
+			// aapt resource value: 0x7F04014C
+			public const int track = 2130968908;
 			
-			// aapt resource value: 0x7F040103
-			public const int trackTint = 2130968835;
+			// aapt resource value: 0x7F04014D
+			public const int trackTint = 2130968909;
 			
-			// aapt resource value: 0x7F040104
-			public const int trackTintMode = 2130968836;
-			
-			// aapt resource value: 0x7F040105
-			public const int treeDownValues = 2130968837;
-			
-			// aapt resource value: 0x7F040106
-			public const int ttcIndex = 2130968838;
+			// aapt resource value: 0x7F04014E
+			public const int trackTintMode = 2130968910;
 			
 			// aapt resource value: 0x7F04014F
 			public const int useCompatPadding = 2130968911;
 			
-			// aapt resource value: 0x7F040107
-			public const int viewInflaterClass = 2130968839;
+			// aapt resource value: 0x7F040150
+			public const int voiceIcon = 2130968912;
 			
-			// aapt resource value: 0x7F040108
-			public const int voiceIcon = 2130968840;
+			// aapt resource value: 0x7F040151
+			public const int windowActionBar = 2130968913;
 			
-			// aapt resource value: 0x7F040109
-			public const int windowActionBar = 2130968841;
+			// aapt resource value: 0x7F040152
+			public const int windowActionBarOverlay = 2130968914;
 			
-			// aapt resource value: 0x7F04010A
-			public const int windowActionBarOverlay = 2130968842;
+			// aapt resource value: 0x7F040153
+			public const int windowActionModeOverlay = 2130968915;
 			
-			// aapt resource value: 0x7F04010B
-			public const int windowActionModeOverlay = 2130968843;
+			// aapt resource value: 0x7F040154
+			public const int windowFixedHeightMajor = 2130968916;
 			
-			// aapt resource value: 0x7F04010C
-			public const int windowFixedHeightMajor = 2130968844;
+			// aapt resource value: 0x7F040155
+			public const int windowFixedHeightMinor = 2130968917;
 			
-			// aapt resource value: 0x7F04010D
-			public const int windowFixedHeightMinor = 2130968845;
+			// aapt resource value: 0x7F040156
+			public const int windowFixedWidthMajor = 2130968918;
 			
-			// aapt resource value: 0x7F04010E
-			public const int windowFixedWidthMajor = 2130968846;
+			// aapt resource value: 0x7F040157
+			public const int windowFixedWidthMinor = 2130968919;
 			
-			// aapt resource value: 0x7F04010F
-			public const int windowFixedWidthMinor = 2130968847;
+			// aapt resource value: 0x7F040158
+			public const int windowMinWidthMajor = 2130968920;
 			
-			// aapt resource value: 0x7F040110
-			public const int windowMinWidthMajor = 2130968848;
+			// aapt resource value: 0x7F040159
+			public const int windowMinWidthMinor = 2130968921;
 			
-			// aapt resource value: 0x7F040111
-			public const int windowMinWidthMinor = 2130968849;
-			
-			// aapt resource value: 0x7F040112
-			public const int windowNoTitle = 2130968850;
-			
-			// aapt resource value: 0x7F040113
-			public const int xIndex = 2130968851;
-			
-			// aapt resource value: 0x7F040114
-			public const int zIndex = 2130968852;
+			// aapt resource value: 0x7F04015A
+			public const int windowNoTitle = 2130968922;
 			
 			static Attribute()
 			{
@@ -5706,152 +3385,146 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F060031
 			public const int design_tint_password_toggle = 2131099697;
 			
-			// aapt resource value: 0x7F060027
-			public const int dim_foreground_disabled_material_dark = 2131099687;
+			// aapt resource value: 0x7F060032
+			public const int dim_foreground_disabled_material_dark = 2131099698;
 			
-			// aapt resource value: 0x7F060028
-			public const int dim_foreground_disabled_material_light = 2131099688;
+			// aapt resource value: 0x7F060033
+			public const int dim_foreground_disabled_material_light = 2131099699;
 			
-			// aapt resource value: 0x7F060029
-			public const int dim_foreground_material_dark = 2131099689;
+			// aapt resource value: 0x7F060034
+			public const int dim_foreground_material_dark = 2131099700;
 			
-			// aapt resource value: 0x7F06002A
-			public const int dim_foreground_material_light = 2131099690;
+			// aapt resource value: 0x7F060035
+			public const int dim_foreground_material_light = 2131099701;
 			
 			// aapt resource value: 0x7F060036
 			public const int error_color_material = 2131099702;
 			
-			// aapt resource value: 0x7F06002B
-			public const int error_color_material_dark = 2131099691;
+			// aapt resource value: 0x7F060037
+			public const int foreground_material_dark = 2131099703;
 			
-			// aapt resource value: 0x7F06002C
-			public const int error_color_material_light = 2131099692;
+			// aapt resource value: 0x7F060038
+			public const int foreground_material_light = 2131099704;
 			
-			// aapt resource value: 0x7F06002D
-			public const int foreground_material_dark = 2131099693;
+			// aapt resource value: 0x7F060039
+			public const int highlighted_text_material_dark = 2131099705;
 			
-			// aapt resource value: 0x7F06002E
-			public const int foreground_material_light = 2131099694;
-			
-			// aapt resource value: 0x7F06002F
-			public const int highlighted_text_material_dark = 2131099695;
-			
-			// aapt resource value: 0x7F060030
-			public const int highlighted_text_material_light = 2131099696;
+			// aapt resource value: 0x7F06003A
+			public const int highlighted_text_material_light = 2131099706;
 			
 			// aapt resource value: 0x7F040002
 			public const int launcher_background = 2130968578;
 			
-			// aapt resource value: 0x7F060031
-			public const int material_blue_grey_800 = 2131099697;
-			
-			// aapt resource value: 0x7F060032
-			public const int material_blue_grey_900 = 2131099698;
-			
-			// aapt resource value: 0x7F060033
-			public const int material_blue_grey_950 = 2131099699;
-			
-			// aapt resource value: 0x7F060034
-			public const int material_deep_teal_200 = 2131099700;
-			
-			// aapt resource value: 0x7F060035
-			public const int material_deep_teal_500 = 2131099701;
-			
-			// aapt resource value: 0x7F060036
-			public const int material_grey_100 = 2131099702;
-			
-			// aapt resource value: 0x7F060037
-			public const int material_grey_300 = 2131099703;
-			
-			// aapt resource value: 0x7F060038
-			public const int material_grey_50 = 2131099704;
-			
-			// aapt resource value: 0x7F060039
-			public const int material_grey_600 = 2131099705;
-			
-			// aapt resource value: 0x7F06003A
-			public const int material_grey_800 = 2131099706;
-			
 			// aapt resource value: 0x7F06003B
-			public const int material_grey_850 = 2131099707;
+			public const int material_blue_grey_800 = 2131099707;
 			
 			// aapt resource value: 0x7F06003C
-			public const int material_grey_900 = 2131099708;
+			public const int material_blue_grey_900 = 2131099708;
 			
 			// aapt resource value: 0x7F06003D
-			public const int notification_action_color_filter = 2131099709;
+			public const int material_blue_grey_950 = 2131099709;
 			
 			// aapt resource value: 0x7F06003E
-			public const int notification_icon_bg_color = 2131099710;
+			public const int material_deep_teal_200 = 2131099710;
+			
+			// aapt resource value: 0x7F06003F
+			public const int material_deep_teal_500 = 2131099711;
+			
+			// aapt resource value: 0x7F060040
+			public const int material_grey_100 = 2131099712;
+			
+			// aapt resource value: 0x7F060041
+			public const int material_grey_300 = 2131099713;
+			
+			// aapt resource value: 0x7F060042
+			public const int material_grey_50 = 2131099714;
+			
+			// aapt resource value: 0x7F060043
+			public const int material_grey_600 = 2131099715;
+			
+			// aapt resource value: 0x7F060044
+			public const int material_grey_800 = 2131099716;
+			
+			// aapt resource value: 0x7F060045
+			public const int material_grey_850 = 2131099717;
+			
+			// aapt resource value: 0x7F060046
+			public const int material_grey_900 = 2131099718;
+			
+			// aapt resource value: 0x7F060001
+			public const int notification_action_color_filter = 2131099649;
+			
+			// aapt resource value: 0x7F060002
+			public const int notification_icon_bg_color = 2131099650;
 			
 			// aapt resource value: 0x7F060049
 			public const int notification_material_background_media_default_color = 2131099721;
 			
-			// aapt resource value: 0x7F06003F
-			public const int primary_dark_material_dark = 2131099711;
-			
-			// aapt resource value: 0x7F060040
-			public const int primary_dark_material_light = 2131099712;
-			
-			// aapt resource value: 0x7F060041
-			public const int primary_material_dark = 2131099713;
-			
-			// aapt resource value: 0x7F060042
-			public const int primary_material_light = 2131099714;
-			
-			// aapt resource value: 0x7F060043
-			public const int primary_text_default_material_dark = 2131099715;
-			
-			// aapt resource value: 0x7F060044
-			public const int primary_text_default_material_light = 2131099716;
-			
-			// aapt resource value: 0x7F060045
-			public const int primary_text_disabled_material_dark = 2131099717;
-			
-			// aapt resource value: 0x7F060046
-			public const int primary_text_disabled_material_light = 2131099718;
-			
-			// aapt resource value: 0x7F060047
-			public const int ripple_material_dark = 2131099719;
-			
-			// aapt resource value: 0x7F060048
-			public const int ripple_material_light = 2131099720;
-			
-			// aapt resource value: 0x7F060049
-			public const int secondary_text_default_material_dark = 2131099721;
-			
 			// aapt resource value: 0x7F06004A
-			public const int secondary_text_default_material_light = 2131099722;
+			public const int primary_dark_material_dark = 2131099722;
 			
 			// aapt resource value: 0x7F06004B
-			public const int secondary_text_disabled_material_dark = 2131099723;
+			public const int primary_dark_material_light = 2131099723;
 			
 			// aapt resource value: 0x7F06004C
-			public const int secondary_text_disabled_material_light = 2131099724;
+			public const int primary_material_dark = 2131099724;
 			
 			// aapt resource value: 0x7F06004D
-			public const int switch_thumb_disabled_material_dark = 2131099725;
+			public const int primary_material_light = 2131099725;
 			
 			// aapt resource value: 0x7F06004E
-			public const int switch_thumb_disabled_material_light = 2131099726;
+			public const int primary_text_default_material_dark = 2131099726;
 			
 			// aapt resource value: 0x7F06004F
-			public const int switch_thumb_material_dark = 2131099727;
+			public const int primary_text_default_material_light = 2131099727;
 			
 			// aapt resource value: 0x7F060050
-			public const int switch_thumb_material_light = 2131099728;
+			public const int primary_text_disabled_material_dark = 2131099728;
 			
 			// aapt resource value: 0x7F060051
-			public const int switch_thumb_normal_material_dark = 2131099729;
+			public const int primary_text_disabled_material_light = 2131099729;
 			
 			// aapt resource value: 0x7F060052
-			public const int switch_thumb_normal_material_light = 2131099730;
+			public const int ripple_material_dark = 2131099730;
 			
-			// aapt resource value: 0x7F060053
-			public const int tooltip_background_dark = 2131099731;
+			// aapt resource value: 0x7F060003
+			public const int ripple_material_light = 2131099651;
 			
 			// aapt resource value: 0x7F060054
-			public const int tooltip_background_light = 2131099732;
+			public const int secondary_text_default_material_dark = 2131099732;
+			
+			// aapt resource value: 0x7F060004
+			public const int secondary_text_default_material_light = 2131099652;
+			
+			// aapt resource value: 0x7F060056
+			public const int secondary_text_disabled_material_dark = 2131099734;
+			
+			// aapt resource value: 0x7F060057
+			public const int secondary_text_disabled_material_light = 2131099735;
+			
+			// aapt resource value: 0x7F060058
+			public const int switch_thumb_disabled_material_dark = 2131099736;
+			
+			// aapt resource value: 0x7F060059
+			public const int switch_thumb_disabled_material_light = 2131099737;
+			
+			// aapt resource value: 0x7F06005A
+			public const int switch_thumb_material_dark = 2131099738;
+			
+			// aapt resource value: 0x7F06005B
+			public const int switch_thumb_material_light = 2131099739;
+			
+			// aapt resource value: 0x7F06005C
+			public const int switch_thumb_normal_material_dark = 2131099740;
+			
+			// aapt resource value: 0x7F06005D
+			public const int switch_thumb_normal_material_light = 2131099741;
+			
+			// aapt resource value: 0x7F06005E
+			public const int tooltip_background_dark = 2131099742;
+			
+			// aapt resource value: 0x7F06005F
+			public const int tooltip_background_light = 2131099743;
 			
 			static Color()
 			{
@@ -5866,233 +3539,227 @@ namespace GoogleCalender.Droid
 		public partial class Dimension
 		{
 			
-			// aapt resource value: 0x7F070001
-			public const int abc_action_bar_content_inset_material = 2131165185;
+			// aapt resource value: 0x7F080001
+			public const int abc_action_bar_content_inset_material = 2131230721;
 			
-			// aapt resource value: 0x7F070002
-			public const int abc_action_bar_content_inset_with_nav = 2131165186;
+			// aapt resource value: 0x7F080002
+			public const int abc_action_bar_content_inset_with_nav = 2131230722;
 			
-			// aapt resource value: 0x7F070003
-			public const int abc_action_bar_default_height_material = 2131165187;
+			// aapt resource value: 0x7F080003
+			public const int abc_action_bar_default_height_material = 2131230723;
 			
-			// aapt resource value: 0x7F070004
-			public const int abc_action_bar_default_padding_end_material = 2131165188;
+			// aapt resource value: 0x7F080004
+			public const int abc_action_bar_default_padding_end_material = 2131230724;
 			
-			// aapt resource value: 0x7F070005
-			public const int abc_action_bar_default_padding_start_material = 2131165189;
+			// aapt resource value: 0x7F080005
+			public const int abc_action_bar_default_padding_start_material = 2131230725;
 			
-			// aapt resource value: 0x7F070006
-			public const int abc_action_bar_elevation_material = 2131165190;
+			// aapt resource value: 0x7F080006
+			public const int abc_action_bar_elevation_material = 2131230726;
 			
-			// aapt resource value: 0x7F070007
-			public const int abc_action_bar_icon_vertical_padding_material = 2131165191;
+			// aapt resource value: 0x7F080007
+			public const int abc_action_bar_icon_vertical_padding_material = 2131230727;
 			
-			// aapt resource value: 0x7F070008
-			public const int abc_action_bar_overflow_padding_end_material = 2131165192;
+			// aapt resource value: 0x7F080008
+			public const int abc_action_bar_overflow_padding_end_material = 2131230728;
 			
-			// aapt resource value: 0x7F070009
-			public const int abc_action_bar_overflow_padding_start_material = 2131165193;
+			// aapt resource value: 0x7F080009
+			public const int abc_action_bar_overflow_padding_start_material = 2131230729;
 			
 			// aapt resource value: 0x7F08000A
 			public const int abc_action_bar_progress_bar_size = 2131230730;
 			
-			// aapt resource value: 0x7F07000A
-			public const int abc_action_bar_stacked_max_height = 2131165194;
+			// aapt resource value: 0x7F08000B
+			public const int abc_action_bar_stacked_max_height = 2131230731;
 			
-			// aapt resource value: 0x7F07000B
-			public const int abc_action_bar_stacked_tab_max_width = 2131165195;
+			// aapt resource value: 0x7F08000C
+			public const int abc_action_bar_stacked_tab_max_width = 2131230732;
 			
-			// aapt resource value: 0x7F07000C
-			public const int abc_action_bar_subtitle_bottom_margin_material = 2131165196;
+			// aapt resource value: 0x7F08000D
+			public const int abc_action_bar_subtitle_bottom_margin_material = 2131230733;
 			
-			// aapt resource value: 0x7F07000D
-			public const int abc_action_bar_subtitle_top_margin_material = 2131165197;
+			// aapt resource value: 0x7F08000E
+			public const int abc_action_bar_subtitle_top_margin_material = 2131230734;
 			
-			// aapt resource value: 0x7F07000E
-			public const int abc_action_button_min_height_material = 2131165198;
+			// aapt resource value: 0x7F08000F
+			public const int abc_action_button_min_height_material = 2131230735;
 			
-			// aapt resource value: 0x7F07000F
-			public const int abc_action_button_min_width_material = 2131165199;
+			// aapt resource value: 0x7F080010
+			public const int abc_action_button_min_width_material = 2131230736;
 			
-			// aapt resource value: 0x7F070010
-			public const int abc_action_button_min_width_overflow_material = 2131165200;
+			// aapt resource value: 0x7F080011
+			public const int abc_action_button_min_width_overflow_material = 2131230737;
 			
-			// aapt resource value: 0x7F070011
-			public const int abc_alert_dialog_button_bar_height = 2131165201;
+			// aapt resource value: 0x7F080012
+			public const int abc_alert_dialog_button_bar_height = 2131230738;
 			
-			// aapt resource value: 0x7F070012
-			public const int abc_alert_dialog_button_dimen = 2131165202;
+			// aapt resource value: 0x7F080013
+			public const int abc_button_inset_horizontal_material = 2131230739;
 			
-			// aapt resource value: 0x7F070013
-			public const int abc_button_inset_horizontal_material = 2131165203;
+			// aapt resource value: 0x7F080014
+			public const int abc_button_inset_vertical_material = 2131230740;
 			
-			// aapt resource value: 0x7F070014
-			public const int abc_button_inset_vertical_material = 2131165204;
+			// aapt resource value: 0x7F080015
+			public const int abc_button_padding_horizontal_material = 2131230741;
 			
-			// aapt resource value: 0x7F070015
-			public const int abc_button_padding_horizontal_material = 2131165205;
+			// aapt resource value: 0x7F080016
+			public const int abc_button_padding_vertical_material = 2131230742;
 			
-			// aapt resource value: 0x7F070016
-			public const int abc_button_padding_vertical_material = 2131165206;
+			// aapt resource value: 0x7F080017
+			public const int abc_cascading_menus_min_smallest_width = 2131230743;
 			
-			// aapt resource value: 0x7F070017
-			public const int abc_cascading_menus_min_smallest_width = 2131165207;
+			// aapt resource value: 0x7F080018
+			public const int abc_config_prefDialogWidth = 2131230744;
 			
-			// aapt resource value: 0x7F070018
-			public const int abc_config_prefDialogWidth = 2131165208;
+			// aapt resource value: 0x7F080019
+			public const int abc_control_corner_material = 2131230745;
 			
-			// aapt resource value: 0x7F070019
-			public const int abc_control_corner_material = 2131165209;
+			// aapt resource value: 0x7F08001A
+			public const int abc_control_inset_material = 2131230746;
 			
-			// aapt resource value: 0x7F07001A
-			public const int abc_control_inset_material = 2131165210;
+			// aapt resource value: 0x7F08001B
+			public const int abc_control_padding_material = 2131230747;
 			
-			// aapt resource value: 0x7F07001B
-			public const int abc_control_padding_material = 2131165211;
+			// aapt resource value: 0x7F08001C
+			public const int abc_dialog_fixed_height_major = 2131230748;
 			
-			// aapt resource value: 0x7F07001C
-			public const int abc_dialog_corner_radius_material = 2131165212;
+			// aapt resource value: 0x7F08001D
+			public const int abc_dialog_fixed_height_minor = 2131230749;
 			
-			// aapt resource value: 0x7F07001D
-			public const int abc_dialog_fixed_height_major = 2131165213;
+			// aapt resource value: 0x7F08001E
+			public const int abc_dialog_fixed_width_major = 2131230750;
 			
-			// aapt resource value: 0x7F07001E
-			public const int abc_dialog_fixed_height_minor = 2131165214;
+			// aapt resource value: 0x7F08001F
+			public const int abc_dialog_fixed_width_minor = 2131230751;
 			
-			// aapt resource value: 0x7F07001F
-			public const int abc_dialog_fixed_width_major = 2131165215;
+			// aapt resource value: 0x7F080020
+			public const int abc_dialog_list_padding_bottom_no_buttons = 2131230752;
 			
-			// aapt resource value: 0x7F070020
-			public const int abc_dialog_fixed_width_minor = 2131165216;
+			// aapt resource value: 0x7F080021
+			public const int abc_dialog_list_padding_top_no_title = 2131230753;
 			
-			// aapt resource value: 0x7F070021
-			public const int abc_dialog_list_padding_bottom_no_buttons = 2131165217;
+			// aapt resource value: 0x7F080022
+			public const int abc_dialog_min_width_major = 2131230754;
 			
-			// aapt resource value: 0x7F070022
-			public const int abc_dialog_list_padding_top_no_title = 2131165218;
+			// aapt resource value: 0x7F080023
+			public const int abc_dialog_min_width_minor = 2131230755;
 			
-			// aapt resource value: 0x7F070023
-			public const int abc_dialog_min_width_major = 2131165219;
+			// aapt resource value: 0x7F080024
+			public const int abc_dialog_padding_material = 2131230756;
 			
-			// aapt resource value: 0x7F070024
-			public const int abc_dialog_min_width_minor = 2131165220;
+			// aapt resource value: 0x7F080025
+			public const int abc_dialog_padding_top_material = 2131230757;
 			
-			// aapt resource value: 0x7F070025
-			public const int abc_dialog_padding_material = 2131165221;
+			// aapt resource value: 0x7F080026
+			public const int abc_dialog_title_divider_material = 2131230758;
 			
-			// aapt resource value: 0x7F070026
-			public const int abc_dialog_padding_top_material = 2131165222;
+			// aapt resource value: 0x7F080027
+			public const int abc_disabled_alpha_material_dark = 2131230759;
 			
-			// aapt resource value: 0x7F070027
-			public const int abc_dialog_title_divider_material = 2131165223;
+			// aapt resource value: 0x7F080028
+			public const int abc_disabled_alpha_material_light = 2131230760;
 			
-			// aapt resource value: 0x7F070028
-			public const int abc_disabled_alpha_material_dark = 2131165224;
+			// aapt resource value: 0x7F080029
+			public const int abc_dropdownitem_icon_width = 2131230761;
 			
-			// aapt resource value: 0x7F070029
-			public const int abc_disabled_alpha_material_light = 2131165225;
+			// aapt resource value: 0x7F08002A
+			public const int abc_dropdownitem_text_padding_left = 2131230762;
 			
-			// aapt resource value: 0x7F07002A
-			public const int abc_dropdownitem_icon_width = 2131165226;
+			// aapt resource value: 0x7F08002B
+			public const int abc_dropdownitem_text_padding_right = 2131230763;
 			
-			// aapt resource value: 0x7F07002B
-			public const int abc_dropdownitem_text_padding_left = 2131165227;
+			// aapt resource value: 0x7F08002C
+			public const int abc_edit_text_inset_bottom_material = 2131230764;
 			
-			// aapt resource value: 0x7F07002C
-			public const int abc_dropdownitem_text_padding_right = 2131165228;
+			// aapt resource value: 0x7F08002D
+			public const int abc_edit_text_inset_horizontal_material = 2131230765;
 			
-			// aapt resource value: 0x7F07002D
-			public const int abc_edit_text_inset_bottom_material = 2131165229;
+			// aapt resource value: 0x7F08002E
+			public const int abc_edit_text_inset_top_material = 2131230766;
 			
-			// aapt resource value: 0x7F07002E
-			public const int abc_edit_text_inset_horizontal_material = 2131165230;
+			// aapt resource value: 0x7F08002F
+			public const int abc_floating_window_z = 2131230767;
 			
-			// aapt resource value: 0x7F07002F
-			public const int abc_edit_text_inset_top_material = 2131165231;
+			// aapt resource value: 0x7F080030
+			public const int abc_list_item_padding_horizontal_material = 2131230768;
 			
-			// aapt resource value: 0x7F070030
-			public const int abc_floating_window_z = 2131165232;
+			// aapt resource value: 0x7F080031
+			public const int abc_panel_menu_list_width = 2131230769;
 			
-			// aapt resource value: 0x7F070031
-			public const int abc_list_item_padding_horizontal_material = 2131165233;
+			// aapt resource value: 0x7F080032
+			public const int abc_progress_bar_height_material = 2131230770;
 			
-			// aapt resource value: 0x7F070032
-			public const int abc_panel_menu_list_width = 2131165234;
+			// aapt resource value: 0x7F080033
+			public const int abc_search_view_preferred_height = 2131230771;
 			
-			// aapt resource value: 0x7F070033
-			public const int abc_progress_bar_height_material = 2131165235;
+			// aapt resource value: 0x7F080034
+			public const int abc_search_view_preferred_width = 2131230772;
 			
-			// aapt resource value: 0x7F070034
-			public const int abc_search_view_preferred_height = 2131165236;
+			// aapt resource value: 0x7F080035
+			public const int abc_seekbar_track_background_height_material = 2131230773;
 			
-			// aapt resource value: 0x7F070035
-			public const int abc_search_view_preferred_width = 2131165237;
+			// aapt resource value: 0x7F080036
+			public const int abc_seekbar_track_progress_height_material = 2131230774;
 			
-			// aapt resource value: 0x7F070036
-			public const int abc_seekbar_track_background_height_material = 2131165238;
+			// aapt resource value: 0x7F080037
+			public const int abc_select_dialog_padding_start_material = 2131230775;
 			
-			// aapt resource value: 0x7F070037
-			public const int abc_seekbar_track_progress_height_material = 2131165239;
+			// aapt resource value: 0x7F080038
+			public const int abc_switch_padding = 2131230776;
 			
-			// aapt resource value: 0x7F070038
-			public const int abc_select_dialog_padding_start_material = 2131165240;
+			// aapt resource value: 0x7F080039
+			public const int abc_text_size_body_1_material = 2131230777;
 			
-			// aapt resource value: 0x7F070039
-			public const int abc_switch_padding = 2131165241;
+			// aapt resource value: 0x7F08003A
+			public const int abc_text_size_body_2_material = 2131230778;
 			
-			// aapt resource value: 0x7F07003A
-			public const int abc_text_size_body_1_material = 2131165242;
+			// aapt resource value: 0x7F08003B
+			public const int abc_text_size_button_material = 2131230779;
 			
-			// aapt resource value: 0x7F07003B
-			public const int abc_text_size_body_2_material = 2131165243;
+			// aapt resource value: 0x7F08003C
+			public const int abc_text_size_caption_material = 2131230780;
 			
-			// aapt resource value: 0x7F07003C
-			public const int abc_text_size_button_material = 2131165244;
+			// aapt resource value: 0x7F08003D
+			public const int abc_text_size_display_1_material = 2131230781;
 			
-			// aapt resource value: 0x7F07003D
-			public const int abc_text_size_caption_material = 2131165245;
+			// aapt resource value: 0x7F08003E
+			public const int abc_text_size_display_2_material = 2131230782;
 			
-			// aapt resource value: 0x7F07003E
-			public const int abc_text_size_display_1_material = 2131165246;
+			// aapt resource value: 0x7F08003F
+			public const int abc_text_size_display_3_material = 2131230783;
 			
-			// aapt resource value: 0x7F07003F
-			public const int abc_text_size_display_2_material = 2131165247;
+			// aapt resource value: 0x7F080040
+			public const int abc_text_size_display_4_material = 2131230784;
 			
-			// aapt resource value: 0x7F070040
-			public const int abc_text_size_display_3_material = 2131165248;
+			// aapt resource value: 0x7F080041
+			public const int abc_text_size_headline_material = 2131230785;
 			
-			// aapt resource value: 0x7F070041
-			public const int abc_text_size_display_4_material = 2131165249;
+			// aapt resource value: 0x7F080042
+			public const int abc_text_size_large_material = 2131230786;
 			
-			// aapt resource value: 0x7F070042
-			public const int abc_text_size_headline_material = 2131165250;
+			// aapt resource value: 0x7F080043
+			public const int abc_text_size_medium_material = 2131230787;
 			
-			// aapt resource value: 0x7F070043
-			public const int abc_text_size_large_material = 2131165251;
+			// aapt resource value: 0x7F080044
+			public const int abc_text_size_menu_header_material = 2131230788;
 			
-			// aapt resource value: 0x7F070044
-			public const int abc_text_size_medium_material = 2131165252;
+			// aapt resource value: 0x7F080045
+			public const int abc_text_size_menu_material = 2131230789;
 			
-			// aapt resource value: 0x7F070045
-			public const int abc_text_size_menu_header_material = 2131165253;
+			// aapt resource value: 0x7F080046
+			public const int abc_text_size_small_material = 2131230790;
 			
-			// aapt resource value: 0x7F070046
-			public const int abc_text_size_menu_material = 2131165254;
+			// aapt resource value: 0x7F080047
+			public const int abc_text_size_subhead_material = 2131230791;
 			
-			// aapt resource value: 0x7F070047
-			public const int abc_text_size_small_material = 2131165255;
+			// aapt resource value: 0x7F080048
+			public const int abc_text_size_subtitle_material_toolbar = 2131230792;
 			
-			// aapt resource value: 0x7F070048
-			public const int abc_text_size_subhead_material = 2131165256;
+			// aapt resource value: 0x7F080049
+			public const int abc_text_size_title_material = 2131230793;
 			
-			// aapt resource value: 0x7F070049
-			public const int abc_text_size_subtitle_material_toolbar = 2131165257;
-			
-			// aapt resource value: 0x7F07004A
-			public const int abc_text_size_title_material = 2131165258;
-			
-			// aapt resource value: 0x7F07004B
-			public const int abc_text_size_title_material_toolbar = 2131165259;
+			// aapt resource value: 0x7F08004A
+			public const int abc_text_size_title_material_toolbar = 2131230794;
 			
 			// aapt resource value: 0x7F080001
 			public const int cardview_compat_inset_shadow = 2131230721;
@@ -6103,26 +3770,20 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F080003
 			public const int cardview_default_radius = 2131230723;
 			
-			// aapt resource value: 0x7F07004C
-			public const int compat_button_inset_horizontal_material = 2131165260;
+			// aapt resource value: 0x7F080001
+			public const int compat_button_inset_horizontal_material = 2131230721;
 			
-			// aapt resource value: 0x7F07004D
-			public const int compat_button_inset_vertical_material = 2131165261;
+			// aapt resource value: 0x7F080002
+			public const int compat_button_inset_vertical_material = 2131230722;
 			
-			// aapt resource value: 0x7F07004E
-			public const int compat_button_padding_horizontal_material = 2131165262;
+			// aapt resource value: 0x7F080003
+			public const int compat_button_padding_horizontal_material = 2131230723;
 			
-			// aapt resource value: 0x7F07004F
-			public const int compat_button_padding_vertical_material = 2131165263;
+			// aapt resource value: 0x7F080004
+			public const int compat_button_padding_vertical_material = 2131230724;
 			
-			// aapt resource value: 0x7F070050
-			public const int compat_control_corner_material = 2131165264;
-			
-			// aapt resource value: 0x7F070051
-			public const int compat_notification_large_icon_max_height = 2131165265;
-			
-			// aapt resource value: 0x7F070052
-			public const int compat_notification_large_icon_max_width = 2131165266;
+			// aapt resource value: 0x7F080005
+			public const int compat_control_corner_material = 2131230725;
 			
 			// aapt resource value: 0x7F080050
 			public const int design_appbar_elevation = 2131230800;
@@ -6238,11 +3899,11 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F080075
 			public const int design_tab_text_size_2line = 2131230837;
 			
-			// aapt resource value: 0x7F070053
-			public const int disabled_alpha_material_dark = 2131165267;
+			// aapt resource value: 0x7F080076
+			public const int disabled_alpha_material_dark = 2131230838;
 			
-			// aapt resource value: 0x7F070054
-			public const int disabled_alpha_material_light = 2131165268;
+			// aapt resource value: 0x7F080077
+			public const int disabled_alpha_material_light = 2131230839;
 			
 			// aapt resource value: 0x7F080078
 			public const int fastscroll_default_thickness = 2131230840;
@@ -6253,26 +3914,26 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F08007A
 			public const int fastscroll_minimum_range = 2131230842;
 			
-			// aapt resource value: 0x7F070055
-			public const int highlight_alpha_material_colored = 2131165269;
+			// aapt resource value: 0x7F08007B
+			public const int highlight_alpha_material_colored = 2131230843;
 			
-			// aapt resource value: 0x7F070056
-			public const int highlight_alpha_material_dark = 2131165270;
+			// aapt resource value: 0x7F08007C
+			public const int highlight_alpha_material_dark = 2131230844;
 			
-			// aapt resource value: 0x7F070057
-			public const int highlight_alpha_material_light = 2131165271;
+			// aapt resource value: 0x7F08007D
+			public const int highlight_alpha_material_light = 2131230845;
 			
-			// aapt resource value: 0x7F070058
-			public const int hint_alpha_material_dark = 2131165272;
+			// aapt resource value: 0x7F08007E
+			public const int hint_alpha_material_dark = 2131230846;
 			
-			// aapt resource value: 0x7F070059
-			public const int hint_alpha_material_light = 2131165273;
+			// aapt resource value: 0x7F08007F
+			public const int hint_alpha_material_light = 2131230847;
 			
-			// aapt resource value: 0x7F07005A
-			public const int hint_pressed_alpha_material_dark = 2131165274;
+			// aapt resource value: 0x7F080080
+			public const int hint_pressed_alpha_material_dark = 2131230848;
 			
-			// aapt resource value: 0x7F07005B
-			public const int hint_pressed_alpha_material_light = 2131165275;
+			// aapt resource value: 0x7F080081
+			public const int hint_pressed_alpha_material_light = 2131230849;
 			
 			// aapt resource value: 0x7F080082
 			public const int item_touch_helper_max_drag_scroll_per_frame = 2131230850;
@@ -6301,74 +3962,74 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F08005E
 			public const int mr_dialog_fixed_width_minor = 2131230814;
 			
-			// aapt resource value: 0x7F07005C
-			public const int notification_action_icon_size = 2131165276;
+			// aapt resource value: 0x7F080006
+			public const int notification_action_icon_size = 2131230726;
 			
-			// aapt resource value: 0x7F07005D
-			public const int notification_action_text_size = 2131165277;
+			// aapt resource value: 0x7F080007
+			public const int notification_action_text_size = 2131230727;
 			
-			// aapt resource value: 0x7F07005E
-			public const int notification_big_circle_margin = 2131165278;
+			// aapt resource value: 0x7F080008
+			public const int notification_big_circle_margin = 2131230728;
 			
-			// aapt resource value: 0x7F07005F
-			public const int notification_content_margin_start = 2131165279;
+			// aapt resource value: 0x7F080009
+			public const int notification_content_margin_start = 2131230729;
 			
-			// aapt resource value: 0x7F070060
-			public const int notification_large_icon_height = 2131165280;
+			// aapt resource value: 0x7F08000A
+			public const int notification_large_icon_height = 2131230730;
 			
-			// aapt resource value: 0x7F070061
-			public const int notification_large_icon_width = 2131165281;
+			// aapt resource value: 0x7F08000B
+			public const int notification_large_icon_width = 2131230731;
 			
-			// aapt resource value: 0x7F070062
-			public const int notification_main_column_padding_top = 2131165282;
+			// aapt resource value: 0x7F08000C
+			public const int notification_main_column_padding_top = 2131230732;
 			
-			// aapt resource value: 0x7F070063
-			public const int notification_media_narrow_margin = 2131165283;
+			// aapt resource value: 0x7F08000D
+			public const int notification_media_narrow_margin = 2131230733;
 			
-			// aapt resource value: 0x7F070064
-			public const int notification_right_icon_size = 2131165284;
+			// aapt resource value: 0x7F08000E
+			public const int notification_right_icon_size = 2131230734;
 			
-			// aapt resource value: 0x7F070065
-			public const int notification_right_side_padding_top = 2131165285;
+			// aapt resource value: 0x7F08000F
+			public const int notification_right_side_padding_top = 2131230735;
 			
-			// aapt resource value: 0x7F070066
-			public const int notification_small_icon_background_padding = 2131165286;
+			// aapt resource value: 0x7F080010
+			public const int notification_small_icon_background_padding = 2131230736;
 			
-			// aapt resource value: 0x7F070067
-			public const int notification_small_icon_size_as_large = 2131165287;
+			// aapt resource value: 0x7F080011
+			public const int notification_small_icon_size_as_large = 2131230737;
 			
-			// aapt resource value: 0x7F070068
-			public const int notification_subtext_size = 2131165288;
+			// aapt resource value: 0x7F080012
+			public const int notification_subtext_size = 2131230738;
 			
-			// aapt resource value: 0x7F070069
-			public const int notification_top_pad = 2131165289;
+			// aapt resource value: 0x7F080013
+			public const int notification_top_pad = 2131230739;
 			
-			// aapt resource value: 0x7F07006A
-			public const int notification_top_pad_large_text = 2131165290;
+			// aapt resource value: 0x7F080014
+			public const int notification_top_pad_large_text = 2131230740;
 			
-			// aapt resource value: 0x7F07006B
-			public const int tooltip_corner_radius = 2131165291;
+			// aapt resource value: 0x7F080094
+			public const int tooltip_corner_radius = 2131230868;
 			
-			// aapt resource value: 0x7F07006C
-			public const int tooltip_horizontal_padding = 2131165292;
+			// aapt resource value: 0x7F080095
+			public const int tooltip_horizontal_padding = 2131230869;
 			
-			// aapt resource value: 0x7F07006D
-			public const int tooltip_margin = 2131165293;
+			// aapt resource value: 0x7F080096
+			public const int tooltip_margin = 2131230870;
 			
-			// aapt resource value: 0x7F07006E
-			public const int tooltip_precise_anchor_extra_offset = 2131165294;
+			// aapt resource value: 0x7F080097
+			public const int tooltip_precise_anchor_extra_offset = 2131230871;
 			
-			// aapt resource value: 0x7F07006F
-			public const int tooltip_precise_anchor_threshold = 2131165295;
+			// aapt resource value: 0x7F080098
+			public const int tooltip_precise_anchor_threshold = 2131230872;
 			
-			// aapt resource value: 0x7F070070
-			public const int tooltip_vertical_padding = 2131165296;
+			// aapt resource value: 0x7F080099
+			public const int tooltip_vertical_padding = 2131230873;
 			
-			// aapt resource value: 0x7F070071
-			public const int tooltip_y_offset_non_touch = 2131165297;
+			// aapt resource value: 0x7F08009A
+			public const int tooltip_y_offset_non_touch = 2131230874;
 			
-			// aapt resource value: 0x7F070072
-			public const int tooltip_y_offset_touch = 2131165298;
+			// aapt resource value: 0x7F08009B
+			public const int tooltip_y_offset_touch = 2131230875;
 			
 			static Dimension()
 			{
@@ -6383,269 +4044,260 @@ namespace GoogleCalender.Droid
 		public partial class Drawable
 		{
 			
-			// aapt resource value: 0x7F080001
-			public const int abc_ab_share_pack_mtrl_alpha = 2131230721;
+			// aapt resource value: 0x7F090001
+			public const int abc_ab_share_pack_mtrl_alpha = 2131296257;
 			
-			// aapt resource value: 0x7F080002
-			public const int abc_action_bar_item_background_material = 2131230722;
+			// aapt resource value: 0x7F090002
+			public const int abc_action_bar_item_background_material = 2131296258;
 			
-			// aapt resource value: 0x7F080003
-			public const int abc_btn_borderless_material = 2131230723;
+			// aapt resource value: 0x7F090003
+			public const int abc_btn_borderless_material = 2131296259;
 			
-			// aapt resource value: 0x7F080004
-			public const int abc_btn_check_material = 2131230724;
+			// aapt resource value: 0x7F090004
+			public const int abc_btn_check_material = 2131296260;
 			
-			// aapt resource value: 0x7F080005
-			public const int abc_btn_check_to_on_mtrl_000 = 2131230725;
+			// aapt resource value: 0x7F090005
+			public const int abc_btn_check_to_on_mtrl_000 = 2131296261;
 			
-			// aapt resource value: 0x7F080006
-			public const int abc_btn_check_to_on_mtrl_015 = 2131230726;
+			// aapt resource value: 0x7F090006
+			public const int abc_btn_check_to_on_mtrl_015 = 2131296262;
 			
-			// aapt resource value: 0x7F080007
-			public const int abc_btn_colored_material = 2131230727;
+			// aapt resource value: 0x7F090007
+			public const int abc_btn_colored_material = 2131296263;
 			
-			// aapt resource value: 0x7F080008
-			public const int abc_btn_default_mtrl_shape = 2131230728;
+			// aapt resource value: 0x7F090008
+			public const int abc_btn_default_mtrl_shape = 2131296264;
 			
-			// aapt resource value: 0x7F080009
-			public const int abc_btn_radio_material = 2131230729;
+			// aapt resource value: 0x7F090009
+			public const int abc_btn_radio_material = 2131296265;
 			
-			// aapt resource value: 0x7F08000A
-			public const int abc_btn_radio_to_on_mtrl_000 = 2131230730;
+			// aapt resource value: 0x7F09000A
+			public const int abc_btn_radio_to_on_mtrl_000 = 2131296266;
 			
-			// aapt resource value: 0x7F08000B
-			public const int abc_btn_radio_to_on_mtrl_015 = 2131230731;
+			// aapt resource value: 0x7F09000B
+			public const int abc_btn_radio_to_on_mtrl_015 = 2131296267;
 			
-			// aapt resource value: 0x7F08000C
-			public const int abc_btn_switch_to_on_mtrl_00001 = 2131230732;
+			// aapt resource value: 0x7F09000C
+			public const int abc_btn_switch_to_on_mtrl_00001 = 2131296268;
 			
-			// aapt resource value: 0x7F08000D
-			public const int abc_btn_switch_to_on_mtrl_00012 = 2131230733;
+			// aapt resource value: 0x7F09000D
+			public const int abc_btn_switch_to_on_mtrl_00012 = 2131296269;
 			
-			// aapt resource value: 0x7F08000E
-			public const int abc_cab_background_internal_bg = 2131230734;
+			// aapt resource value: 0x7F09000E
+			public const int abc_cab_background_internal_bg = 2131296270;
 			
-			// aapt resource value: 0x7F08000F
-			public const int abc_cab_background_top_material = 2131230735;
+			// aapt resource value: 0x7F09000F
+			public const int abc_cab_background_top_material = 2131296271;
 			
-			// aapt resource value: 0x7F080010
-			public const int abc_cab_background_top_mtrl_alpha = 2131230736;
+			// aapt resource value: 0x7F090010
+			public const int abc_cab_background_top_mtrl_alpha = 2131296272;
 			
-			// aapt resource value: 0x7F080011
-			public const int abc_control_background_material = 2131230737;
+			// aapt resource value: 0x7F090011
+			public const int abc_control_background_material = 2131296273;
 			
-			// aapt resource value: 0x7F080012
-			public const int abc_dialog_material_background = 2131230738;
+			// aapt resource value: 0x7F090012
+			public const int abc_dialog_material_background = 2131296274;
 			
-			// aapt resource value: 0x7F080013
-			public const int abc_edit_text_material = 2131230739;
+			// aapt resource value: 0x7F090013
+			public const int abc_edit_text_material = 2131296275;
 			
-			// aapt resource value: 0x7F080014
-			public const int abc_ic_ab_back_material = 2131230740;
+			// aapt resource value: 0x7F090014
+			public const int abc_ic_ab_back_material = 2131296276;
 			
-			// aapt resource value: 0x7F080015
-			public const int abc_ic_arrow_drop_right_black_24dp = 2131230741;
+			// aapt resource value: 0x7F090015
+			public const int abc_ic_arrow_drop_right_black_24dp = 2131296277;
 			
-			// aapt resource value: 0x7F080016
-			public const int abc_ic_clear_material = 2131230742;
+			// aapt resource value: 0x7F090016
+			public const int abc_ic_clear_material = 2131296278;
 			
-			// aapt resource value: 0x7F080017
-			public const int abc_ic_commit_search_api_mtrl_alpha = 2131230743;
+			// aapt resource value: 0x7F090017
+			public const int abc_ic_commit_search_api_mtrl_alpha = 2131296279;
 			
-			// aapt resource value: 0x7F080018
-			public const int abc_ic_go_search_api_material = 2131230744;
+			// aapt resource value: 0x7F090018
+			public const int abc_ic_go_search_api_material = 2131296280;
 			
-			// aapt resource value: 0x7F080019
-			public const int abc_ic_menu_copy_mtrl_am_alpha = 2131230745;
+			// aapt resource value: 0x7F090019
+			public const int abc_ic_menu_copy_mtrl_am_alpha = 2131296281;
 			
-			// aapt resource value: 0x7F08001A
-			public const int abc_ic_menu_cut_mtrl_alpha = 2131230746;
+			// aapt resource value: 0x7F09001A
+			public const int abc_ic_menu_cut_mtrl_alpha = 2131296282;
 			
-			// aapt resource value: 0x7F08001B
-			public const int abc_ic_menu_overflow_material = 2131230747;
+			// aapt resource value: 0x7F09001B
+			public const int abc_ic_menu_overflow_material = 2131296283;
 			
-			// aapt resource value: 0x7F08001C
-			public const int abc_ic_menu_paste_mtrl_am_alpha = 2131230748;
+			// aapt resource value: 0x7F09001C
+			public const int abc_ic_menu_paste_mtrl_am_alpha = 2131296284;
 			
-			// aapt resource value: 0x7F08001D
-			public const int abc_ic_menu_selectall_mtrl_alpha = 2131230749;
+			// aapt resource value: 0x7F09001D
+			public const int abc_ic_menu_selectall_mtrl_alpha = 2131296285;
 			
-			// aapt resource value: 0x7F08001E
-			public const int abc_ic_menu_share_mtrl_alpha = 2131230750;
+			// aapt resource value: 0x7F09001E
+			public const int abc_ic_menu_share_mtrl_alpha = 2131296286;
 			
-			// aapt resource value: 0x7F08001F
-			public const int abc_ic_search_api_material = 2131230751;
+			// aapt resource value: 0x7F09001F
+			public const int abc_ic_search_api_material = 2131296287;
 			
-			// aapt resource value: 0x7F080020
-			public const int abc_ic_star_black_16dp = 2131230752;
+			// aapt resource value: 0x7F090020
+			public const int abc_ic_star_black_16dp = 2131296288;
 			
-			// aapt resource value: 0x7F080021
-			public const int abc_ic_star_black_36dp = 2131230753;
+			// aapt resource value: 0x7F090021
+			public const int abc_ic_star_black_36dp = 2131296289;
 			
-			// aapt resource value: 0x7F080022
-			public const int abc_ic_star_black_48dp = 2131230754;
+			// aapt resource value: 0x7F090022
+			public const int abc_ic_star_black_48dp = 2131296290;
 			
-			// aapt resource value: 0x7F080023
-			public const int abc_ic_star_half_black_16dp = 2131230755;
+			// aapt resource value: 0x7F090023
+			public const int abc_ic_star_half_black_16dp = 2131296291;
 			
-			// aapt resource value: 0x7F080024
-			public const int abc_ic_star_half_black_36dp = 2131230756;
+			// aapt resource value: 0x7F090024
+			public const int abc_ic_star_half_black_36dp = 2131296292;
 			
-			// aapt resource value: 0x7F080025
-			public const int abc_ic_star_half_black_48dp = 2131230757;
+			// aapt resource value: 0x7F090025
+			public const int abc_ic_star_half_black_48dp = 2131296293;
 			
-			// aapt resource value: 0x7F080026
-			public const int abc_ic_voice_search_api_material = 2131230758;
+			// aapt resource value: 0x7F090026
+			public const int abc_ic_voice_search_api_material = 2131296294;
 			
-			// aapt resource value: 0x7F080027
-			public const int abc_item_background_holo_dark = 2131230759;
+			// aapt resource value: 0x7F090027
+			public const int abc_item_background_holo_dark = 2131296295;
 			
-			// aapt resource value: 0x7F080028
-			public const int abc_item_background_holo_light = 2131230760;
+			// aapt resource value: 0x7F090028
+			public const int abc_item_background_holo_light = 2131296296;
 			
-			// aapt resource value: 0x7F080029
-			public const int abc_list_divider_material = 2131230761;
+			// aapt resource value: 0x7F090029
+			public const int abc_list_divider_mtrl_alpha = 2131296297;
 			
-			// aapt resource value: 0x7F08002A
-			public const int abc_list_divider_mtrl_alpha = 2131230762;
+			// aapt resource value: 0x7F09002A
+			public const int abc_list_focused_holo = 2131296298;
 			
-			// aapt resource value: 0x7F08002B
-			public const int abc_list_focused_holo = 2131230763;
+			// aapt resource value: 0x7F09002B
+			public const int abc_list_longpressed_holo = 2131296299;
 			
-			// aapt resource value: 0x7F08002C
-			public const int abc_list_longpressed_holo = 2131230764;
+			// aapt resource value: 0x7F09002C
+			public const int abc_list_pressed_holo_dark = 2131296300;
 			
-			// aapt resource value: 0x7F08002D
-			public const int abc_list_pressed_holo_dark = 2131230765;
+			// aapt resource value: 0x7F09002D
+			public const int abc_list_pressed_holo_light = 2131296301;
 			
-			// aapt resource value: 0x7F08002E
-			public const int abc_list_pressed_holo_light = 2131230766;
+			// aapt resource value: 0x7F09002E
+			public const int abc_list_selector_background_transition_holo_dark = 2131296302;
 			
-			// aapt resource value: 0x7F08002F
-			public const int abc_list_selector_background_transition_holo_dark = 2131230767;
+			// aapt resource value: 0x7F09002F
+			public const int abc_list_selector_background_transition_holo_light = 2131296303;
 			
-			// aapt resource value: 0x7F080030
-			public const int abc_list_selector_background_transition_holo_light = 2131230768;
+			// aapt resource value: 0x7F090030
+			public const int abc_list_selector_disabled_holo_dark = 2131296304;
 			
-			// aapt resource value: 0x7F080031
-			public const int abc_list_selector_disabled_holo_dark = 2131230769;
+			// aapt resource value: 0x7F090031
+			public const int abc_list_selector_disabled_holo_light = 2131296305;
 			
-			// aapt resource value: 0x7F080032
-			public const int abc_list_selector_disabled_holo_light = 2131230770;
+			// aapt resource value: 0x7F090032
+			public const int abc_list_selector_holo_dark = 2131296306;
 			
-			// aapt resource value: 0x7F080033
-			public const int abc_list_selector_holo_dark = 2131230771;
+			// aapt resource value: 0x7F090033
+			public const int abc_list_selector_holo_light = 2131296307;
 			
-			// aapt resource value: 0x7F080034
-			public const int abc_list_selector_holo_light = 2131230772;
+			// aapt resource value: 0x7F090034
+			public const int abc_menu_hardkey_panel_mtrl_mult = 2131296308;
 			
-			// aapt resource value: 0x7F080035
-			public const int abc_menu_hardkey_panel_mtrl_mult = 2131230773;
+			// aapt resource value: 0x7F090035
+			public const int abc_popup_background_mtrl_mult = 2131296309;
 			
-			// aapt resource value: 0x7F080036
-			public const int abc_popup_background_mtrl_mult = 2131230774;
+			// aapt resource value: 0x7F090036
+			public const int abc_ratingbar_indicator_material = 2131296310;
 			
-			// aapt resource value: 0x7F080037
-			public const int abc_ratingbar_indicator_material = 2131230775;
+			// aapt resource value: 0x7F090037
+			public const int abc_ratingbar_material = 2131296311;
 			
-			// aapt resource value: 0x7F080038
-			public const int abc_ratingbar_material = 2131230776;
+			// aapt resource value: 0x7F090038
+			public const int abc_ratingbar_small_material = 2131296312;
 			
-			// aapt resource value: 0x7F080039
-			public const int abc_ratingbar_small_material = 2131230777;
+			// aapt resource value: 0x7F090039
+			public const int abc_scrubber_control_off_mtrl_alpha = 2131296313;
 			
-			// aapt resource value: 0x7F08003A
-			public const int abc_scrubber_control_off_mtrl_alpha = 2131230778;
+			// aapt resource value: 0x7F09003A
+			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131296314;
 			
-			// aapt resource value: 0x7F08003B
-			public const int abc_scrubber_control_to_pressed_mtrl_000 = 2131230779;
+			// aapt resource value: 0x7F09003B
+			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131296315;
 			
-			// aapt resource value: 0x7F08003C
-			public const int abc_scrubber_control_to_pressed_mtrl_005 = 2131230780;
+			// aapt resource value: 0x7F09003C
+			public const int abc_scrubber_primary_mtrl_alpha = 2131296316;
 			
-			// aapt resource value: 0x7F08003D
-			public const int abc_scrubber_primary_mtrl_alpha = 2131230781;
+			// aapt resource value: 0x7F09003D
+			public const int abc_scrubber_track_mtrl_alpha = 2131296317;
 			
-			// aapt resource value: 0x7F08003E
-			public const int abc_scrubber_track_mtrl_alpha = 2131230782;
+			// aapt resource value: 0x7F09003E
+			public const int abc_seekbar_thumb_material = 2131296318;
 			
-			// aapt resource value: 0x7F08003F
-			public const int abc_seekbar_thumb_material = 2131230783;
+			// aapt resource value: 0x7F09003F
+			public const int abc_seekbar_tick_mark_material = 2131296319;
 			
-			// aapt resource value: 0x7F080040
-			public const int abc_seekbar_tick_mark_material = 2131230784;
+			// aapt resource value: 0x7F090040
+			public const int abc_seekbar_track_material = 2131296320;
 			
-			// aapt resource value: 0x7F080041
-			public const int abc_seekbar_track_material = 2131230785;
+			// aapt resource value: 0x7F090041
+			public const int abc_spinner_mtrl_am_alpha = 2131296321;
 			
-			// aapt resource value: 0x7F080042
-			public const int abc_spinner_mtrl_am_alpha = 2131230786;
+			// aapt resource value: 0x7F090042
+			public const int abc_spinner_textfield_background_material = 2131296322;
 			
-			// aapt resource value: 0x7F080043
-			public const int abc_spinner_textfield_background_material = 2131230787;
+			// aapt resource value: 0x7F090043
+			public const int abc_switch_thumb_material = 2131296323;
 			
-			// aapt resource value: 0x7F080044
-			public const int abc_switch_thumb_material = 2131230788;
+			// aapt resource value: 0x7F090044
+			public const int abc_switch_track_mtrl_alpha = 2131296324;
 			
-			// aapt resource value: 0x7F080045
-			public const int abc_switch_track_mtrl_alpha = 2131230789;
+			// aapt resource value: 0x7F090045
+			public const int abc_tab_indicator_material = 2131296325;
 			
-			// aapt resource value: 0x7F080046
-			public const int abc_tab_indicator_material = 2131230790;
+			// aapt resource value: 0x7F090046
+			public const int abc_tab_indicator_mtrl_alpha = 2131296326;
 			
-			// aapt resource value: 0x7F080047
-			public const int abc_tab_indicator_mtrl_alpha = 2131230791;
+			// aapt resource value: 0x7F09004E
+			public const int abc_textfield_activated_mtrl_alpha = 2131296334;
 			
-			// aapt resource value: 0x7F08004F
-			public const int abc_textfield_activated_mtrl_alpha = 2131230799;
+			// aapt resource value: 0x7F09004F
+			public const int abc_textfield_default_mtrl_alpha = 2131296335;
 			
-			// aapt resource value: 0x7F080050
-			public const int abc_textfield_default_mtrl_alpha = 2131230800;
+			// aapt resource value: 0x7F090050
+			public const int abc_textfield_search_activated_mtrl_alpha = 2131296336;
 			
-			// aapt resource value: 0x7F080051
-			public const int abc_textfield_search_activated_mtrl_alpha = 2131230801;
+			// aapt resource value: 0x7F090051
+			public const int abc_textfield_search_default_mtrl_alpha = 2131296337;
 			
-			// aapt resource value: 0x7F080052
-			public const int abc_textfield_search_default_mtrl_alpha = 2131230802;
+			// aapt resource value: 0x7F090052
+			public const int abc_textfield_search_material = 2131296338;
 			
-			// aapt resource value: 0x7F080053
-			public const int abc_textfield_search_material = 2131230803;
+			// aapt resource value: 0x7F090047
+			public const int abc_text_cursor_material = 2131296327;
 			
-			// aapt resource value: 0x7F080048
-			public const int abc_text_cursor_material = 2131230792;
+			// aapt resource value: 0x7F090048
+			public const int abc_text_select_handle_left_mtrl_dark = 2131296328;
 			
-			// aapt resource value: 0x7F080049
-			public const int abc_text_select_handle_left_mtrl_dark = 2131230793;
+			// aapt resource value: 0x7F090049
+			public const int abc_text_select_handle_left_mtrl_light = 2131296329;
 			
-			// aapt resource value: 0x7F08004A
-			public const int abc_text_select_handle_left_mtrl_light = 2131230794;
+			// aapt resource value: 0x7F09004A
+			public const int abc_text_select_handle_middle_mtrl_dark = 2131296330;
 			
-			// aapt resource value: 0x7F08004B
-			public const int abc_text_select_handle_middle_mtrl_dark = 2131230795;
+			// aapt resource value: 0x7F09004B
+			public const int abc_text_select_handle_middle_mtrl_light = 2131296331;
 			
-			// aapt resource value: 0x7F08004C
-			public const int abc_text_select_handle_middle_mtrl_light = 2131230796;
+			// aapt resource value: 0x7F09004C
+			public const int abc_text_select_handle_right_mtrl_dark = 2131296332;
 			
-			// aapt resource value: 0x7F08004D
-			public const int abc_text_select_handle_right_mtrl_dark = 2131230797;
+			// aapt resource value: 0x7F09004D
+			public const int abc_text_select_handle_right_mtrl_light = 2131296333;
 			
-			// aapt resource value: 0x7F08004E
-			public const int abc_text_select_handle_right_mtrl_light = 2131230798;
-			
-			// aapt resource value: 0x7F080054
-			public const int abc_vector_test = 2131230804;
+			// aapt resource value: 0x7F090053
+			public const int abc_vector_test = 2131296339;
 			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
 			
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
-			
-			// aapt resource value: 0x7F080055
-			public const int changed_occurrence = 2131230805;
-			
-			// aapt resource value: 0x7F070103
-			public const int clock_icon = 2131165443;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -6676,9 +4328,6 @@ namespace GoogleCalender.Droid
 			
 			// aapt resource value: 0x7F090057
 			public const int ic_dialog_close_light = 2131296343;
-			
-			// aapt resource value: 0x7F070104
-			public const int ic_done = 2131165444;
 			
 			// aapt resource value: 0x7F090058
 			public const int ic_group_collapse_00 = 2131296344;
@@ -7262,59 +4911,47 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F09005C
 			public const int navigation_empty_icon = 2131296348;
 			
-			// aapt resource value: 0x7F080056
-			public const int notification_action_background = 2131230806;
+			// aapt resource value: 0x7F090001
+			public const int notification_action_background = 2131296257;
 			
-			// aapt resource value: 0x7F080057
-			public const int notification_bg = 2131230807;
+			// aapt resource value: 0x7F090002
+			public const int notification_bg = 2131296258;
 			
-			// aapt resource value: 0x7F080058
-			public const int notification_bg_low = 2131230808;
+			// aapt resource value: 0x7F090003
+			public const int notification_bg_low = 2131296259;
 			
-			// aapt resource value: 0x7F080059
-			public const int notification_bg_low_normal = 2131230809;
+			// aapt resource value: 0x7F090004
+			public const int notification_bg_low_normal = 2131296260;
 			
-			// aapt resource value: 0x7F08005A
-			public const int notification_bg_low_pressed = 2131230810;
+			// aapt resource value: 0x7F090005
+			public const int notification_bg_low_pressed = 2131296261;
 			
-			// aapt resource value: 0x7F08005B
-			public const int notification_bg_normal = 2131230811;
+			// aapt resource value: 0x7F090006
+			public const int notification_bg_normal = 2131296262;
 			
-			// aapt resource value: 0x7F08005C
-			public const int notification_bg_normal_pressed = 2131230812;
+			// aapt resource value: 0x7F090007
+			public const int notification_bg_normal_pressed = 2131296263;
 			
-			// aapt resource value: 0x7F08005D
-			public const int notification_icon_background = 2131230813;
+			// aapt resource value: 0x7F090008
+			public const int notification_icon_background = 2131296264;
 			
-			// aapt resource value: 0x7F08005E
-			public const int notification_template_icon_bg = 2131230814;
+			// aapt resource value: 0x7F090009
+			public const int notification_template_icon_bg = 2131296265;
 			
-			// aapt resource value: 0x7F08005F
-			public const int notification_template_icon_low_bg = 2131230815;
+			// aapt resource value: 0x7F09000A
+			public const int notification_template_icon_low_bg = 2131296266;
 			
-			// aapt resource value: 0x7F080060
-			public const int notification_tile_bg = 2131230816;
+			// aapt resource value: 0x7F09000B
+			public const int notification_tile_bg = 2131296267;
 			
-			// aapt resource value: 0x7F080061
-			public const int notify_panel_notification_icon_bg = 2131230817;
+			// aapt resource value: 0x7F09000C
+			public const int notify_panel_notification_icon_bg = 2131296268;
 			
-			// aapt resource value: 0x7F080062
-			public const int occurrence = 2131230818;
+			// aapt resource value: 0x7F090069
+			public const int tooltip_frame_dark = 2131296361;
 			
-			// aapt resource value: 0x7F080063
-			public const int reminder = 2131230819;
-			
-			// aapt resource value: 0x7F070105
-			public const int repeat_icon = 2131165445;
-			
-			// aapt resource value: 0x7F070106
-			public const int subject_icon = 2131165446;
-			
-			// aapt resource value: 0x7F080064
-			public const int tooltip_frame_dark = 2131230820;
-			
-			// aapt resource value: 0x7F080065
-			public const int tooltip_frame_light = 2131230821;
+			// aapt resource value: 0x7F09006A
+			public const int tooltip_frame_light = 2131296362;
 			
 			static Drawable()
 			{
@@ -7332,89 +4969,89 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C0001
 			public const int action0 = 2131492865;
 			
-			// aapt resource value: 0x7F0B0012
-			public const int actions = 2131427346;
+			// aapt resource value: 0x7F0C0005
+			public const int actions = 2131492869;
 			
-			// aapt resource value: 0x7F0B0001
-			public const int action_bar = 2131427329;
+			// aapt resource value: 0x7F0C0002
+			public const int action_bar = 2131492866;
 			
-			// aapt resource value: 0x7F0B0002
-			public const int action_bar_activity_content = 2131427330;
+			// aapt resource value: 0x7F0C0003
+			public const int action_bar_activity_content = 2131492867;
 			
-			// aapt resource value: 0x7F0B0003
-			public const int action_bar_container = 2131427331;
+			// aapt resource value: 0x7F0C0004
+			public const int action_bar_container = 2131492868;
 			
-			// aapt resource value: 0x7F0B0004
-			public const int action_bar_root = 2131427332;
+			// aapt resource value: 0x7F0C0005
+			public const int action_bar_root = 2131492869;
 			
-			// aapt resource value: 0x7F0B0005
-			public const int action_bar_spinner = 2131427333;
+			// aapt resource value: 0x7F0C0006
+			public const int action_bar_spinner = 2131492870;
 			
-			// aapt resource value: 0x7F0B0006
-			public const int action_bar_subtitle = 2131427334;
+			// aapt resource value: 0x7F0C0007
+			public const int action_bar_subtitle = 2131492871;
 			
-			// aapt resource value: 0x7F0B0007
-			public const int action_bar_title = 2131427335;
+			// aapt resource value: 0x7F0C0008
+			public const int action_bar_title = 2131492872;
 			
-			// aapt resource value: 0x7F0B0008
-			public const int action_container = 2131427336;
+			// aapt resource value: 0x7F0C0001
+			public const int action_container = 2131492865;
 			
-			// aapt resource value: 0x7F0B0009
-			public const int action_context_bar = 2131427337;
+			// aapt resource value: 0x7F0C000A
+			public const int action_context_bar = 2131492874;
 			
-			// aapt resource value: 0x7F0B000A
-			public const int action_divider = 2131427338;
+			// aapt resource value: 0x7F0C0002
+			public const int action_divider = 2131492866;
 			
-			// aapt resource value: 0x7F0B000B
-			public const int action_image = 2131427339;
+			// aapt resource value: 0x7F0C0003
+			public const int action_image = 2131492867;
 			
-			// aapt resource value: 0x7F0B000C
-			public const int action_menu_divider = 2131427340;
+			// aapt resource value: 0x7F0C000D
+			public const int action_menu_divider = 2131492877;
 			
-			// aapt resource value: 0x7F0B000D
-			public const int action_menu_presenter = 2131427341;
+			// aapt resource value: 0x7F0C000E
+			public const int action_menu_presenter = 2131492878;
 			
-			// aapt resource value: 0x7F0B000E
-			public const int action_mode_bar = 2131427342;
+			// aapt resource value: 0x7F0C000F
+			public const int action_mode_bar = 2131492879;
 			
-			// aapt resource value: 0x7F0B000F
-			public const int action_mode_bar_stub = 2131427343;
+			// aapt resource value: 0x7F0C0010
+			public const int action_mode_bar_stub = 2131492880;
 			
-			// aapt resource value: 0x7F0B0010
-			public const int action_mode_close_button = 2131427344;
+			// aapt resource value: 0x7F0C0011
+			public const int action_mode_close_button = 2131492881;
 			
-			// aapt resource value: 0x7F0B0011
-			public const int action_text = 2131427345;
+			// aapt resource value: 0x7F0C0004
+			public const int action_text = 2131492868;
 			
-			// aapt resource value: 0x7F0B0013
-			public const int activity_chooser_view_content = 2131427347;
+			// aapt resource value: 0x7F0C0014
+			public const int activity_chooser_view_content = 2131492884;
 			
-			// aapt resource value: 0x7F0B0014
-			public const int add = 2131427348;
+			// aapt resource value: 0x7F0C0015
+			public const int add = 2131492885;
 			
-			// aapt resource value: 0x7F0B0015
-			public const int alertTitle = 2131427349;
+			// aapt resource value: 0x7F0C0016
+			public const int alertTitle = 2131492886;
 			
-			// aapt resource value: 0x7F0B0016
-			public const int async = 2131427350;
+			// aapt resource value: 0x7F0C0006
+			public const int async = 2131492870;
 			
 			// aapt resource value: 0x7F0C0018
 			public const int auto = 2131492888;
 			
-			// aapt resource value: 0x7F0B0017
-			public const int blocking = 2131427351;
+			// aapt resource value: 0x7F0C0007
+			public const int blocking = 2131492871;
 			
-			// aapt resource value: 0x7F0B0018
-			public const int bottom = 2131427352;
+			// aapt resource value: 0x7F0C001A
+			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F010182
-			public const int bottomtab.navarea = 2130772354;
+			// aapt resource value: 0x7F010174
+			public const int bottomtab.navarea = 2130772340;
 			
-			// aapt resource value: 0x7F010183
-			public const int bottomtab.tabbar = 2130772355;
+			// aapt resource value: 0x7F010175
+			public const int bottomtab.tabbar = 2130772341;
 			
-			// aapt resource value: 0x7F0B0019
-			public const int buttonPanel = 2131427353;
+			// aapt resource value: 0x7F0C001B
+			public const int buttonPanel = 2131492891;
 			
 			// aapt resource value: 0x7F0C001C
 			public const int cancel_action = 2131492892;
@@ -7422,38 +5059,32 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C001D
 			public const int center = 2131492893;
 			
-			// aapt resource value: 0x7F0B001A
-			public const int checkbox = 2131427354;
+			// aapt resource value: 0x7F0C001E
+			public const int checkbox = 2131492894;
 			
-			// aapt resource value: 0x7F0B001B
-			public const int child = 2131427355;
-			
-			// aapt resource value: 0x7F0B001C
-			public const int chronometer = 2131427356;
+			// aapt resource value: 0x7F0C0008
+			public const int chronometer = 2131492872;
 			
 			// aapt resource value: 0x7F0C0020
 			public const int container = 2131492896;
 			
-			// aapt resource value: 0x7F0B001D
-			public const int content = 2131427357;
-			
-			// aapt resource value: 0x7F0B001E
-			public const int contentPanel = 2131427358;
+			// aapt resource value: 0x7F0C0021
+			public const int contentPanel = 2131492897;
 			
 			// aapt resource value: 0x7F0C0022
 			public const int coordinator = 2131492898;
 			
-			// aapt resource value: 0x7F0B001F
-			public const int custom = 2131427359;
+			// aapt resource value: 0x7F0C0023
+			public const int custom = 2131492899;
 			
-			// aapt resource value: 0x7F0B0020
-			public const int customPanel = 2131427360;
+			// aapt resource value: 0x7F0C0024
+			public const int customPanel = 2131492900;
 			
-			// aapt resource value: 0x7F0B0021
-			public const int decor_content_parent = 2131427361;
+			// aapt resource value: 0x7F0C0025
+			public const int decor_content_parent = 2131492901;
 			
-			// aapt resource value: 0x7F0B0022
-			public const int default_activity_button = 2131427362;
+			// aapt resource value: 0x7F0C0026
+			public const int default_activity_button = 2131492902;
 			
 			// aapt resource value: 0x7F0C0027
 			public const int design_bottom_sheet = 2131492903;
@@ -7470,20 +5101,20 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C002B
 			public const int design_navigation_view = 2131492907;
 			
-			// aapt resource value: 0x7F0B0023
-			public const int edit_query = 2131427363;
+			// aapt resource value: 0x7F0C002C
+			public const int edit_query = 2131492908;
 			
-			// aapt resource value: 0x7F0B0024
-			public const int end = 2131427364;
+			// aapt resource value: 0x7F0C002D
+			public const int end = 2131492909;
 			
 			// aapt resource value: 0x7F0C002E
 			public const int end_padder = 2131492910;
 			
-			// aapt resource value: 0x7F0B0026
-			public const int expanded_menu = 2131427366;
+			// aapt resource value: 0x7F0C0030
+			public const int expanded_menu = 2131492912;
 			
-			// aapt resource value: 0x7F0B0025
-			public const int expand_activities_button = 2131427365;
+			// aapt resource value: 0x7F0C002F
+			public const int expand_activities_button = 2131492911;
 			
 			// aapt resource value: 0x7F0C0031
 			public const int fill = 2131492913;
@@ -7491,38 +5122,35 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C0032
 			public const int @fixed = 2131492914;
 			
-			// aapt resource value: 0x7F010184
-			public const int flyoutcontent.appbar = 2130772356;
+			// aapt resource value: 0x7F010176
+			public const int flyoutcontent.appbar = 2130772342;
 			
-			// aapt resource value: 0x7F010185
-			public const int flyoutcontent.recycler = 2130772357;
+			// aapt resource value: 0x7F010177
+			public const int flyoutcontent.recycler = 2130772343;
 			
-			// aapt resource value: 0x7F0B0027
-			public const int forever = 2131427367;
+			// aapt resource value: 0x7F0C0009
+			public const int forever = 2131492873;
 			
 			// aapt resource value: 0x7F0C0034
 			public const int ghost_view = 2131492916;
 			
-			// aapt resource value: 0x7F0B0028
-			public const int group_divider = 2131427368;
+			// aapt resource value: 0x7F0C0035
+			public const int home = 2131492917;
 			
-			// aapt resource value: 0x7F0B0029
-			public const int home = 2131427369;
+			// aapt resource value: 0x7F0C000A
+			public const int icon = 2131492874;
 			
-			// aapt resource value: 0x7F0B002A
-			public const int icon = 2131427370;
+			// aapt resource value: 0x7F0C000B
+			public const int icon_group = 2131492875;
 			
-			// aapt resource value: 0x7F0B002B
-			public const int icon_group = 2131427371;
+			// aapt resource value: 0x7F0C0038
+			public const int image = 2131492920;
 			
-			// aapt resource value: 0x7F0B002C
-			public const int image = 2131427372;
+			// aapt resource value: 0x7F0C000C
+			public const int info = 2131492876;
 			
-			// aapt resource value: 0x7F0B002D
-			public const int info = 2131427373;
-			
-			// aapt resource value: 0x7F0B002E
-			public const int italic = 2131427374;
+			// aapt resource value: 0x7F0C000D
+			public const int italic = 2131492877;
 			
 			// aapt resource value: 0x7F0C003B
 			public const int item_touch_helper_previous_elevation = 2131492923;
@@ -7530,35 +5158,32 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C003C
 			public const int largeLabel = 2131492924;
 			
-			// aapt resource value: 0x7F0B002F
-			public const int left = 2131427375;
+			// aapt resource value: 0x7F0C003D
+			public const int left = 2131492925;
 			
-			// aapt resource value: 0x7F0B0030
-			public const int line1 = 2131427376;
+			// aapt resource value: 0x7F0C000E
+			public const int line1 = 2131492878;
 			
-			// aapt resource value: 0x7F0B0031
-			public const int line3 = 2131427377;
+			// aapt resource value: 0x7F0C000F
+			public const int line3 = 2131492879;
 			
-			// aapt resource value: 0x7F0B0032
-			public const int listMode = 2131427378;
+			// aapt resource value: 0x7F0C0040
+			public const int listMode = 2131492928;
 			
-			// aapt resource value: 0x7F0B0033
-			public const int list_item = 2131427379;
+			// aapt resource value: 0x7F0C0041
+			public const int list_item = 2131492929;
 			
-			// aapt resource value: 0x7F0B0034
-			public const int logicalIndex = 2131427380;
+			// aapt resource value: 0x7F010178
+			public const int main.appbar = 2130772344;
 			
-			// aapt resource value: 0x7F010186
-			public const int main.appbar = 2130772358;
+			// aapt resource value: 0x7F010181
+			public const int main.scrollview = 2130772353;
 			
-			// aapt resource value: 0x7F010189
-			public const int main.scrollview = 2130772361;
+			// aapt resource value: 0x7F010180
+			public const int main.tablayout = 2130772352;
 			
-			// aapt resource value: 0x7F010188
-			public const int main.tablayout = 2130772360;
-			
-			// aapt resource value: 0x7F010187
-			public const int main.toolbar = 2130772359;
+			// aapt resource value: 0x7F010179
+			public const int main.toolbar = 2130772345;
 			
 			// aapt resource value: 0x7F0C0042
 			public const int masked = 2131492930;
@@ -7566,8 +5191,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C0043
 			public const int media_actions = 2131492931;
 			
-			// aapt resource value: 0x7F0B0035
-			public const int message = 2131427381;
+			// aapt resource value: 0x7F0C0044
+			public const int message = 2131492932;
 			
 			// aapt resource value: 0x7F0C0045
 			public const int mini = 2131492933;
@@ -7647,32 +5272,32 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C004B
 			public const int mr_volume_slider = 2131492939;
 			
-			// aapt resource value: 0x7F0B0036
-			public const int multiply = 2131427382;
+			// aapt resource value: 0x7F0C0046
+			public const int multiply = 2131492934;
 			
 			// aapt resource value: 0x7F0C0047
 			public const int navigation_header_container = 2131492935;
 			
-			// aapt resource value: 0x7F0B0037
-			public const int none = 2131427383;
+			// aapt resource value: 0x7F0C0048
+			public const int none = 2131492936;
 			
-			// aapt resource value: 0x7F0B0038
-			public const int normal = 2131427384;
+			// aapt resource value: 0x7F0C0010
+			public const int normal = 2131492880;
 			
-			// aapt resource value: 0x7F0B0039
-			public const int notification_background = 2131427385;
+			// aapt resource value: 0x7F0C0011
+			public const int notification_background = 2131492881;
 			
-			// aapt resource value: 0x7F0B003A
-			public const int notification_main_column = 2131427386;
+			// aapt resource value: 0x7F0C0012
+			public const int notification_main_column = 2131492882;
 			
-			// aapt resource value: 0x7F0B003B
-			public const int notification_main_column_container = 2131427387;
+			// aapt resource value: 0x7F0C0013
+			public const int notification_main_column_container = 2131492883;
 			
 			// aapt resource value: 0x7F0C004D
 			public const int parallax = 2131492941;
 			
-			// aapt resource value: 0x7F0B003C
-			public const int parentPanel = 2131427388;
+			// aapt resource value: 0x7F0C004E
+			public const int parentPanel = 2131492942;
 			
 			// aapt resource value: 0x7F0C004F
 			public const int parent_matrix = 2131492943;
@@ -7680,29 +5305,23 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C0050
 			public const int pin = 2131492944;
 			
-			// aapt resource value: 0x7F0B003D
-			public const int position = 2131427389;
+			// aapt resource value: 0x7F0C0051
+			public const int progress_circular = 2131492945;
 			
-			// aapt resource value: 0x7F0B003E
-			public const int progress_circular = 2131427390;
+			// aapt resource value: 0x7F0C0052
+			public const int progress_horizontal = 2131492946;
 			
-			// aapt resource value: 0x7F0B003F
-			public const int progress_horizontal = 2131427391;
+			// aapt resource value: 0x7F0C0053
+			public const int radio = 2131492947;
 			
-			// aapt resource value: 0x7F0B0040
-			public const int radio = 2131427392;
+			// aapt resource value: 0x7F0C0054
+			public const int right = 2131492948;
 			
-			// aapt resource value: 0x7F0B0041
-			public const int right = 2131427393;
+			// aapt resource value: 0x7F0C0014
+			public const int right_icon = 2131492884;
 			
-			// aapt resource value: 0x7F0B0042
-			public const int right_icon = 2131427394;
-			
-			// aapt resource value: 0x7F0B0043
-			public const int right_side = 2131427395;
-			
-			// aapt resource value: 0x7F0B0044
-			public const int root = 2131427396;
+			// aapt resource value: 0x7F0C0015
+			public const int right_side = 2131492885;
 			
 			// aapt resource value: 0x7F0C0057
 			public const int save_image_matrix = 2131492951;
@@ -7713,65 +5332,65 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C0059
 			public const int save_scale_type = 2131492953;
 			
-			// aapt resource value: 0x7F0B0045
-			public const int screen = 2131427397;
+			// aapt resource value: 0x7F0C005A
+			public const int screen = 2131492954;
 			
 			// aapt resource value: 0x7F0C005E
 			public const int scrollable = 2131492958;
 			
-			// aapt resource value: 0x7F0B0046
-			public const int scrollIndicatorDown = 2131427398;
+			// aapt resource value: 0x7F0C005B
+			public const int scrollIndicatorDown = 2131492955;
 			
-			// aapt resource value: 0x7F0B0047
-			public const int scrollIndicatorUp = 2131427399;
+			// aapt resource value: 0x7F0C005C
+			public const int scrollIndicatorUp = 2131492956;
 			
-			// aapt resource value: 0x7F0B0048
-			public const int scrollView = 2131427400;
+			// aapt resource value: 0x7F0C005D
+			public const int scrollView = 2131492957;
 			
-			// aapt resource value: 0x7F0B0049
-			public const int search_badge = 2131427401;
+			// aapt resource value: 0x7F0C005F
+			public const int search_badge = 2131492959;
 			
-			// aapt resource value: 0x7F0B004A
-			public const int search_bar = 2131427402;
+			// aapt resource value: 0x7F0C0060
+			public const int search_bar = 2131492960;
 			
-			// aapt resource value: 0x7F0B004B
-			public const int search_button = 2131427403;
+			// aapt resource value: 0x7F0C0061
+			public const int search_button = 2131492961;
 			
-			// aapt resource value: 0x7F0B004C
-			public const int search_close_btn = 2131427404;
+			// aapt resource value: 0x7F0C0062
+			public const int search_close_btn = 2131492962;
 			
-			// aapt resource value: 0x7F0B004D
-			public const int search_edit_frame = 2131427405;
+			// aapt resource value: 0x7F0C0063
+			public const int search_edit_frame = 2131492963;
 			
-			// aapt resource value: 0x7F0B004E
-			public const int search_go_btn = 2131427406;
+			// aapt resource value: 0x7F0C0064
+			public const int search_go_btn = 2131492964;
 			
-			// aapt resource value: 0x7F0B004F
-			public const int search_mag_icon = 2131427407;
+			// aapt resource value: 0x7F0C0065
+			public const int search_mag_icon = 2131492965;
 			
-			// aapt resource value: 0x7F0B0050
-			public const int search_plate = 2131427408;
+			// aapt resource value: 0x7F0C0066
+			public const int search_plate = 2131492966;
 			
-			// aapt resource value: 0x7F0B0051
-			public const int search_src_text = 2131427409;
+			// aapt resource value: 0x7F0C0067
+			public const int search_src_text = 2131492967;
 			
-			// aapt resource value: 0x7F0B0052
-			public const int search_voice_btn = 2131427410;
+			// aapt resource value: 0x7F0C0068
+			public const int search_voice_btn = 2131492968;
 			
-			// aapt resource value: 0x7F0B0053
-			public const int select_dialog_listview = 2131427411;
+			// aapt resource value: 0x7F0C0069
+			public const int select_dialog_listview = 2131492969;
 			
-			// aapt resource value: 0x7F010190
-			public const int shellcontent.appbar = 2130772368;
+			// aapt resource value: 0x7F010182
+			public const int shellcontent.appbar = 2130772354;
 			
-			// aapt resource value: 0x7F010192
-			public const int shellcontent.scrollview = 2130772370;
+			// aapt resource value: 0x7F010184
+			public const int shellcontent.scrollview = 2130772356;
 			
-			// aapt resource value: 0x7F010191
-			public const int shellcontent.toolbar = 2130772369;
+			// aapt resource value: 0x7F010183
+			public const int shellcontent.toolbar = 2130772355;
 			
-			// aapt resource value: 0x7F0B0054
-			public const int shortcut = 2131427412;
+			// aapt resource value: 0x7F0C006A
+			public const int shortcut = 2131492970;
 			
 			// aapt resource value: 0x7F010002
 			public const int sliding_tabs = 2130771970;
@@ -7785,50 +5404,44 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C006D
 			public const int snackbar_text = 2131492973;
 			
-			// aapt resource value: 0x7F0B0055
-			public const int spacer = 2131427413;
+			// aapt resource value: 0x7F0C006E
+			public const int spacer = 2131492974;
 			
-			// aapt resource value: 0x7F0B0056
-			public const int split_action_bar = 2131427414;
+			// aapt resource value: 0x7F0C006F
+			public const int split_action_bar = 2131492975;
 			
-			// aapt resource value: 0x7F0B0057
-			public const int src_atop = 2131427415;
+			// aapt resource value: 0x7F0C0070
+			public const int src_atop = 2131492976;
 			
-			// aapt resource value: 0x7F0B0058
-			public const int src_in = 2131427416;
+			// aapt resource value: 0x7F0C0071
+			public const int src_in = 2131492977;
 			
-			// aapt resource value: 0x7F0B0059
-			public const int src_over = 2131427417;
+			// aapt resource value: 0x7F0C0072
+			public const int src_over = 2131492978;
 			
-			// aapt resource value: 0x7F0B005A
-			public const int start = 2131427418;
+			// aapt resource value: 0x7F0C0073
+			public const int start = 2131492979;
 			
 			// aapt resource value: 0x7F0C0074
 			public const int status_bar_latest_event_content = 2131492980;
 			
-			// aapt resource value: 0x7F0B005B
-			public const int submenuarrow = 2131427419;
+			// aapt resource value: 0x7F0C0075
+			public const int submenuarrow = 2131492981;
 			
-			// aapt resource value: 0x7F0B005C
-			public const int submit_area = 2131427420;
+			// aapt resource value: 0x7F0C0076
+			public const int submit_area = 2131492982;
 			
-			// aapt resource value: 0x7F0B005D
-			public const int tabMode = 2131427421;
+			// aapt resource value: 0x7F0C0077
+			public const int tabMode = 2131492983;
 			
-			// aapt resource value: 0x7F0B005E
-			public const int tag_transition_group = 2131427422;
+			// aapt resource value: 0x7F0C0016
+			public const int tag_transition_group = 2131492886;
 			
-			// aapt resource value: 0x7F0B005F
-			public const int tag_unhandled_key_event_manager = 2131427423;
+			// aapt resource value: 0x7F0C0017
+			public const int text = 2131492887;
 			
-			// aapt resource value: 0x7F0B0060
-			public const int tag_unhandled_key_listeners = 2131427424;
-			
-			// aapt resource value: 0x7F0B0061
-			public const int text = 2131427425;
-			
-			// aapt resource value: 0x7F0B0062
-			public const int text2 = 2131427426;
+			// aapt resource value: 0x7F0C0018
+			public const int text2 = 2131492888;
 			
 			// aapt resource value: 0x7F0C007E
 			public const int textinput_counter = 2131492990;
@@ -7836,35 +5449,35 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C007F
 			public const int textinput_error = 2131492991;
 			
-			// aapt resource value: 0x7F0B0063
-			public const int textSpacerNoButtons = 2131427427;
+			// aapt resource value: 0x7F0C007B
+			public const int textSpacerNoButtons = 2131492987;
 			
-			// aapt resource value: 0x7F0B0064
-			public const int textSpacerNoTitle = 2131427428;
+			// aapt resource value: 0x7F0C007C
+			public const int textSpacerNoTitle = 2131492988;
 			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
 			
-			// aapt resource value: 0x7F0B0065
-			public const int time = 2131427429;
+			// aapt resource value: 0x7F0C0019
+			public const int time = 2131492889;
 			
-			// aapt resource value: 0x7F0B0066
-			public const int title = 2131427430;
+			// aapt resource value: 0x7F0C001A
+			public const int title = 2131492890;
 			
-			// aapt resource value: 0x7F0B0067
-			public const int titleDividerNoCustom = 2131427431;
+			// aapt resource value: 0x7F0C0082
+			public const int titleDividerNoCustom = 2131492994;
 			
-			// aapt resource value: 0x7F0B0068
-			public const int title_template = 2131427432;
+			// aapt resource value: 0x7F0C0083
+			public const int title_template = 2131492995;
 			
 			// aapt resource value: 0x7F010003
 			public const int toolbar = 2130771971;
 			
-			// aapt resource value: 0x7F0B0069
-			public const int top = 2131427433;
+			// aapt resource value: 0x7F0C0084
+			public const int top = 2131492996;
 			
-			// aapt resource value: 0x7F0B006A
-			public const int topPanel = 2131427434;
+			// aapt resource value: 0x7F0C0085
+			public const int topPanel = 2131492997;
 			
 			// aapt resource value: 0x7F0C0086
 			public const int touch_outside = 2131492998;
@@ -7884,11 +5497,11 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C008B
 			public const int transition_transform = 2131493003;
 			
-			// aapt resource value: 0x7F0B006B
-			public const int uniform = 2131427435;
+			// aapt resource value: 0x7F0C008C
+			public const int uniform = 2131493004;
 			
-			// aapt resource value: 0x7F0B006C
-			public const int up = 2131427436;
+			// aapt resource value: 0x7F0C008D
+			public const int up = 2131493005;
 			
 			// aapt resource value: 0x7F0C008E
 			public const int view_offset_helper = 2131493006;
@@ -7899,8 +5512,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0C007D
 			public const int volume_item_container = 2131492989;
 			
-			// aapt resource value: 0x7F0B006D
-			public const int wrap_content = 2131427437;
+			// aapt resource value: 0x7F0C0090
+			public const int wrap_content = 2131493008;
 			
 			static Id()
 			{
@@ -7915,11 +5528,11 @@ namespace GoogleCalender.Droid
 		public partial class Integer
 		{
 			
-			// aapt resource value: 0x7F0C0001
-			public const int abc_config_activityDefaultDur = 2131492865;
+			// aapt resource value: 0x7F0D0001
+			public const int abc_config_activityDefaultDur = 2131558401;
 			
-			// aapt resource value: 0x7F0C0002
-			public const int abc_config_activityShortDur = 2131492866;
+			// aapt resource value: 0x7F0D0002
+			public const int abc_config_activityShortDur = 2131558402;
 			
 			// aapt resource value: 0x7F0D0003
 			public const int app_bar_elevation_anim_duration = 2131558403;
@@ -7927,11 +5540,11 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0D0004
 			public const int bottom_sheet_slide_duration = 2131558404;
 			
-			// aapt resource value: 0x7F0C0003
-			public const int cancel_button_image_alpha = 2131492867;
+			// aapt resource value: 0x7F0D0005
+			public const int cancel_button_image_alpha = 2131558405;
 			
-			// aapt resource value: 0x7F0C0004
-			public const int config_tooltipAnimTime = 2131492868;
+			// aapt resource value: 0x7F0D0006
+			public const int config_tooltipAnimTime = 2131558406;
 			
 			// aapt resource value: 0x7F0D0007
 			public const int design_snackbar_text_max_lines = 2131558407;
@@ -7951,8 +5564,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0D0009
 			public const int show_password_duration = 2131558409;
 			
-			// aapt resource value: 0x7F0C0005
-			public const int status_bar_notification_info_maxnum = 2131492869;
+			// aapt resource value: 0x7F0D0001
+			public const int status_bar_notification_info_maxnum = 2131558401;
 			
 			static Integer()
 			{
@@ -7986,95 +5599,86 @@ namespace GoogleCalender.Droid
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7F0E0001
-			public const int abc_action_bar_title_item = 2131623937;
+			// aapt resource value: 0x7F0F0001
+			public const int abc_action_bar_title_item = 2131689473;
 			
-			// aapt resource value: 0x7F0E0002
-			public const int abc_action_bar_up_container = 2131623938;
+			// aapt resource value: 0x7F0F0002
+			public const int abc_action_bar_up_container = 2131689474;
 			
-			// aapt resource value: 0x7F0E0003
-			public const int abc_action_menu_item_layout = 2131623939;
+			// aapt resource value: 0x7F0F0003
+			public const int abc_action_menu_item_layout = 2131689475;
 			
-			// aapt resource value: 0x7F0E0004
-			public const int abc_action_menu_layout = 2131623940;
+			// aapt resource value: 0x7F0F0004
+			public const int abc_action_menu_layout = 2131689476;
 			
-			// aapt resource value: 0x7F0E0005
-			public const int abc_action_mode_bar = 2131623941;
+			// aapt resource value: 0x7F0F0005
+			public const int abc_action_mode_bar = 2131689477;
 			
-			// aapt resource value: 0x7F0E0006
-			public const int abc_action_mode_close_item_material = 2131623942;
+			// aapt resource value: 0x7F0F0006
+			public const int abc_action_mode_close_item_material = 2131689478;
 			
-			// aapt resource value: 0x7F0E0007
-			public const int abc_activity_chooser_view = 2131623943;
+			// aapt resource value: 0x7F0F0007
+			public const int abc_activity_chooser_view = 2131689479;
 			
-			// aapt resource value: 0x7F0E0008
-			public const int abc_activity_chooser_view_list_item = 2131623944;
+			// aapt resource value: 0x7F0F0008
+			public const int abc_activity_chooser_view_list_item = 2131689480;
 			
-			// aapt resource value: 0x7F0E0009
-			public const int abc_alert_dialog_button_bar_material = 2131623945;
+			// aapt resource value: 0x7F0F0009
+			public const int abc_alert_dialog_button_bar_material = 2131689481;
 			
-			// aapt resource value: 0x7F0E000A
-			public const int abc_alert_dialog_material = 2131623946;
+			// aapt resource value: 0x7F0F000A
+			public const int abc_alert_dialog_material = 2131689482;
 			
-			// aapt resource value: 0x7F0E000B
-			public const int abc_alert_dialog_title_material = 2131623947;
+			// aapt resource value: 0x7F0F000B
+			public const int abc_alert_dialog_title_material = 2131689483;
 			
-			// aapt resource value: 0x7F0E000C
-			public const int abc_cascading_menu_item_layout = 2131623948;
+			// aapt resource value: 0x7F0F000C
+			public const int abc_dialog_title_material = 2131689484;
 			
-			// aapt resource value: 0x7F0E000D
-			public const int abc_dialog_title_material = 2131623949;
+			// aapt resource value: 0x7F0F000D
+			public const int abc_expanded_menu_layout = 2131689485;
 			
-			// aapt resource value: 0x7F0E000E
-			public const int abc_expanded_menu_layout = 2131623950;
+			// aapt resource value: 0x7F0F000E
+			public const int abc_list_menu_item_checkbox = 2131689486;
 			
-			// aapt resource value: 0x7F0E000F
-			public const int abc_list_menu_item_checkbox = 2131623951;
+			// aapt resource value: 0x7F0F000F
+			public const int abc_list_menu_item_icon = 2131689487;
 			
-			// aapt resource value: 0x7F0E0010
-			public const int abc_list_menu_item_icon = 2131623952;
+			// aapt resource value: 0x7F0F0010
+			public const int abc_list_menu_item_layout = 2131689488;
 			
-			// aapt resource value: 0x7F0E0011
-			public const int abc_list_menu_item_layout = 2131623953;
+			// aapt resource value: 0x7F0F0011
+			public const int abc_list_menu_item_radio = 2131689489;
 			
-			// aapt resource value: 0x7F0E0012
-			public const int abc_list_menu_item_radio = 2131623954;
+			// aapt resource value: 0x7F0F0012
+			public const int abc_popup_menu_header_item_layout = 2131689490;
 			
-			// aapt resource value: 0x7F0E0013
-			public const int abc_popup_menu_header_item_layout = 2131623955;
+			// aapt resource value: 0x7F0F0013
+			public const int abc_popup_menu_item_layout = 2131689491;
 			
-			// aapt resource value: 0x7F0E0014
-			public const int abc_popup_menu_item_layout = 2131623956;
+			// aapt resource value: 0x7F0F0014
+			public const int abc_screen_content_include = 2131689492;
 			
-			// aapt resource value: 0x7F0E0015
-			public const int abc_screen_content_include = 2131623957;
+			// aapt resource value: 0x7F0F0015
+			public const int abc_screen_simple = 2131689493;
 			
-			// aapt resource value: 0x7F0E0016
-			public const int abc_screen_simple = 2131623958;
+			// aapt resource value: 0x7F0F0016
+			public const int abc_screen_simple_overlay_action_mode = 2131689494;
 			
-			// aapt resource value: 0x7F0E0017
-			public const int abc_screen_simple_overlay_action_mode = 2131623959;
+			// aapt resource value: 0x7F0F0017
+			public const int abc_screen_toolbar = 2131689495;
 			
-			// aapt resource value: 0x7F0E0018
-			public const int abc_screen_toolbar = 2131623960;
+			// aapt resource value: 0x7F0F0018
+			public const int abc_search_dropdown_item_icons_2line = 2131689496;
 			
-			// aapt resource value: 0x7F0E0019
-			public const int abc_search_dropdown_item_icons_2line = 2131623961;
+			// aapt resource value: 0x7F0F0019
+			public const int abc_search_view = 2131689497;
 			
-			// aapt resource value: 0x7F0E001A
-			public const int abc_search_view = 2131623962;
+			// aapt resource value: 0x7F0F001A
+			public const int abc_select_dialog_material = 2131689498;
 			
-			// aapt resource value: 0x7F0E001B
-			public const int abc_select_dialog_material = 2131623963;
-			
-			// aapt resource value: 0x7F0E001C
-			public const int abc_tooltip = 2131623964;
-			
-			// aapt resource value: 0x7F020073
-			public const int BottomTabLayout = 2130837619;
-			
-			// aapt resource value: 0x7F0E001D
-			public const int dayview_layout = 2131623965;
+			// aapt resource value: 0x7F020070
+			public const int BottomTabLayout = 2130837616;
 			
 			// aapt resource value: 0x7F0F001B
 			public const int design_bottom_navigation_item = 2131689499;
@@ -8118,8 +5722,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0F0028
 			public const int design_text_input_password_icon = 2131689512;
 			
-			// aapt resource value: 0x7F020074
-			public const int FlyoutContent = 2130837620;
+			// aapt resource value: 0x7F020071
+			public const int FlyoutContent = 2130837617;
 			
 			// aapt resource value: 0x7F0F001B
 			public const int mr_chooser_dialog = 2131689499;
@@ -8139,11 +5743,11 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0F0020
 			public const int mr_volume_control = 2131689504;
 			
-			// aapt resource value: 0x7F0E001E
-			public const int notification_action = 2131623966;
+			// aapt resource value: 0x7F0F0001
+			public const int notification_action = 2131689473;
 			
-			// aapt resource value: 0x7F0E001F
-			public const int notification_action_tombstone = 2131623967;
+			// aapt resource value: 0x7F0F0002
+			public const int notification_action_tombstone = 2131689474;
 			
 			// aapt resource value: 0x7F0F002B
 			public const int notification_media_action = 2131689515;
@@ -8163,11 +5767,11 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0F0030
 			public const int notification_template_big_media_narrow_custom = 2131689520;
 			
-			// aapt resource value: 0x7F0E0020
-			public const int notification_template_custom_big = 2131623968;
+			// aapt resource value: 0x7F0F0003
+			public const int notification_template_custom_big = 2131689475;
 			
-			// aapt resource value: 0x7F0E0021
-			public const int notification_template_icon_group = 2131623969;
+			// aapt resource value: 0x7F0F0004
+			public const int notification_template_icon_group = 2131689476;
 			
 			// aapt resource value: 0x7F0F0033
 			public const int notification_template_lines_media = 2131689523;
@@ -8178,29 +5782,29 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F0F0035
 			public const int notification_template_media_custom = 2131689525;
 			
-			// aapt resource value: 0x7F0E0022
-			public const int notification_template_part_chronometer = 2131623970;
+			// aapt resource value: 0x7F0F0005
+			public const int notification_template_part_chronometer = 2131689477;
 			
-			// aapt resource value: 0x7F0E0023
-			public const int notification_template_part_time = 2131623971;
+			// aapt resource value: 0x7F0F0006
+			public const int notification_template_part_time = 2131689478;
 			
-			// aapt resource value: 0x7F020075
-			public const int RootLayout = 2130837621;
+			// aapt resource value: 0x7F020072
+			public const int RootLayout = 2130837618;
 			
-			// aapt resource value: 0x7F0E0024
-			public const int select_dialog_item_material = 2131623972;
+			// aapt resource value: 0x7F0F0038
+			public const int select_dialog_item_material = 2131689528;
 			
-			// aapt resource value: 0x7F0E0025
-			public const int select_dialog_multichoice_material = 2131623973;
+			// aapt resource value: 0x7F0F0039
+			public const int select_dialog_multichoice_material = 2131689529;
 			
-			// aapt resource value: 0x7F0E0026
-			public const int select_dialog_singlechoice_material = 2131623974;
+			// aapt resource value: 0x7F0F003A
+			public const int select_dialog_singlechoice_material = 2131689530;
 			
-			// aapt resource value: 0x7F020076
-			public const int ShellContent = 2130837622;
+			// aapt resource value: 0x7F020073
+			public const int ShellContent = 2130837619;
 			
-			// aapt resource value: 0x7F0E0027
-			public const int support_simple_spinner_dropdown_item = 2131623975;
+			// aapt resource value: 0x7F0F003B
+			public const int support_simple_spinner_dropdown_item = 2131689531;
 			
 			// aapt resource value: 0x7F020002
 			public const int Tabbar = 2130837506;
@@ -8246,137 +5850,101 @@ namespace GoogleCalender.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F140001
-			public const int abc_action_bar_home_description = 2132017153;
+			// aapt resource value: 0x7F150001
+			public const int abc_action_bar_home_description = 2132082689;
 			
-			// aapt resource value: 0x7F140002
-			public const int abc_action_bar_up_description = 2132017154;
+			// aapt resource value: 0x7F150002
+			public const int abc_action_bar_up_description = 2132082690;
 			
-			// aapt resource value: 0x7F140003
-			public const int abc_action_menu_overflow_description = 2132017155;
+			// aapt resource value: 0x7F150003
+			public const int abc_action_menu_overflow_description = 2132082691;
 			
-			// aapt resource value: 0x7F140004
-			public const int abc_action_mode_done = 2132017156;
+			// aapt resource value: 0x7F150004
+			public const int abc_action_mode_done = 2132082692;
 			
-			// aapt resource value: 0x7F140006
-			public const int abc_activitychooserview_choose_application = 2132017158;
+			// aapt resource value: 0x7F150006
+			public const int abc_activitychooserview_choose_application = 2132082694;
 			
-			// aapt resource value: 0x7F140005
-			public const int abc_activity_chooser_view_see_all = 2132017157;
+			// aapt resource value: 0x7F150005
+			public const int abc_activity_chooser_view_see_all = 2132082693;
 			
-			// aapt resource value: 0x7F140007
-			public const int abc_capital_off = 2132017159;
+			// aapt resource value: 0x7F150007
+			public const int abc_capital_off = 2132082695;
 			
-			// aapt resource value: 0x7F140008
-			public const int abc_capital_on = 2132017160;
+			// aapt resource value: 0x7F150008
+			public const int abc_capital_on = 2132082696;
 			
-			// aapt resource value: 0x7F140009
-			public const int abc_font_family_body_1_material = 2132017161;
+			// aapt resource value: 0x7F150009
+			public const int abc_font_family_body_1_material = 2132082697;
 			
-			// aapt resource value: 0x7F14000A
-			public const int abc_font_family_body_2_material = 2132017162;
+			// aapt resource value: 0x7F15000A
+			public const int abc_font_family_body_2_material = 2132082698;
 			
-			// aapt resource value: 0x7F14000B
-			public const int abc_font_family_button_material = 2132017163;
+			// aapt resource value: 0x7F15000B
+			public const int abc_font_family_button_material = 2132082699;
 			
-			// aapt resource value: 0x7F14000C
-			public const int abc_font_family_caption_material = 2132017164;
+			// aapt resource value: 0x7F15000C
+			public const int abc_font_family_caption_material = 2132082700;
 			
-			// aapt resource value: 0x7F14000D
-			public const int abc_font_family_display_1_material = 2132017165;
+			// aapt resource value: 0x7F15000D
+			public const int abc_font_family_display_1_material = 2132082701;
 			
-			// aapt resource value: 0x7F14000E
-			public const int abc_font_family_display_2_material = 2132017166;
+			// aapt resource value: 0x7F15000E
+			public const int abc_font_family_display_2_material = 2132082702;
 			
-			// aapt resource value: 0x7F14000F
-			public const int abc_font_family_display_3_material = 2132017167;
+			// aapt resource value: 0x7F15000F
+			public const int abc_font_family_display_3_material = 2132082703;
 			
-			// aapt resource value: 0x7F140010
-			public const int abc_font_family_display_4_material = 2132017168;
+			// aapt resource value: 0x7F150010
+			public const int abc_font_family_display_4_material = 2132082704;
 			
-			// aapt resource value: 0x7F140011
-			public const int abc_font_family_headline_material = 2132017169;
+			// aapt resource value: 0x7F150011
+			public const int abc_font_family_headline_material = 2132082705;
 			
-			// aapt resource value: 0x7F140012
-			public const int abc_font_family_menu_material = 2132017170;
+			// aapt resource value: 0x7F150012
+			public const int abc_font_family_menu_material = 2132082706;
 			
-			// aapt resource value: 0x7F140013
-			public const int abc_font_family_subhead_material = 2132017171;
+			// aapt resource value: 0x7F150013
+			public const int abc_font_family_subhead_material = 2132082707;
 			
-			// aapt resource value: 0x7F140014
-			public const int abc_font_family_title_material = 2132017172;
+			// aapt resource value: 0x7F150014
+			public const int abc_font_family_title_material = 2132082708;
 			
-			// aapt resource value: 0x7F140015
-			public const int abc_menu_alt_shortcut_label = 2132017173;
+			// aapt resource value: 0x7F150016
+			public const int abc_searchview_description_clear = 2132082710;
 			
-			// aapt resource value: 0x7F140016
-			public const int abc_menu_ctrl_shortcut_label = 2132017174;
+			// aapt resource value: 0x7F150017
+			public const int abc_searchview_description_query = 2132082711;
 			
-			// aapt resource value: 0x7F140017
-			public const int abc_menu_delete_shortcut_label = 2132017175;
+			// aapt resource value: 0x7F150018
+			public const int abc_searchview_description_search = 2132082712;
 			
-			// aapt resource value: 0x7F140018
-			public const int abc_menu_enter_shortcut_label = 2132017176;
+			// aapt resource value: 0x7F150019
+			public const int abc_searchview_description_submit = 2132082713;
 			
-			// aapt resource value: 0x7F140019
-			public const int abc_menu_function_shortcut_label = 2132017177;
+			// aapt resource value: 0x7F15001A
+			public const int abc_searchview_description_voice = 2132082714;
 			
-			// aapt resource value: 0x7F14001A
-			public const int abc_menu_meta_shortcut_label = 2132017178;
+			// aapt resource value: 0x7F150015
+			public const int abc_search_hint = 2132082709;
 			
-			// aapt resource value: 0x7F14001B
-			public const int abc_menu_shift_shortcut_label = 2132017179;
+			// aapt resource value: 0x7F15001B
+			public const int abc_shareactionprovider_share_with = 2132082715;
 			
-			// aapt resource value: 0x7F14001C
-			public const int abc_menu_space_shortcut_label = 2132017180;
+			// aapt resource value: 0x7F15001C
+			public const int abc_shareactionprovider_share_with_application = 2132082716;
 			
-			// aapt resource value: 0x7F14001D
-			public const int abc_menu_sym_shortcut_label = 2132017181;
-			
-			// aapt resource value: 0x7F14001E
-			public const int abc_prepend_shortcut_label = 2132017182;
-			
-			// aapt resource value: 0x7F140020
-			public const int abc_searchview_description_clear = 2132017184;
-			
-			// aapt resource value: 0x7F140021
-			public const int abc_searchview_description_query = 2132017185;
-			
-			// aapt resource value: 0x7F140022
-			public const int abc_searchview_description_search = 2132017186;
-			
-			// aapt resource value: 0x7F140023
-			public const int abc_searchview_description_submit = 2132017187;
-			
-			// aapt resource value: 0x7F140024
-			public const int abc_searchview_description_voice = 2132017188;
-			
-			// aapt resource value: 0x7F14001F
-			public const int abc_search_hint = 2132017183;
-			
-			// aapt resource value: 0x7F140025
-			public const int abc_shareactionprovider_share_with = 2132017189;
-			
-			// aapt resource value: 0x7F140026
-			public const int abc_shareactionprovider_share_with_application = 2132017190;
-			
-			// aapt resource value: 0x7F140027
-			public const int abc_toolbar_collapse_description = 2132017191;
+			// aapt resource value: 0x7F15001D
+			public const int abc_toolbar_collapse_description = 2132082717;
 			
 			// aapt resource value: 0x7F15001E
 			public const int appbar_scrolling_view_behavior = 2132082718;
-			
-			// aapt resource value: 0x7F140028
-			public const int app_name = 2132017192;
 			
 			// aapt resource value: 0x7F15001F
 			public const int bottom_sheet_behavior = 2132082719;
 			
 			// aapt resource value: 0x7F150020
 			public const int character_counter_pattern = 2132082720;
-			
-			// aapt resource value: 0x7F080044
-			public const int library_name = 2131230788;
 			
 			// aapt resource value: 0x7F15001E
 			public const int mr_button_content_description = 2132082718;
@@ -8456,11 +6024,11 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F150025
 			public const int path_password_strike_through = 2132082725;
 			
-			// aapt resource value: 0x7F140029
-			public const int search_menu_title = 2132017193;
+			// aapt resource value: 0x7F150026
+			public const int search_menu_title = 2132082726;
 			
-			// aapt resource value: 0x7F14002A
-			public const int status_bar_notification_info_overflow = 2132017194;
+			// aapt resource value: 0x7F150001
+			public const int status_bar_notification_info_overflow = 2132082689;
 			
 			static String()
 			{
@@ -8475,20 +6043,20 @@ namespace GoogleCalender.Droid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7F150001
-			public const int AlertDialog_AppCompat = 2132082689;
+			// aapt resource value: 0x7F160001
+			public const int AlertDialog_AppCompat = 2132148225;
 			
-			// aapt resource value: 0x7F150002
-			public const int AlertDialog_AppCompat_Light = 2132082690;
+			// aapt resource value: 0x7F160002
+			public const int AlertDialog_AppCompat_Light = 2132148226;
 			
-			// aapt resource value: 0x7F150003
-			public const int Animation_AppCompat_Dialog = 2132082691;
+			// aapt resource value: 0x7F160003
+			public const int Animation_AppCompat_Dialog = 2132148227;
 			
-			// aapt resource value: 0x7F150004
-			public const int Animation_AppCompat_DropDownUp = 2132082692;
+			// aapt resource value: 0x7F160004
+			public const int Animation_AppCompat_DropDownUp = 2132148228;
 			
-			// aapt resource value: 0x7F150005
-			public const int Animation_AppCompat_Tooltip = 2132082693;
+			// aapt resource value: 0x7F160005
+			public const int Animation_AppCompat_Tooltip = 2132148229;
 			
 			// aapt resource value: 0x7F160006
 			public const int Animation_Design_BottomSheetDialog = 2132148230;
@@ -8496,236 +6064,236 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F050004
 			public const int AppCompatDialogStyle = 2131034116;
 			
-			// aapt resource value: 0x7F150006
-			public const int Base_AlertDialog_AppCompat = 2132082694;
+			// aapt resource value: 0x7F160007
+			public const int Base_AlertDialog_AppCompat = 2132148231;
 			
-			// aapt resource value: 0x7F150007
-			public const int Base_AlertDialog_AppCompat_Light = 2132082695;
+			// aapt resource value: 0x7F160008
+			public const int Base_AlertDialog_AppCompat_Light = 2132148232;
 			
-			// aapt resource value: 0x7F150008
-			public const int Base_Animation_AppCompat_Dialog = 2132082696;
+			// aapt resource value: 0x7F160009
+			public const int Base_Animation_AppCompat_Dialog = 2132148233;
 			
-			// aapt resource value: 0x7F150009
-			public const int Base_Animation_AppCompat_DropDownUp = 2132082697;
+			// aapt resource value: 0x7F16000A
+			public const int Base_Animation_AppCompat_DropDownUp = 2132148234;
 			
-			// aapt resource value: 0x7F15000A
-			public const int Base_Animation_AppCompat_Tooltip = 2132082698;
+			// aapt resource value: 0x7F16000B
+			public const int Base_Animation_AppCompat_Tooltip = 2132148235;
 			
 			// aapt resource value: 0x7F160001
 			public const int Base_CardView = 2132148225;
 			
-			// aapt resource value: 0x7F15000B
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2132082699;
+			// aapt resource value: 0x7F16000C
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2132148236;
 			
-			// aapt resource value: 0x7F15000C
-			public const int Base_DialogWindowTitle_AppCompat = 2132082700;
+			// aapt resource value: 0x7F16000D
+			public const int Base_DialogWindowTitle_AppCompat = 2132148237;
 			
-			// aapt resource value: 0x7F15000D
-			public const int Base_TextAppearance_AppCompat = 2132082701;
+			// aapt resource value: 0x7F16000E
+			public const int Base_TextAppearance_AppCompat = 2132148238;
 			
-			// aapt resource value: 0x7F15000E
-			public const int Base_TextAppearance_AppCompat_Body1 = 2132082702;
+			// aapt resource value: 0x7F16000F
+			public const int Base_TextAppearance_AppCompat_Body1 = 2132148239;
 			
-			// aapt resource value: 0x7F15000F
-			public const int Base_TextAppearance_AppCompat_Body2 = 2132082703;
+			// aapt resource value: 0x7F160010
+			public const int Base_TextAppearance_AppCompat_Body2 = 2132148240;
 			
-			// aapt resource value: 0x7F150010
-			public const int Base_TextAppearance_AppCompat_Button = 2132082704;
+			// aapt resource value: 0x7F160011
+			public const int Base_TextAppearance_AppCompat_Button = 2132148241;
 			
-			// aapt resource value: 0x7F150011
-			public const int Base_TextAppearance_AppCompat_Caption = 2132082705;
+			// aapt resource value: 0x7F160012
+			public const int Base_TextAppearance_AppCompat_Caption = 2132148242;
 			
-			// aapt resource value: 0x7F150012
-			public const int Base_TextAppearance_AppCompat_Display1 = 2132082706;
+			// aapt resource value: 0x7F160013
+			public const int Base_TextAppearance_AppCompat_Display1 = 2132148243;
 			
-			// aapt resource value: 0x7F150013
-			public const int Base_TextAppearance_AppCompat_Display2 = 2132082707;
+			// aapt resource value: 0x7F160014
+			public const int Base_TextAppearance_AppCompat_Display2 = 2132148244;
 			
-			// aapt resource value: 0x7F150014
-			public const int Base_TextAppearance_AppCompat_Display3 = 2132082708;
+			// aapt resource value: 0x7F160015
+			public const int Base_TextAppearance_AppCompat_Display3 = 2132148245;
 			
-			// aapt resource value: 0x7F150015
-			public const int Base_TextAppearance_AppCompat_Display4 = 2132082709;
+			// aapt resource value: 0x7F160016
+			public const int Base_TextAppearance_AppCompat_Display4 = 2132148246;
 			
-			// aapt resource value: 0x7F150016
-			public const int Base_TextAppearance_AppCompat_Headline = 2132082710;
+			// aapt resource value: 0x7F160017
+			public const int Base_TextAppearance_AppCompat_Headline = 2132148247;
 			
-			// aapt resource value: 0x7F150017
-			public const int Base_TextAppearance_AppCompat_Inverse = 2132082711;
+			// aapt resource value: 0x7F160018
+			public const int Base_TextAppearance_AppCompat_Inverse = 2132148248;
 			
-			// aapt resource value: 0x7F150018
-			public const int Base_TextAppearance_AppCompat_Large = 2132082712;
+			// aapt resource value: 0x7F160019
+			public const int Base_TextAppearance_AppCompat_Large = 2132148249;
 			
-			// aapt resource value: 0x7F150019
-			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2132082713;
+			// aapt resource value: 0x7F16001A
+			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2132148250;
 			
-			// aapt resource value: 0x7F15001A
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132082714;
+			// aapt resource value: 0x7F16001B
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132148251;
 			
-			// aapt resource value: 0x7F15001B
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132082715;
+			// aapt resource value: 0x7F16001C
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132148252;
 			
-			// aapt resource value: 0x7F15001C
-			public const int Base_TextAppearance_AppCompat_Medium = 2132082716;
+			// aapt resource value: 0x7F16001D
+			public const int Base_TextAppearance_AppCompat_Medium = 2132148253;
 			
-			// aapt resource value: 0x7F15001D
-			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2132082717;
+			// aapt resource value: 0x7F16001E
+			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2132148254;
 			
-			// aapt resource value: 0x7F15001E
-			public const int Base_TextAppearance_AppCompat_Menu = 2132082718;
+			// aapt resource value: 0x7F16001F
+			public const int Base_TextAppearance_AppCompat_Menu = 2132148255;
 			
-			// aapt resource value: 0x7F15001F
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2132082719;
+			// aapt resource value: 0x7F160020
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2132148256;
 			
-			// aapt resource value: 0x7F150020
-			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2132082720;
+			// aapt resource value: 0x7F160021
+			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2132148257;
 			
-			// aapt resource value: 0x7F150021
-			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2132082721;
+			// aapt resource value: 0x7F160022
+			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2132148258;
 			
-			// aapt resource value: 0x7F150022
-			public const int Base_TextAppearance_AppCompat_Small = 2132082722;
+			// aapt resource value: 0x7F160023
+			public const int Base_TextAppearance_AppCompat_Small = 2132148259;
 			
-			// aapt resource value: 0x7F150023
-			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2132082723;
+			// aapt resource value: 0x7F160024
+			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2132148260;
 			
-			// aapt resource value: 0x7F150024
-			public const int Base_TextAppearance_AppCompat_Subhead = 2132082724;
+			// aapt resource value: 0x7F160025
+			public const int Base_TextAppearance_AppCompat_Subhead = 2132148261;
 			
-			// aapt resource value: 0x7F150025
-			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2132082725;
+			// aapt resource value: 0x7F160026
+			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2132148262;
 			
-			// aapt resource value: 0x7F150026
-			public const int Base_TextAppearance_AppCompat_Title = 2132082726;
+			// aapt resource value: 0x7F160027
+			public const int Base_TextAppearance_AppCompat_Title = 2132148263;
 			
-			// aapt resource value: 0x7F150027
-			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2132082727;
+			// aapt resource value: 0x7F160028
+			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2132148264;
 			
-			// aapt resource value: 0x7F150028
-			public const int Base_TextAppearance_AppCompat_Tooltip = 2132082728;
+			// aapt resource value: 0x7F160029
+			public const int Base_TextAppearance_AppCompat_Tooltip = 2132148265;
 			
-			// aapt resource value: 0x7F150029
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132082729;
+			// aapt resource value: 0x7F16002A
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132148266;
 			
-			// aapt resource value: 0x7F15002A
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132082730;
+			// aapt resource value: 0x7F16002B
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132148267;
 			
-			// aapt resource value: 0x7F15002B
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132082731;
+			// aapt resource value: 0x7F16002C
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132148268;
 			
-			// aapt resource value: 0x7F15002C
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2132082732;
+			// aapt resource value: 0x7F16002D
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2132148269;
 			
-			// aapt resource value: 0x7F15002D
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132082733;
+			// aapt resource value: 0x7F16002E
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132148270;
 			
-			// aapt resource value: 0x7F15002E
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132082734;
+			// aapt resource value: 0x7F16002F
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132148271;
 			
-			// aapt resource value: 0x7F15002F
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2132082735;
+			// aapt resource value: 0x7F160030
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2132148272;
 			
-			// aapt resource value: 0x7F150030
-			public const int Base_TextAppearance_AppCompat_Widget_Button = 2132082736;
+			// aapt resource value: 0x7F160031
+			public const int Base_TextAppearance_AppCompat_Widget_Button = 2132148273;
 			
-			// aapt resource value: 0x7F150031
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132082737;
+			// aapt resource value: 0x7F160032
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132148274;
 			
-			// aapt resource value: 0x7F150032
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2132082738;
+			// aapt resource value: 0x7F160033
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2132148275;
 			
-			// aapt resource value: 0x7F150033
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2132082739;
+			// aapt resource value: 0x7F160034
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2132148276;
 			
-			// aapt resource value: 0x7F150034
-			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2132082740;
+			// aapt resource value: 0x7F160035
+			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2132148277;
 			
-			// aapt resource value: 0x7F150035
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132082741;
+			// aapt resource value: 0x7F160036
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132148278;
 			
-			// aapt resource value: 0x7F150036
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132082742;
+			// aapt resource value: 0x7F160037
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132148279;
 			
-			// aapt resource value: 0x7F150037
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132082743;
+			// aapt resource value: 0x7F160038
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132148280;
 			
-			// aapt resource value: 0x7F150038
-			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2132082744;
+			// aapt resource value: 0x7F160039
+			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2132148281;
 			
-			// aapt resource value: 0x7F150039
-			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132082745;
+			// aapt resource value: 0x7F16003A
+			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132148282;
 			
-			// aapt resource value: 0x7F15003A
-			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132082746;
+			// aapt resource value: 0x7F16003B
+			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132148283;
 			
-			// aapt resource value: 0x7F15003B
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132082747;
+			// aapt resource value: 0x7F16003C
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132148284;
 			
-			// aapt resource value: 0x7F15003C
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2132082748;
+			// aapt resource value: 0x7F16003D
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2132148285;
 			
-			// aapt resource value: 0x7F15003D
-			public const int Base_ThemeOverlay_AppCompat = 2132082749;
+			// aapt resource value: 0x7F16003E
+			public const int Base_ThemeOverlay_AppCompat = 2132148286;
 			
-			// aapt resource value: 0x7F15003E
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2132082750;
+			// aapt resource value: 0x7F16003F
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2132148287;
 			
-			// aapt resource value: 0x7F15003F
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2132082751;
+			// aapt resource value: 0x7F160040
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2132148288;
 			
-			// aapt resource value: 0x7F150040
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2132082752;
+			// aapt resource value: 0x7F160041
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2132148289;
 			
-			// aapt resource value: 0x7F150041
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2132082753;
+			// aapt resource value: 0x7F160042
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2132148290;
 			
-			// aapt resource value: 0x7F150042
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2132082754;
+			// aapt resource value: 0x7F160043
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2132148291;
 			
-			// aapt resource value: 0x7F150043
-			public const int Base_ThemeOverlay_AppCompat_Light = 2132082755;
+			// aapt resource value: 0x7F160044
+			public const int Base_ThemeOverlay_AppCompat_Light = 2132148292;
 			
-			// aapt resource value: 0x7F150044
-			public const int Base_Theme_AppCompat = 2132082756;
+			// aapt resource value: 0x7F160045
+			public const int Base_Theme_AppCompat = 2132148293;
 			
-			// aapt resource value: 0x7F150045
-			public const int Base_Theme_AppCompat_CompactMenu = 2132082757;
+			// aapt resource value: 0x7F160046
+			public const int Base_Theme_AppCompat_CompactMenu = 2132148294;
 			
-			// aapt resource value: 0x7F150046
-			public const int Base_Theme_AppCompat_Dialog = 2132082758;
+			// aapt resource value: 0x7F160047
+			public const int Base_Theme_AppCompat_Dialog = 2132148295;
 			
-			// aapt resource value: 0x7F150047
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2132082759;
+			// aapt resource value: 0x7F160048
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2132148296;
 			
-			// aapt resource value: 0x7F150048
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2132082760;
+			// aapt resource value: 0x7F160049
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2132148297;
 			
-			// aapt resource value: 0x7F150049
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2132082761;
+			// aapt resource value: 0x7F16004A
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2132148298;
 			
-			// aapt resource value: 0x7F15004A
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2132082762;
+			// aapt resource value: 0x7F16004B
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2132148299;
 			
-			// aapt resource value: 0x7F15004B
-			public const int Base_Theme_AppCompat_Light = 2132082763;
+			// aapt resource value: 0x7F16004C
+			public const int Base_Theme_AppCompat_Light = 2132148300;
 			
-			// aapt resource value: 0x7F15004C
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2132082764;
+			// aapt resource value: 0x7F16004D
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2132148301;
 			
-			// aapt resource value: 0x7F15004D
-			public const int Base_Theme_AppCompat_Light_Dialog = 2132082765;
+			// aapt resource value: 0x7F16004E
+			public const int Base_Theme_AppCompat_Light_Dialog = 2132148302;
 			
-			// aapt resource value: 0x7F15004E
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2132082766;
+			// aapt resource value: 0x7F16004F
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2132148303;
 			
-			// aapt resource value: 0x7F15004F
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2132082767;
+			// aapt resource value: 0x7F160050
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2132148304;
 			
-			// aapt resource value: 0x7F150050
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2132082768;
+			// aapt resource value: 0x7F160051
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2132148305;
 			
-			// aapt resource value: 0x7F150051
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2132082769;
+			// aapt resource value: 0x7F160052
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2132148306;
 			
 			// aapt resource value: 0x7F160053
 			public const int Base_V11_ThemeOverlay_AppCompat_Dialog = 2132148307;
@@ -8745,248 +6313,242 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F160058
 			public const int Base_V14_Widget_Design_AppBarLayout = 2132148312;
 			
-			// aapt resource value: 0x7F150052
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2132082770;
+			// aapt resource value: 0x7F160059
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2132148313;
 			
-			// aapt resource value: 0x7F150053
-			public const int Base_V21_Theme_AppCompat = 2132082771;
+			// aapt resource value: 0x7F16005A
+			public const int Base_V21_Theme_AppCompat = 2132148314;
 			
-			// aapt resource value: 0x7F150054
-			public const int Base_V21_Theme_AppCompat_Dialog = 2132082772;
+			// aapt resource value: 0x7F16005B
+			public const int Base_V21_Theme_AppCompat_Dialog = 2132148315;
 			
-			// aapt resource value: 0x7F150055
-			public const int Base_V21_Theme_AppCompat_Light = 2132082773;
+			// aapt resource value: 0x7F16005C
+			public const int Base_V21_Theme_AppCompat_Light = 2132148316;
 			
-			// aapt resource value: 0x7F150056
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2132082774;
+			// aapt resource value: 0x7F16005D
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2132148317;
 			
 			// aapt resource value: 0x7F16005E
 			public const int Base_V21_Widget_Design_AppBarLayout = 2132148318;
 			
-			// aapt resource value: 0x7F150057
-			public const int Base_V22_Theme_AppCompat = 2132082775;
+			// aapt resource value: 0x7F16005F
+			public const int Base_V22_Theme_AppCompat = 2132148319;
 			
-			// aapt resource value: 0x7F150058
-			public const int Base_V22_Theme_AppCompat_Light = 2132082776;
+			// aapt resource value: 0x7F160060
+			public const int Base_V22_Theme_AppCompat_Light = 2132148320;
 			
-			// aapt resource value: 0x7F150059
-			public const int Base_V23_Theme_AppCompat = 2132082777;
+			// aapt resource value: 0x7F160061
+			public const int Base_V23_Theme_AppCompat = 2132148321;
 			
-			// aapt resource value: 0x7F15005A
-			public const int Base_V23_Theme_AppCompat_Light = 2132082778;
+			// aapt resource value: 0x7F160062
+			public const int Base_V23_Theme_AppCompat_Light = 2132148322;
 			
-			// aapt resource value: 0x7F15005B
-			public const int Base_V26_Theme_AppCompat = 2132082779;
+			// aapt resource value: 0x7F160063
+			public const int Base_V26_Theme_AppCompat = 2132148323;
 			
-			// aapt resource value: 0x7F15005C
-			public const int Base_V26_Theme_AppCompat_Light = 2132082780;
+			// aapt resource value: 0x7F160064
+			public const int Base_V26_Theme_AppCompat_Light = 2132148324;
 			
-			// aapt resource value: 0x7F15005D
-			public const int Base_V26_Widget_AppCompat_Toolbar = 2132082781;
+			// aapt resource value: 0x7F160065
+			public const int Base_V26_Widget_AppCompat_Toolbar = 2132148325;
 			
 			// aapt resource value: 0x7F160066
 			public const int Base_V26_Widget_Design_AppBarLayout = 2132148326;
 			
-			// aapt resource value: 0x7F15005E
-			public const int Base_V28_Theme_AppCompat = 2132082782;
+			// aapt resource value: 0x7F160067
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2132148327;
 			
-			// aapt resource value: 0x7F15005F
-			public const int Base_V28_Theme_AppCompat_Light = 2132082783;
+			// aapt resource value: 0x7F160068
+			public const int Base_V7_Theme_AppCompat = 2132148328;
 			
-			// aapt resource value: 0x7F150060
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2132082784;
+			// aapt resource value: 0x7F160069
+			public const int Base_V7_Theme_AppCompat_Dialog = 2132148329;
 			
-			// aapt resource value: 0x7F150061
-			public const int Base_V7_Theme_AppCompat = 2132082785;
+			// aapt resource value: 0x7F16006A
+			public const int Base_V7_Theme_AppCompat_Light = 2132148330;
 			
-			// aapt resource value: 0x7F150062
-			public const int Base_V7_Theme_AppCompat_Dialog = 2132082786;
+			// aapt resource value: 0x7F16006B
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2132148331;
 			
-			// aapt resource value: 0x7F150063
-			public const int Base_V7_Theme_AppCompat_Light = 2132082787;
+			// aapt resource value: 0x7F16006C
+			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2132148332;
 			
-			// aapt resource value: 0x7F150064
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2132082788;
+			// aapt resource value: 0x7F16006D
+			public const int Base_V7_Widget_AppCompat_EditText = 2132148333;
 			
-			// aapt resource value: 0x7F150065
-			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2132082789;
+			// aapt resource value: 0x7F16006E
+			public const int Base_V7_Widget_AppCompat_Toolbar = 2132148334;
 			
-			// aapt resource value: 0x7F150066
-			public const int Base_V7_Widget_AppCompat_EditText = 2132082790;
+			// aapt resource value: 0x7F16006F
+			public const int Base_Widget_AppCompat_ActionBar = 2132148335;
 			
-			// aapt resource value: 0x7F150067
-			public const int Base_V7_Widget_AppCompat_Toolbar = 2132082791;
+			// aapt resource value: 0x7F160070
+			public const int Base_Widget_AppCompat_ActionBar_Solid = 2132148336;
 			
-			// aapt resource value: 0x7F150068
-			public const int Base_Widget_AppCompat_ActionBar = 2132082792;
+			// aapt resource value: 0x7F160071
+			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2132148337;
 			
-			// aapt resource value: 0x7F150069
-			public const int Base_Widget_AppCompat_ActionBar_Solid = 2132082793;
+			// aapt resource value: 0x7F160072
+			public const int Base_Widget_AppCompat_ActionBar_TabText = 2132148338;
 			
-			// aapt resource value: 0x7F15006A
-			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2132082794;
+			// aapt resource value: 0x7F160073
+			public const int Base_Widget_AppCompat_ActionBar_TabView = 2132148339;
 			
-			// aapt resource value: 0x7F15006B
-			public const int Base_Widget_AppCompat_ActionBar_TabText = 2132082795;
+			// aapt resource value: 0x7F160074
+			public const int Base_Widget_AppCompat_ActionButton = 2132148340;
 			
-			// aapt resource value: 0x7F15006C
-			public const int Base_Widget_AppCompat_ActionBar_TabView = 2132082796;
+			// aapt resource value: 0x7F160075
+			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2132148341;
 			
-			// aapt resource value: 0x7F15006D
-			public const int Base_Widget_AppCompat_ActionButton = 2132082797;
+			// aapt resource value: 0x7F160076
+			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2132148342;
 			
-			// aapt resource value: 0x7F15006E
-			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2132082798;
+			// aapt resource value: 0x7F160077
+			public const int Base_Widget_AppCompat_ActionMode = 2132148343;
 			
-			// aapt resource value: 0x7F15006F
-			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2132082799;
+			// aapt resource value: 0x7F160078
+			public const int Base_Widget_AppCompat_ActivityChooserView = 2132148344;
 			
-			// aapt resource value: 0x7F150070
-			public const int Base_Widget_AppCompat_ActionMode = 2132082800;
+			// aapt resource value: 0x7F160079
+			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2132148345;
 			
-			// aapt resource value: 0x7F150071
-			public const int Base_Widget_AppCompat_ActivityChooserView = 2132082801;
+			// aapt resource value: 0x7F16007A
+			public const int Base_Widget_AppCompat_Button = 2132148346;
 			
-			// aapt resource value: 0x7F150072
-			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2132082802;
+			// aapt resource value: 0x7F16007B
+			public const int Base_Widget_AppCompat_ButtonBar = 2132148347;
 			
-			// aapt resource value: 0x7F150073
-			public const int Base_Widget_AppCompat_Button = 2132082803;
+			// aapt resource value: 0x7F16007C
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2132148348;
 			
-			// aapt resource value: 0x7F150074
-			public const int Base_Widget_AppCompat_ButtonBar = 2132082804;
+			// aapt resource value: 0x7F16007D
+			public const int Base_Widget_AppCompat_Button_Borderless = 2132148349;
 			
-			// aapt resource value: 0x7F150075
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2132082805;
+			// aapt resource value: 0x7F16007E
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2132148350;
 			
-			// aapt resource value: 0x7F150076
-			public const int Base_Widget_AppCompat_Button_Borderless = 2132082806;
+			// aapt resource value: 0x7F16007F
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132148351;
 			
-			// aapt resource value: 0x7F150077
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2132082807;
+			// aapt resource value: 0x7F160080
+			public const int Base_Widget_AppCompat_Button_Colored = 2132148352;
 			
-			// aapt resource value: 0x7F150078
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132082808;
+			// aapt resource value: 0x7F160081
+			public const int Base_Widget_AppCompat_Button_Small = 2132148353;
 			
-			// aapt resource value: 0x7F150079
-			public const int Base_Widget_AppCompat_Button_Colored = 2132082809;
+			// aapt resource value: 0x7F160082
+			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2132148354;
 			
-			// aapt resource value: 0x7F15007A
-			public const int Base_Widget_AppCompat_Button_Small = 2132082810;
+			// aapt resource value: 0x7F160083
+			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2132148355;
 			
-			// aapt resource value: 0x7F15007B
-			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2132082811;
+			// aapt resource value: 0x7F160084
+			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2132148356;
 			
-			// aapt resource value: 0x7F15007C
-			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2132082812;
+			// aapt resource value: 0x7F160085
+			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2132148357;
 			
-			// aapt resource value: 0x7F15007D
-			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2132082813;
+			// aapt resource value: 0x7F160086
+			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2132148358;
 			
-			// aapt resource value: 0x7F15007E
-			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2132082814;
+			// aapt resource value: 0x7F160087
+			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2132148359;
 			
-			// aapt resource value: 0x7F15007F
-			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2132082815;
+			// aapt resource value: 0x7F160088
+			public const int Base_Widget_AppCompat_EditText = 2132148360;
 			
-			// aapt resource value: 0x7F150080
-			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2132082816;
+			// aapt resource value: 0x7F160089
+			public const int Base_Widget_AppCompat_ImageButton = 2132148361;
 			
-			// aapt resource value: 0x7F150081
-			public const int Base_Widget_AppCompat_EditText = 2132082817;
+			// aapt resource value: 0x7F16008A
+			public const int Base_Widget_AppCompat_Light_ActionBar = 2132148362;
 			
-			// aapt resource value: 0x7F150082
-			public const int Base_Widget_AppCompat_ImageButton = 2132082818;
+			// aapt resource value: 0x7F16008B
+			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2132148363;
 			
-			// aapt resource value: 0x7F150083
-			public const int Base_Widget_AppCompat_Light_ActionBar = 2132082819;
+			// aapt resource value: 0x7F16008C
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2132148364;
 			
-			// aapt resource value: 0x7F150084
-			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2132082820;
+			// aapt resource value: 0x7F16008D
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2132148365;
 			
-			// aapt resource value: 0x7F150085
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2132082821;
+			// aapt resource value: 0x7F16008E
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132148366;
 			
-			// aapt resource value: 0x7F150086
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2132082822;
+			// aapt resource value: 0x7F16008F
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2132148367;
 			
-			// aapt resource value: 0x7F150087
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132082823;
+			// aapt resource value: 0x7F160090
+			public const int Base_Widget_AppCompat_Light_PopupMenu = 2132148368;
 			
-			// aapt resource value: 0x7F150088
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2132082824;
+			// aapt resource value: 0x7F160091
+			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2132148369;
 			
-			// aapt resource value: 0x7F150089
-			public const int Base_Widget_AppCompat_Light_PopupMenu = 2132082825;
+			// aapt resource value: 0x7F160092
+			public const int Base_Widget_AppCompat_ListMenuView = 2132148370;
 			
-			// aapt resource value: 0x7F15008A
-			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2132082826;
+			// aapt resource value: 0x7F160093
+			public const int Base_Widget_AppCompat_ListPopupWindow = 2132148371;
 			
-			// aapt resource value: 0x7F15008B
-			public const int Base_Widget_AppCompat_ListMenuView = 2132082827;
+			// aapt resource value: 0x7F160094
+			public const int Base_Widget_AppCompat_ListView = 2132148372;
 			
-			// aapt resource value: 0x7F15008C
-			public const int Base_Widget_AppCompat_ListPopupWindow = 2132082828;
+			// aapt resource value: 0x7F160095
+			public const int Base_Widget_AppCompat_ListView_DropDown = 2132148373;
 			
-			// aapt resource value: 0x7F15008D
-			public const int Base_Widget_AppCompat_ListView = 2132082829;
+			// aapt resource value: 0x7F160096
+			public const int Base_Widget_AppCompat_ListView_Menu = 2132148374;
 			
-			// aapt resource value: 0x7F15008E
-			public const int Base_Widget_AppCompat_ListView_DropDown = 2132082830;
+			// aapt resource value: 0x7F160097
+			public const int Base_Widget_AppCompat_PopupMenu = 2132148375;
 			
-			// aapt resource value: 0x7F15008F
-			public const int Base_Widget_AppCompat_ListView_Menu = 2132082831;
+			// aapt resource value: 0x7F160098
+			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2132148376;
 			
-			// aapt resource value: 0x7F150090
-			public const int Base_Widget_AppCompat_PopupMenu = 2132082832;
+			// aapt resource value: 0x7F160099
+			public const int Base_Widget_AppCompat_PopupWindow = 2132148377;
 			
-			// aapt resource value: 0x7F150091
-			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2132082833;
+			// aapt resource value: 0x7F16009A
+			public const int Base_Widget_AppCompat_ProgressBar = 2132148378;
 			
-			// aapt resource value: 0x7F150092
-			public const int Base_Widget_AppCompat_PopupWindow = 2132082834;
+			// aapt resource value: 0x7F16009B
+			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2132148379;
 			
-			// aapt resource value: 0x7F150093
-			public const int Base_Widget_AppCompat_ProgressBar = 2132082835;
+			// aapt resource value: 0x7F16009C
+			public const int Base_Widget_AppCompat_RatingBar = 2132148380;
 			
-			// aapt resource value: 0x7F150094
-			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2132082836;
+			// aapt resource value: 0x7F16009D
+			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2132148381;
 			
-			// aapt resource value: 0x7F150095
-			public const int Base_Widget_AppCompat_RatingBar = 2132082837;
+			// aapt resource value: 0x7F16009E
+			public const int Base_Widget_AppCompat_RatingBar_Small = 2132148382;
 			
-			// aapt resource value: 0x7F150096
-			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2132082838;
+			// aapt resource value: 0x7F16009F
+			public const int Base_Widget_AppCompat_SearchView = 2132148383;
 			
-			// aapt resource value: 0x7F150097
-			public const int Base_Widget_AppCompat_RatingBar_Small = 2132082839;
+			// aapt resource value: 0x7F1600A0
+			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2132148384;
 			
-			// aapt resource value: 0x7F150098
-			public const int Base_Widget_AppCompat_SearchView = 2132082840;
+			// aapt resource value: 0x7F1600A1
+			public const int Base_Widget_AppCompat_SeekBar = 2132148385;
 			
-			// aapt resource value: 0x7F150099
-			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2132082841;
+			// aapt resource value: 0x7F1600A2
+			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2132148386;
 			
-			// aapt resource value: 0x7F15009A
-			public const int Base_Widget_AppCompat_SeekBar = 2132082842;
+			// aapt resource value: 0x7F1600A3
+			public const int Base_Widget_AppCompat_Spinner = 2132148387;
 			
-			// aapt resource value: 0x7F15009B
-			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2132082843;
+			// aapt resource value: 0x7F1600A4
+			public const int Base_Widget_AppCompat_Spinner_Underlined = 2132148388;
 			
-			// aapt resource value: 0x7F15009C
-			public const int Base_Widget_AppCompat_Spinner = 2132082844;
+			// aapt resource value: 0x7F1600A5
+			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2132148389;
 			
-			// aapt resource value: 0x7F15009D
-			public const int Base_Widget_AppCompat_Spinner_Underlined = 2132082845;
+			// aapt resource value: 0x7F1600A6
+			public const int Base_Widget_AppCompat_Toolbar = 2132148390;
 			
-			// aapt resource value: 0x7F15009E
-			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2132082846;
-			
-			// aapt resource value: 0x7F15009F
-			public const int Base_Widget_AppCompat_Toolbar = 2132082847;
-			
-			// aapt resource value: 0x7F1500A0
-			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2132082848;
+			// aapt resource value: 0x7F1600A7
+			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2132148391;
 			
 			// aapt resource value: 0x7F1600A8
 			public const int Base_Widget_Design_AppBarLayout = 2132148392;
@@ -9009,20 +6571,20 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F050003
 			public const int MainTheme_Base = 2131034115;
 			
-			// aapt resource value: 0x7F1500A1
-			public const int Platform_AppCompat = 2132082849;
+			// aapt resource value: 0x7F1600AA
+			public const int Platform_AppCompat = 2132148394;
 			
-			// aapt resource value: 0x7F1500A2
-			public const int Platform_AppCompat_Light = 2132082850;
+			// aapt resource value: 0x7F1600AB
+			public const int Platform_AppCompat_Light = 2132148395;
 			
-			// aapt resource value: 0x7F1500A3
-			public const int Platform_ThemeOverlay_AppCompat = 2132082851;
+			// aapt resource value: 0x7F1600AC
+			public const int Platform_ThemeOverlay_AppCompat = 2132148396;
 			
-			// aapt resource value: 0x7F1500A4
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2132082852;
+			// aapt resource value: 0x7F1600AD
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2132148397;
 			
-			// aapt resource value: 0x7F1500A5
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2132082853;
+			// aapt resource value: 0x7F1600AE
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2132148398;
 			
 			// aapt resource value: 0x7F1600AF
 			public const int Platform_V11_AppCompat = 2132148399;
@@ -9036,227 +6598,218 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F1600B2
 			public const int Platform_V14_AppCompat_Light = 2132148402;
 			
-			// aapt resource value: 0x7F1500A6
-			public const int Platform_V21_AppCompat = 2132082854;
+			// aapt resource value: 0x7F1600B3
+			public const int Platform_V21_AppCompat = 2132148403;
 			
-			// aapt resource value: 0x7F1500A7
-			public const int Platform_V21_AppCompat_Light = 2132082855;
+			// aapt resource value: 0x7F1600B4
+			public const int Platform_V21_AppCompat_Light = 2132148404;
 			
-			// aapt resource value: 0x7F1500A8
-			public const int Platform_V25_AppCompat = 2132082856;
+			// aapt resource value: 0x7F1600B5
+			public const int Platform_V25_AppCompat = 2132148405;
 			
-			// aapt resource value: 0x7F1500A9
-			public const int Platform_V25_AppCompat_Light = 2132082857;
+			// aapt resource value: 0x7F1600B6
+			public const int Platform_V25_AppCompat_Light = 2132148406;
 			
-			// aapt resource value: 0x7F1500AA
-			public const int Platform_Widget_AppCompat_Spinner = 2132082858;
+			// aapt resource value: 0x7F1600B7
+			public const int Platform_Widget_AppCompat_Spinner = 2132148407;
 			
-			// aapt resource value: 0x7F1500AB
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2132082859;
+			// aapt resource value: 0x7F1600B8
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2132148408;
 			
-			// aapt resource value: 0x7F1500AC
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2132082860;
+			// aapt resource value: 0x7F1600B9
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2132148409;
 			
-			// aapt resource value: 0x7F1500AD
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2132082861;
+			// aapt resource value: 0x7F1600BA
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2132148410;
 			
-			// aapt resource value: 0x7F1500AE
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2132082862;
+			// aapt resource value: 0x7F1600BB
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2132148411;
 			
-			// aapt resource value: 0x7F1500AF
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2132082863;
+			// aapt resource value: 0x7F1600BC
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2132148412;
 			
-			// aapt resource value: 0x7F1500B0
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2132082864;
+			// aapt resource value: 0x7F1600BD
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2132148413;
 			
-			// aapt resource value: 0x7F1500B1
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2132082865;
+			// aapt resource value: 0x7F1600BE
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2132148414;
 			
-			// aapt resource value: 0x7F1500B2
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2132082866;
+			// aapt resource value: 0x7F1600BF
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2132148415;
 			
-			// aapt resource value: 0x7F1500B3
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2132082867;
+			// aapt resource value: 0x7F1600C0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2132148416;
 			
-			// aapt resource value: 0x7F1500B4
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2132082868;
+			// aapt resource value: 0x7F1600C1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2132148417;
 			
-			// aapt resource value: 0x7F1500B5
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2132082869;
+			// aapt resource value: 0x7F1600C2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2132148418;
 			
-			// aapt resource value: 0x7F1500B6
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2132082870;
+			// aapt resource value: 0x7F1600C3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2132148419;
 			
-			// aapt resource value: 0x7F1500B7
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2132082871;
+			// aapt resource value: 0x7F1600C4
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2132148420;
 			
-			// aapt resource value: 0x7F1500B8
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2132082872;
+			// aapt resource value: 0x7F1600C5
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2132148421;
 			
-			// aapt resource value: 0x7F1500B9
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2132082873;
+			// aapt resource value: 0x7F1600C6
+			public const int TextAppearance_AppCompat = 2132148422;
 			
-			// aapt resource value: 0x7F1500BA
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2132082874;
+			// aapt resource value: 0x7F1600C7
+			public const int TextAppearance_AppCompat_Body1 = 2132148423;
 			
-			// aapt resource value: 0x7F1500BB
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2132082875;
+			// aapt resource value: 0x7F1600C8
+			public const int TextAppearance_AppCompat_Body2 = 2132148424;
 			
-			// aapt resource value: 0x7F1500BC
-			public const int TextAppearance_AppCompat = 2132082876;
+			// aapt resource value: 0x7F1600C9
+			public const int TextAppearance_AppCompat_Button = 2132148425;
 			
-			// aapt resource value: 0x7F1500BD
-			public const int TextAppearance_AppCompat_Body1 = 2132082877;
+			// aapt resource value: 0x7F1600CA
+			public const int TextAppearance_AppCompat_Caption = 2132148426;
 			
-			// aapt resource value: 0x7F1500BE
-			public const int TextAppearance_AppCompat_Body2 = 2132082878;
+			// aapt resource value: 0x7F1600CB
+			public const int TextAppearance_AppCompat_Display1 = 2132148427;
 			
-			// aapt resource value: 0x7F1500BF
-			public const int TextAppearance_AppCompat_Button = 2132082879;
+			// aapt resource value: 0x7F1600CC
+			public const int TextAppearance_AppCompat_Display2 = 2132148428;
 			
-			// aapt resource value: 0x7F1500C0
-			public const int TextAppearance_AppCompat_Caption = 2132082880;
+			// aapt resource value: 0x7F1600CD
+			public const int TextAppearance_AppCompat_Display3 = 2132148429;
 			
-			// aapt resource value: 0x7F1500C1
-			public const int TextAppearance_AppCompat_Display1 = 2132082881;
+			// aapt resource value: 0x7F1600CE
+			public const int TextAppearance_AppCompat_Display4 = 2132148430;
 			
-			// aapt resource value: 0x7F1500C2
-			public const int TextAppearance_AppCompat_Display2 = 2132082882;
+			// aapt resource value: 0x7F1600CF
+			public const int TextAppearance_AppCompat_Headline = 2132148431;
 			
-			// aapt resource value: 0x7F1500C3
-			public const int TextAppearance_AppCompat_Display3 = 2132082883;
+			// aapt resource value: 0x7F1600D0
+			public const int TextAppearance_AppCompat_Inverse = 2132148432;
 			
-			// aapt resource value: 0x7F1500C4
-			public const int TextAppearance_AppCompat_Display4 = 2132082884;
+			// aapt resource value: 0x7F1600D1
+			public const int TextAppearance_AppCompat_Large = 2132148433;
 			
-			// aapt resource value: 0x7F1500C5
-			public const int TextAppearance_AppCompat_Headline = 2132082885;
+			// aapt resource value: 0x7F1600D2
+			public const int TextAppearance_AppCompat_Large_Inverse = 2132148434;
 			
-			// aapt resource value: 0x7F1500C6
-			public const int TextAppearance_AppCompat_Inverse = 2132082886;
+			// aapt resource value: 0x7F1600D3
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2132148435;
 			
-			// aapt resource value: 0x7F1500C7
-			public const int TextAppearance_AppCompat_Large = 2132082887;
+			// aapt resource value: 0x7F1600D4
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2132148436;
 			
-			// aapt resource value: 0x7F1500C8
-			public const int TextAppearance_AppCompat_Large_Inverse = 2132082888;
+			// aapt resource value: 0x7F1600D5
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132148437;
 			
-			// aapt resource value: 0x7F1500C9
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2132082889;
+			// aapt resource value: 0x7F1600D6
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132148438;
 			
-			// aapt resource value: 0x7F1500CA
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2132082890;
+			// aapt resource value: 0x7F1600D7
+			public const int TextAppearance_AppCompat_Medium = 2132148439;
 			
-			// aapt resource value: 0x7F1500CB
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2132082891;
+			// aapt resource value: 0x7F1600D8
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2132148440;
 			
-			// aapt resource value: 0x7F1500CC
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2132082892;
+			// aapt resource value: 0x7F1600D9
+			public const int TextAppearance_AppCompat_Menu = 2132148441;
 			
-			// aapt resource value: 0x7F1500CD
-			public const int TextAppearance_AppCompat_Medium = 2132082893;
+			// aapt resource value: 0x7F1600DA
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2132148442;
 			
-			// aapt resource value: 0x7F1500CE
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2132082894;
+			// aapt resource value: 0x7F1600DB
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2132148443;
 			
-			// aapt resource value: 0x7F1500CF
-			public const int TextAppearance_AppCompat_Menu = 2132082895;
+			// aapt resource value: 0x7F1600DC
+			public const int TextAppearance_AppCompat_Small = 2132148444;
 			
-			// aapt resource value: 0x7F1500D0
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2132082896;
+			// aapt resource value: 0x7F1600DD
+			public const int TextAppearance_AppCompat_Small_Inverse = 2132148445;
 			
-			// aapt resource value: 0x7F1500D1
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2132082897;
+			// aapt resource value: 0x7F1600DE
+			public const int TextAppearance_AppCompat_Subhead = 2132148446;
 			
-			// aapt resource value: 0x7F1500D2
-			public const int TextAppearance_AppCompat_Small = 2132082898;
+			// aapt resource value: 0x7F1600DF
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2132148447;
 			
-			// aapt resource value: 0x7F1500D3
-			public const int TextAppearance_AppCompat_Small_Inverse = 2132082899;
+			// aapt resource value: 0x7F1600E0
+			public const int TextAppearance_AppCompat_Title = 2132148448;
 			
-			// aapt resource value: 0x7F1500D4
-			public const int TextAppearance_AppCompat_Subhead = 2132082900;
+			// aapt resource value: 0x7F1600E1
+			public const int TextAppearance_AppCompat_Title_Inverse = 2132148449;
 			
-			// aapt resource value: 0x7F1500D5
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2132082901;
+			// aapt resource value: 0x7F1600E2
+			public const int TextAppearance_AppCompat_Tooltip = 2132148450;
 			
-			// aapt resource value: 0x7F1500D6
-			public const int TextAppearance_AppCompat_Title = 2132082902;
+			// aapt resource value: 0x7F1600E3
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132148451;
 			
-			// aapt resource value: 0x7F1500D7
-			public const int TextAppearance_AppCompat_Title_Inverse = 2132082903;
+			// aapt resource value: 0x7F1600E4
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132148452;
 			
-			// aapt resource value: 0x7F1500D8
-			public const int TextAppearance_AppCompat_Tooltip = 2132082904;
+			// aapt resource value: 0x7F1600E5
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132148453;
 			
-			// aapt resource value: 0x7F1500D9
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2132082905;
+			// aapt resource value: 0x7F1600E6
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2132148454;
 			
-			// aapt resource value: 0x7F1500DA
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2132082906;
+			// aapt resource value: 0x7F1600E7
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132148455;
 			
-			// aapt resource value: 0x7F1500DB
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2132082907;
+			// aapt resource value: 0x7F1600E8
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132148456;
 			
-			// aapt resource value: 0x7F1500DC
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2132082908;
+			// aapt resource value: 0x7F1600E9
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2132148457;
 			
-			// aapt resource value: 0x7F1500DD
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2132082909;
+			// aapt resource value: 0x7F1600EA
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2132148458;
 			
-			// aapt resource value: 0x7F1500DE
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2132082910;
+			// aapt resource value: 0x7F1600EB
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2132148459;
 			
-			// aapt resource value: 0x7F1500DF
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2132082911;
+			// aapt resource value: 0x7F1600EC
+			public const int TextAppearance_AppCompat_Widget_Button = 2132148460;
 			
-			// aapt resource value: 0x7F1500E0
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2132082912;
+			// aapt resource value: 0x7F1600ED
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132148461;
 			
-			// aapt resource value: 0x7F1500E1
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2132082913;
+			// aapt resource value: 0x7F1600EE
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2132148462;
 			
-			// aapt resource value: 0x7F1500E2
-			public const int TextAppearance_AppCompat_Widget_Button = 2132082914;
+			// aapt resource value: 0x7F1600EF
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2132148463;
 			
-			// aapt resource value: 0x7F1500E3
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2132082915;
+			// aapt resource value: 0x7F1600F0
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2132148464;
 			
-			// aapt resource value: 0x7F1500E4
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2132082916;
+			// aapt resource value: 0x7F1600F1
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132148465;
 			
-			// aapt resource value: 0x7F1500E5
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2132082917;
+			// aapt resource value: 0x7F1600F2
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132148466;
 			
-			// aapt resource value: 0x7F1500E6
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2132082918;
+			// aapt resource value: 0x7F1600F3
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132148467;
 			
-			// aapt resource value: 0x7F1500E7
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2132082919;
+			// aapt resource value: 0x7F1600F4
+			public const int TextAppearance_AppCompat_Widget_Switch = 2132148468;
 			
-			// aapt resource value: 0x7F1500E8
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2132082920;
+			// aapt resource value: 0x7F1600F5
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132148469;
 			
-			// aapt resource value: 0x7F1500E9
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2132082921;
+			// aapt resource value: 0x7F160001
+			public const int TextAppearance_Compat_Notification = 2132148225;
 			
-			// aapt resource value: 0x7F1500EA
-			public const int TextAppearance_AppCompat_Widget_Switch = 2132082922;
-			
-			// aapt resource value: 0x7F1500EB
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2132082923;
-			
-			// aapt resource value: 0x7F1500EC
-			public const int TextAppearance_Compat_Notification = 2132082924;
-			
-			// aapt resource value: 0x7F1500ED
-			public const int TextAppearance_Compat_Notification_Info = 2132082925;
+			// aapt resource value: 0x7F160002
+			public const int TextAppearance_Compat_Notification_Info = 2132148226;
 			
 			// aapt resource value: 0x7F1600F8
 			public const int TextAppearance_Compat_Notification_Info_Media = 2132148472;
 			
-			// aapt resource value: 0x7F1500EE
-			public const int TextAppearance_Compat_Notification_Line2 = 2132082926;
+			// aapt resource value: 0x7F160003
+			public const int TextAppearance_Compat_Notification_Line2 = 2132148227;
 			
 			// aapt resource value: 0x7F1600FA
 			public const int TextAppearance_Compat_Notification_Line2_Media = 2132148474;
@@ -9264,14 +6817,14 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F1600FB
 			public const int TextAppearance_Compat_Notification_Media = 2132148475;
 			
-			// aapt resource value: 0x7F1500EF
-			public const int TextAppearance_Compat_Notification_Time = 2132082927;
+			// aapt resource value: 0x7F160004
+			public const int TextAppearance_Compat_Notification_Time = 2132148228;
 			
 			// aapt resource value: 0x7F1600FD
 			public const int TextAppearance_Compat_Notification_Time_Media = 2132148477;
 			
-			// aapt resource value: 0x7F1500F0
-			public const int TextAppearance_Compat_Notification_Title = 2132082928;
+			// aapt resource value: 0x7F160005
+			public const int TextAppearance_Compat_Notification_Title = 2132148229;
 			
 			// aapt resource value: 0x7F1600FF
 			public const int TextAppearance_Compat_Notification_Title_Media = 2132148479;
@@ -9306,35 +6859,35 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F1600FC
 			public const int TextAppearance_MediaRouter_Title = 2132148476;
 			
-			// aapt resource value: 0x7F1500F1
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132082929;
+			// aapt resource value: 0x7F160107
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2132148487;
 			
-			// aapt resource value: 0x7F1500F2
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132082930;
+			// aapt resource value: 0x7F160108
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2132148488;
 			
-			// aapt resource value: 0x7F1500F3
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2132082931;
+			// aapt resource value: 0x7F160109
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2132148489;
 			
-			// aapt resource value: 0x7F1500F4
-			public const int ThemeOverlay_AppCompat = 2132082932;
+			// aapt resource value: 0x7F16010A
+			public const int ThemeOverlay_AppCompat = 2132148490;
 			
-			// aapt resource value: 0x7F1500F5
-			public const int ThemeOverlay_AppCompat_ActionBar = 2132082933;
+			// aapt resource value: 0x7F16010B
+			public const int ThemeOverlay_AppCompat_ActionBar = 2132148491;
 			
-			// aapt resource value: 0x7F1500F6
-			public const int ThemeOverlay_AppCompat_Dark = 2132082934;
+			// aapt resource value: 0x7F16010C
+			public const int ThemeOverlay_AppCompat_Dark = 2132148492;
 			
-			// aapt resource value: 0x7F1500F7
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2132082935;
+			// aapt resource value: 0x7F16010D
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2132148493;
 			
-			// aapt resource value: 0x7F1500F8
-			public const int ThemeOverlay_AppCompat_Dialog = 2132082936;
+			// aapt resource value: 0x7F16010E
+			public const int ThemeOverlay_AppCompat_Dialog = 2132148494;
 			
-			// aapt resource value: 0x7F1500F9
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2132082937;
+			// aapt resource value: 0x7F16010F
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2132148495;
 			
-			// aapt resource value: 0x7F1500FA
-			public const int ThemeOverlay_AppCompat_Light = 2132082938;
+			// aapt resource value: 0x7F160110
+			public const int ThemeOverlay_AppCompat_Light = 2132148496;
 			
 			// aapt resource value: 0x7F160107
 			public const int ThemeOverlay_MediaRouter_Dark = 2132148487;
@@ -9342,68 +6895,68 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F160108
 			public const int ThemeOverlay_MediaRouter_Light = 2132148488;
 			
-			// aapt resource value: 0x7F1500FB
-			public const int Theme_AppCompat = 2132082939;
+			// aapt resource value: 0x7F160111
+			public const int Theme_AppCompat = 2132148497;
 			
-			// aapt resource value: 0x7F1500FC
-			public const int Theme_AppCompat_CompactMenu = 2132082940;
+			// aapt resource value: 0x7F160112
+			public const int Theme_AppCompat_CompactMenu = 2132148498;
 			
-			// aapt resource value: 0x7F1500FD
-			public const int Theme_AppCompat_DayNight = 2132082941;
+			// aapt resource value: 0x7F160113
+			public const int Theme_AppCompat_DayNight = 2132148499;
 			
-			// aapt resource value: 0x7F1500FE
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2132082942;
+			// aapt resource value: 0x7F160114
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2132148500;
 			
-			// aapt resource value: 0x7F1500FF
-			public const int Theme_AppCompat_DayNight_Dialog = 2132082943;
+			// aapt resource value: 0x7F160115
+			public const int Theme_AppCompat_DayNight_Dialog = 2132148501;
 			
-			// aapt resource value: 0x7F150100
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2132082944;
+			// aapt resource value: 0x7F160116
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2132148502;
 			
-			// aapt resource value: 0x7F150101
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2132082945;
+			// aapt resource value: 0x7F160117
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2132148503;
 			
-			// aapt resource value: 0x7F150102
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2132082946;
+			// aapt resource value: 0x7F160118
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2132148504;
 			
-			// aapt resource value: 0x7F150103
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2132082947;
+			// aapt resource value: 0x7F160119
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2132148505;
 			
-			// aapt resource value: 0x7F150104
-			public const int Theme_AppCompat_Dialog = 2132082948;
+			// aapt resource value: 0x7F16011A
+			public const int Theme_AppCompat_Dialog = 2132148506;
 			
-			// aapt resource value: 0x7F150105
-			public const int Theme_AppCompat_DialogWhenLarge = 2132082949;
+			// aapt resource value: 0x7F16011B
+			public const int Theme_AppCompat_DialogWhenLarge = 2132148507;
 			
-			// aapt resource value: 0x7F150106
-			public const int Theme_AppCompat_Dialog_Alert = 2132082950;
+			// aapt resource value: 0x7F16011C
+			public const int Theme_AppCompat_Dialog_Alert = 2132148508;
 			
-			// aapt resource value: 0x7F150107
-			public const int Theme_AppCompat_Dialog_MinWidth = 2132082951;
+			// aapt resource value: 0x7F16011D
+			public const int Theme_AppCompat_Dialog_MinWidth = 2132148509;
 			
-			// aapt resource value: 0x7F150108
-			public const int Theme_AppCompat_Light = 2132082952;
+			// aapt resource value: 0x7F16011E
+			public const int Theme_AppCompat_Light = 2132148510;
 			
-			// aapt resource value: 0x7F150109
-			public const int Theme_AppCompat_Light_DarkActionBar = 2132082953;
+			// aapt resource value: 0x7F16011F
+			public const int Theme_AppCompat_Light_DarkActionBar = 2132148511;
 			
-			// aapt resource value: 0x7F15010A
-			public const int Theme_AppCompat_Light_Dialog = 2132082954;
+			// aapt resource value: 0x7F160120
+			public const int Theme_AppCompat_Light_Dialog = 2132148512;
 			
-			// aapt resource value: 0x7F15010B
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2132082955;
+			// aapt resource value: 0x7F160121
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2132148513;
 			
-			// aapt resource value: 0x7F15010C
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2132082956;
+			// aapt resource value: 0x7F160122
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2132148514;
 			
-			// aapt resource value: 0x7F15010D
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2132082957;
+			// aapt resource value: 0x7F160123
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2132148515;
 			
-			// aapt resource value: 0x7F15010E
-			public const int Theme_AppCompat_Light_NoActionBar = 2132082958;
+			// aapt resource value: 0x7F160124
+			public const int Theme_AppCompat_Light_NoActionBar = 2132148516;
 			
-			// aapt resource value: 0x7F15010F
-			public const int Theme_AppCompat_NoActionBar = 2132082959;
+			// aapt resource value: 0x7F160125
+			public const int Theme_AppCompat_NoActionBar = 2132148517;
 			
 			// aapt resource value: 0x7F160126
 			public const int Theme_Design = 2132148518;
@@ -9435,227 +6988,227 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F160121
 			public const int Theme_MediaRouter_Light_DarkControlPanel = 2132148513;
 			
-			// aapt resource value: 0x7F150110
-			public const int Widget_AppCompat_ActionBar = 2132082960;
+			// aapt resource value: 0x7F16012C
+			public const int Widget_AppCompat_ActionBar = 2132148524;
 			
-			// aapt resource value: 0x7F150111
-			public const int Widget_AppCompat_ActionBar_Solid = 2132082961;
+			// aapt resource value: 0x7F16012D
+			public const int Widget_AppCompat_ActionBar_Solid = 2132148525;
 			
-			// aapt resource value: 0x7F150112
-			public const int Widget_AppCompat_ActionBar_TabBar = 2132082962;
+			// aapt resource value: 0x7F16012E
+			public const int Widget_AppCompat_ActionBar_TabBar = 2132148526;
 			
-			// aapt resource value: 0x7F150113
-			public const int Widget_AppCompat_ActionBar_TabText = 2132082963;
+			// aapt resource value: 0x7F16012F
+			public const int Widget_AppCompat_ActionBar_TabText = 2132148527;
 			
-			// aapt resource value: 0x7F150114
-			public const int Widget_AppCompat_ActionBar_TabView = 2132082964;
+			// aapt resource value: 0x7F160130
+			public const int Widget_AppCompat_ActionBar_TabView = 2132148528;
 			
-			// aapt resource value: 0x7F150115
-			public const int Widget_AppCompat_ActionButton = 2132082965;
+			// aapt resource value: 0x7F160131
+			public const int Widget_AppCompat_ActionButton = 2132148529;
 			
-			// aapt resource value: 0x7F150116
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2132082966;
+			// aapt resource value: 0x7F160132
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2132148530;
 			
-			// aapt resource value: 0x7F150117
-			public const int Widget_AppCompat_ActionButton_Overflow = 2132082967;
+			// aapt resource value: 0x7F160133
+			public const int Widget_AppCompat_ActionButton_Overflow = 2132148531;
 			
-			// aapt resource value: 0x7F150118
-			public const int Widget_AppCompat_ActionMode = 2132082968;
+			// aapt resource value: 0x7F160134
+			public const int Widget_AppCompat_ActionMode = 2132148532;
 			
-			// aapt resource value: 0x7F150119
-			public const int Widget_AppCompat_ActivityChooserView = 2132082969;
+			// aapt resource value: 0x7F160135
+			public const int Widget_AppCompat_ActivityChooserView = 2132148533;
 			
-			// aapt resource value: 0x7F15011A
-			public const int Widget_AppCompat_AutoCompleteTextView = 2132082970;
+			// aapt resource value: 0x7F160136
+			public const int Widget_AppCompat_AutoCompleteTextView = 2132148534;
 			
-			// aapt resource value: 0x7F15011B
-			public const int Widget_AppCompat_Button = 2132082971;
+			// aapt resource value: 0x7F160137
+			public const int Widget_AppCompat_Button = 2132148535;
 			
-			// aapt resource value: 0x7F15011C
-			public const int Widget_AppCompat_ButtonBar = 2132082972;
+			// aapt resource value: 0x7F160138
+			public const int Widget_AppCompat_ButtonBar = 2132148536;
 			
-			// aapt resource value: 0x7F15011D
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2132082973;
+			// aapt resource value: 0x7F160139
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2132148537;
 			
-			// aapt resource value: 0x7F15011E
-			public const int Widget_AppCompat_Button_Borderless = 2132082974;
+			// aapt resource value: 0x7F16013A
+			public const int Widget_AppCompat_Button_Borderless = 2132148538;
 			
-			// aapt resource value: 0x7F15011F
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2132082975;
+			// aapt resource value: 0x7F16013B
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2132148539;
 			
-			// aapt resource value: 0x7F150120
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132082976;
+			// aapt resource value: 0x7F16013C
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2132148540;
 			
-			// aapt resource value: 0x7F150121
-			public const int Widget_AppCompat_Button_Colored = 2132082977;
+			// aapt resource value: 0x7F16013D
+			public const int Widget_AppCompat_Button_Colored = 2132148541;
 			
-			// aapt resource value: 0x7F150122
-			public const int Widget_AppCompat_Button_Small = 2132082978;
+			// aapt resource value: 0x7F16013E
+			public const int Widget_AppCompat_Button_Small = 2132148542;
 			
-			// aapt resource value: 0x7F150123
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2132082979;
+			// aapt resource value: 0x7F16013F
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2132148543;
 			
-			// aapt resource value: 0x7F150124
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2132082980;
+			// aapt resource value: 0x7F160140
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2132148544;
 			
-			// aapt resource value: 0x7F150125
-			public const int Widget_AppCompat_CompoundButton_Switch = 2132082981;
+			// aapt resource value: 0x7F160141
+			public const int Widget_AppCompat_CompoundButton_Switch = 2132148545;
 			
-			// aapt resource value: 0x7F150126
-			public const int Widget_AppCompat_DrawerArrowToggle = 2132082982;
+			// aapt resource value: 0x7F160142
+			public const int Widget_AppCompat_DrawerArrowToggle = 2132148546;
 			
-			// aapt resource value: 0x7F150127
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2132082983;
+			// aapt resource value: 0x7F160143
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2132148547;
 			
-			// aapt resource value: 0x7F150128
-			public const int Widget_AppCompat_EditText = 2132082984;
+			// aapt resource value: 0x7F160144
+			public const int Widget_AppCompat_EditText = 2132148548;
 			
-			// aapt resource value: 0x7F150129
-			public const int Widget_AppCompat_ImageButton = 2132082985;
+			// aapt resource value: 0x7F160145
+			public const int Widget_AppCompat_ImageButton = 2132148549;
 			
-			// aapt resource value: 0x7F15012A
-			public const int Widget_AppCompat_Light_ActionBar = 2132082986;
+			// aapt resource value: 0x7F160146
+			public const int Widget_AppCompat_Light_ActionBar = 2132148550;
 			
-			// aapt resource value: 0x7F15012B
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2132082987;
+			// aapt resource value: 0x7F160147
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2132148551;
 			
-			// aapt resource value: 0x7F15012C
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2132082988;
+			// aapt resource value: 0x7F160148
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2132148552;
 			
-			// aapt resource value: 0x7F15012D
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2132082989;
+			// aapt resource value: 0x7F160149
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2132148553;
 			
-			// aapt resource value: 0x7F15012E
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2132082990;
+			// aapt resource value: 0x7F16014A
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2132148554;
 			
-			// aapt resource value: 0x7F15012F
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2132082991;
+			// aapt resource value: 0x7F16014B
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2132148555;
 			
-			// aapt resource value: 0x7F150130
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132082992;
+			// aapt resource value: 0x7F16014C
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2132148556;
 			
-			// aapt resource value: 0x7F150131
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2132082993;
+			// aapt resource value: 0x7F16014D
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2132148557;
 			
-			// aapt resource value: 0x7F150132
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2132082994;
+			// aapt resource value: 0x7F16014E
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2132148558;
 			
-			// aapt resource value: 0x7F150133
-			public const int Widget_AppCompat_Light_ActionButton = 2132082995;
+			// aapt resource value: 0x7F16014F
+			public const int Widget_AppCompat_Light_ActionButton = 2132148559;
 			
-			// aapt resource value: 0x7F150134
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2132082996;
+			// aapt resource value: 0x7F160150
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2132148560;
 			
-			// aapt resource value: 0x7F150135
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2132082997;
+			// aapt resource value: 0x7F160151
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2132148561;
 			
-			// aapt resource value: 0x7F150136
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2132082998;
+			// aapt resource value: 0x7F160152
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2132148562;
 			
-			// aapt resource value: 0x7F150137
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2132082999;
+			// aapt resource value: 0x7F160153
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2132148563;
 			
-			// aapt resource value: 0x7F150138
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2132083000;
+			// aapt resource value: 0x7F160154
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2132148564;
 			
-			// aapt resource value: 0x7F150139
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2132083001;
+			// aapt resource value: 0x7F160155
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2132148565;
 			
-			// aapt resource value: 0x7F15013A
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2132083002;
+			// aapt resource value: 0x7F160156
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2132148566;
 			
-			// aapt resource value: 0x7F15013B
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2132083003;
+			// aapt resource value: 0x7F160157
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2132148567;
 			
-			// aapt resource value: 0x7F15013C
-			public const int Widget_AppCompat_Light_PopupMenu = 2132083004;
+			// aapt resource value: 0x7F160158
+			public const int Widget_AppCompat_Light_PopupMenu = 2132148568;
 			
-			// aapt resource value: 0x7F15013D
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2132083005;
+			// aapt resource value: 0x7F160159
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2132148569;
 			
-			// aapt resource value: 0x7F15013E
-			public const int Widget_AppCompat_Light_SearchView = 2132083006;
+			// aapt resource value: 0x7F16015A
+			public const int Widget_AppCompat_Light_SearchView = 2132148570;
 			
-			// aapt resource value: 0x7F15013F
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2132083007;
+			// aapt resource value: 0x7F16015B
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2132148571;
 			
-			// aapt resource value: 0x7F150140
-			public const int Widget_AppCompat_ListMenuView = 2132083008;
+			// aapt resource value: 0x7F16015C
+			public const int Widget_AppCompat_ListMenuView = 2132148572;
 			
-			// aapt resource value: 0x7F150141
-			public const int Widget_AppCompat_ListPopupWindow = 2132083009;
+			// aapt resource value: 0x7F16015D
+			public const int Widget_AppCompat_ListPopupWindow = 2132148573;
 			
-			// aapt resource value: 0x7F150142
-			public const int Widget_AppCompat_ListView = 2132083010;
+			// aapt resource value: 0x7F16015E
+			public const int Widget_AppCompat_ListView = 2132148574;
 			
-			// aapt resource value: 0x7F150143
-			public const int Widget_AppCompat_ListView_DropDown = 2132083011;
+			// aapt resource value: 0x7F16015F
+			public const int Widget_AppCompat_ListView_DropDown = 2132148575;
 			
-			// aapt resource value: 0x7F150144
-			public const int Widget_AppCompat_ListView_Menu = 2132083012;
+			// aapt resource value: 0x7F160160
+			public const int Widget_AppCompat_ListView_Menu = 2132148576;
 			
-			// aapt resource value: 0x7F150145
-			public const int Widget_AppCompat_PopupMenu = 2132083013;
+			// aapt resource value: 0x7F160161
+			public const int Widget_AppCompat_PopupMenu = 2132148577;
 			
-			// aapt resource value: 0x7F150146
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2132083014;
+			// aapt resource value: 0x7F160162
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2132148578;
 			
-			// aapt resource value: 0x7F150147
-			public const int Widget_AppCompat_PopupWindow = 2132083015;
+			// aapt resource value: 0x7F160163
+			public const int Widget_AppCompat_PopupWindow = 2132148579;
 			
-			// aapt resource value: 0x7F150148
-			public const int Widget_AppCompat_ProgressBar = 2132083016;
+			// aapt resource value: 0x7F160164
+			public const int Widget_AppCompat_ProgressBar = 2132148580;
 			
-			// aapt resource value: 0x7F150149
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2132083017;
+			// aapt resource value: 0x7F160165
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2132148581;
 			
-			// aapt resource value: 0x7F15014A
-			public const int Widget_AppCompat_RatingBar = 2132083018;
+			// aapt resource value: 0x7F160166
+			public const int Widget_AppCompat_RatingBar = 2132148582;
 			
-			// aapt resource value: 0x7F15014B
-			public const int Widget_AppCompat_RatingBar_Indicator = 2132083019;
+			// aapt resource value: 0x7F160167
+			public const int Widget_AppCompat_RatingBar_Indicator = 2132148583;
 			
-			// aapt resource value: 0x7F15014C
-			public const int Widget_AppCompat_RatingBar_Small = 2132083020;
+			// aapt resource value: 0x7F160168
+			public const int Widget_AppCompat_RatingBar_Small = 2132148584;
 			
-			// aapt resource value: 0x7F15014D
-			public const int Widget_AppCompat_SearchView = 2132083021;
+			// aapt resource value: 0x7F160169
+			public const int Widget_AppCompat_SearchView = 2132148585;
 			
-			// aapt resource value: 0x7F15014E
-			public const int Widget_AppCompat_SearchView_ActionBar = 2132083022;
+			// aapt resource value: 0x7F16016A
+			public const int Widget_AppCompat_SearchView_ActionBar = 2132148586;
 			
-			// aapt resource value: 0x7F15014F
-			public const int Widget_AppCompat_SeekBar = 2132083023;
+			// aapt resource value: 0x7F16016B
+			public const int Widget_AppCompat_SeekBar = 2132148587;
 			
-			// aapt resource value: 0x7F150150
-			public const int Widget_AppCompat_SeekBar_Discrete = 2132083024;
+			// aapt resource value: 0x7F16016C
+			public const int Widget_AppCompat_SeekBar_Discrete = 2132148588;
 			
-			// aapt resource value: 0x7F150151
-			public const int Widget_AppCompat_Spinner = 2132083025;
+			// aapt resource value: 0x7F16016D
+			public const int Widget_AppCompat_Spinner = 2132148589;
 			
-			// aapt resource value: 0x7F150152
-			public const int Widget_AppCompat_Spinner_DropDown = 2132083026;
+			// aapt resource value: 0x7F16016E
+			public const int Widget_AppCompat_Spinner_DropDown = 2132148590;
 			
-			// aapt resource value: 0x7F150153
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2132083027;
+			// aapt resource value: 0x7F16016F
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2132148591;
 			
-			// aapt resource value: 0x7F150154
-			public const int Widget_AppCompat_Spinner_Underlined = 2132083028;
+			// aapt resource value: 0x7F160170
+			public const int Widget_AppCompat_Spinner_Underlined = 2132148592;
 			
-			// aapt resource value: 0x7F150155
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2132083029;
+			// aapt resource value: 0x7F160171
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2132148593;
 			
-			// aapt resource value: 0x7F150156
-			public const int Widget_AppCompat_Toolbar = 2132083030;
+			// aapt resource value: 0x7F160172
+			public const int Widget_AppCompat_Toolbar = 2132148594;
 			
-			// aapt resource value: 0x7F150157
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2132083031;
+			// aapt resource value: 0x7F160173
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2132148595;
 			
-			// aapt resource value: 0x7F150158
-			public const int Widget_Compat_NotificationActionContainer = 2132083032;
+			// aapt resource value: 0x7F160006
+			public const int Widget_Compat_NotificationActionContainer = 2132148230;
 			
-			// aapt resource value: 0x7F150159
-			public const int Widget_Compat_NotificationActionText = 2132083033;
+			// aapt resource value: 0x7F160007
+			public const int Widget_Compat_NotificationActionText = 2132148231;
 			
 			// aapt resource value: 0x7F160176
 			public const int Widget_Design_AppBarLayout = 2132148598;
@@ -9696,9 +7249,6 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x7F16016D
 			public const int Widget_MediaRouter_MediaRouteButton = 2132148589;
 			
-			// aapt resource value: 0x7F15015A
-			public const int Widget_Support_CoordinatorLayout = 2132083034;
-			
 			static Style()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -9716,41 +7266,41 @@ namespace GoogleCalender.Droid
 					2130968626,
 					2130968627,
 					2130968628,
-					2130968664,
-					2130968665,
-					2130968666,
-					2130968667,
-					2130968668,
-					2130968669,
-					2130968672,
+					2130968673,
+					2130968674,
+					2130968675,
+					2130968676,
 					2130968677,
 					2130968678,
+					2130968685,
+					2130968689,
 					2130968690,
-					2130968706,
-					2130968707,
-					2130968708,
-					2130968709,
-					2130968710,
-					2130968715,
-					2130968718,
+					2130968701,
+					2130968733,
+					2130968734,
+					2130968738,
+					2130968739,
 					2130968740,
-					2130968747,
-					2130968758,
-					2130968761,
-					2130968762,
-					2130968789,
-					2130968792,
-					2130968819,
-					2130968828};
+					2130968745,
+					2130968751,
+					2130968778,
+					2130968787,
+					2130968803,
+					2130968807,
+					2130968808,
+					2130968844,
+					2130968847,
+					2130968891,
+					2130968901};
 			
 			public static int[] ActionBarLayout = new int[] {
 					16842931};
 			
-			// aapt resource value: 0x7F060033
-			public const int ActionBarLayout_android_layout_gravity = 2131099699;
+			// aapt resource value: 0x7F060047
+			public const int ActionBarLayout_android_layout_gravity = 2131099719;
 			
-			// aapt resource value: 0x7F060003
-			public const int ActionBar_background = 2131099651;
+			// aapt resource value: 0x7F060017
+			public const int ActionBar_background = 2131099671;
 			
 			// aapt resource value: 0x1
 			public const int ActionBar_backgroundSplit = 1;
@@ -9839,22 +7389,19 @@ namespace GoogleCalender.Droid
 			public static int[] ActionMenuItemView = new int[] {
 					16843071};
 			
-			// aapt resource value: 0x7F060035
-			public const int ActionMenuItemView_android_minWidth = 2131099701;
-			
-			public static int[] ActionMenuView = new int[] {
-					0};
+			// aapt resource value: 0x7F060049
+			public const int ActionMenuItemView_android_minWidth = 2131099721;
 			
 			public static int[] ActionMode = new int[] {
 					2130968626,
 					2130968627,
-					2130968648,
-					2130968706,
-					2130968792,
-					2130968828};
+					2130968655,
+					2130968733,
+					2130968847,
+					2130968901};
 			
-			// aapt resource value: 0x7F060038
-			public const int ActionMode_background = 2131099704;
+			// aapt resource value: 0x7F060051
+			public const int ActionMode_background = 2131099729;
 			
 			// aapt resource value: 0x1
 			public const int ActionMode_backgroundSplit = 1;
@@ -9872,102 +7419,44 @@ namespace GoogleCalender.Droid
 			public const int ActionMode_titleTextStyle = 5;
 			
 			public static int[] ActivityChooserView = new int[] {
-					2130968691,
-					2130968716};
+					2130968704,
+					2130968746};
 			
-			// aapt resource value: 0x7F060045
-			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131099717;
+			// aapt resource value: 0x7F060058
+			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 2131099736;
 			
 			// aapt resource value: 0x1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
 			public static int[] AlertDialog = new int[] {
 					16842994,
-					2130968639,
-					2130968640,
-					2130968731,
-					2130968732,
-					2130968744,
-					2130968778,
-					2130968779};
+					2130968647,
+					2130968769,
+					2130968770,
+					2130968784,
+					2130968828,
+					2130968829};
 			
-			// aapt resource value: 0x7F060048
-			public const int AlertDialog_android_layout = 2131099720;
+			// aapt resource value: 0x7F060061
+			public const int AlertDialog_android_layout = 2131099745;
 			
 			// aapt resource value: 0x1
-			public const int AlertDialog_buttonIconDimen = 1;
+			public const int AlertDialog_buttonPanelSideLayout = 1;
 			
 			// aapt resource value: 0x2
-			public const int AlertDialog_buttonPanelSideLayout = 2;
+			public const int AlertDialog_listItemLayout = 2;
 			
 			// aapt resource value: 0x3
-			public const int AlertDialog_listItemLayout = 3;
+			public const int AlertDialog_listLayout = 3;
 			
 			// aapt resource value: 0x4
-			public const int AlertDialog_listLayout = 4;
+			public const int AlertDialog_multiChoiceItemLayout = 4;
 			
 			// aapt resource value: 0x5
-			public const int AlertDialog_multiChoiceItemLayout = 5;
+			public const int AlertDialog_showTitle = 5;
 			
 			// aapt resource value: 0x6
-			public const int AlertDialog_showTitle = 6;
-			
-			// aapt resource value: 0x7
-			public const int AlertDialog_singleChoiceItemLayout = 7;
-			
-			public static int[] AnimatedStateListDrawableCompat = new int[] {
-					16843158,
-					16843036,
-					16843532,
-					16843533,
-					16843157,
-					16843156};
-			
-			// aapt resource value: 0x7F060057
-			public const int AnimatedStateListDrawableCompat_android_constantSize = 2131099735;
-			
-			// aapt resource value: 0x1
-			public const int AnimatedStateListDrawableCompat_android_dither = 1;
-			
-			// aapt resource value: 0x2
-			public const int AnimatedStateListDrawableCompat_android_enterFadeDuration = 2;
-			
-			// aapt resource value: 0x3
-			public const int AnimatedStateListDrawableCompat_android_exitFadeDuration = 3;
-			
-			// aapt resource value: 0x4
-			public const int AnimatedStateListDrawableCompat_android_variablePadding = 4;
-			
-			// aapt resource value: 0x5
-			public const int AnimatedStateListDrawableCompat_android_visible = 5;
-			
-			public static int[] AnimatedStateListDrawableItem = new int[] {
-					16843161,
-					16842960};
-			
-			// aapt resource value: 0x7F060064
-			public const int AnimatedStateListDrawableItem_android_drawable = 2131099748;
-			
-			// aapt resource value: 0x1
-			public const int AnimatedStateListDrawableItem_android_id = 1;
-			
-			public static int[] AnimatedStateListDrawableTransition = new int[] {
-					16843161,
-					16843850,
-					16843851,
-					16843849};
-			
-			// aapt resource value: 0x7F060067
-			public const int AnimatedStateListDrawableTransition_android_drawable = 2131099751;
-			
-			// aapt resource value: 0x1
-			public const int AnimatedStateListDrawableTransition_android_fromId = 1;
-			
-			// aapt resource value: 0x2
-			public const int AnimatedStateListDrawableTransition_android_reversible = 2;
-			
-			// aapt resource value: 0x3
-			public const int AnimatedStateListDrawableTransition_android_toId = 3;
+			public const int AlertDialog_singleChoiceItemLayout = 6;
 			
 			public static int[] AppBarLayout = new int[] {
 					16842964,
@@ -9980,14 +7469,14 @@ namespace GoogleCalender.Droid
 					2130968838,
 					2130968839};
 			
-			// aapt resource value: 0x7F060473
-			public const int AppBarLayoutStates_state_collapsed = 2131100787;
+			// aapt resource value: 0x7F060075
+			public const int AppBarLayoutStates_state_collapsed = 2131099765;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayoutStates_state_collapsible = 1;
 			
-			// aapt resource value: 0x7F060467
-			public const int AppBarLayout_android_background = 2131100775;
+			// aapt resource value: 0x7F060069
+			public const int AppBarLayout_android_background = 2131099753;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_android_keyboardNavigationCluster = 1;
@@ -10005,20 +7494,20 @@ namespace GoogleCalender.Droid
 					2130968765,
 					2130968766};
 			
-			// aapt resource value: 0x7F060476
-			public const int AppBarLayout_Layout_layout_scrollFlags = 2131100790;
+			// aapt resource value: 0x7F060078
+			public const int AppBarLayout_Layout_layout_scrollFlags = 2131099768;
 			
 			// aapt resource value: 0x1
 			public const int AppBarLayout_Layout_layout_scrollInterpolator = 1;
 			
 			public static int[] AppCompatImageView = new int[] {
 					16843033,
-					2130968784,
-					2130968817,
-					2130968818};
+					2130968835,
+					2130968889,
+					2130968890};
 			
-			// aapt resource value: 0x7F060072
-			public const int AppCompatImageView_android_src = 2131099762;
+			// aapt resource value: 0x7F060081
+			public const int AppCompatImageView_android_src = 2131099777;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatImageView_srcCompat = 1;
@@ -10031,12 +7520,12 @@ namespace GoogleCalender.Droid
 			
 			public static int[] AppCompatSeekBar = new int[] {
 					16843074,
-					2130968814,
-					2130968815,
-					2130968816};
+					2130968886,
+					2130968887,
+					2130968888};
 			
-			// aapt resource value: 0x7F060077
-			public const int AppCompatSeekBar_android_thumb = 2131099767;
+			// aapt resource value: 0x7F060086
+			public const int AppCompatSeekBar_android_thumb = 2131099782;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatSeekBar_tickMark = 1;
@@ -10056,8 +7545,8 @@ namespace GoogleCalender.Droid
 					16843117,
 					16842804};
 			
-			// aapt resource value: 0x7F060082
-			public const int AppCompatTextHelper_android_drawableBottom = 2131099778;
+			// aapt resource value: 0x7F060091
+			public const int AppCompatTextHelper_android_drawableBottom = 2131099793;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextHelper_android_drawableEnd = 1;
@@ -10084,14 +7573,11 @@ namespace GoogleCalender.Droid
 					2130968623,
 					2130968624,
 					2130968625,
-					2130968692,
-					2130968694,
 					2130968720,
-					2130968728,
-					2130968798};
+					2130968869};
 			
-			// aapt resource value: 0x7F060090
-			public const int AppCompatTextView_android_textAppearance = 2131099792;
+			// aapt resource value: 0x7F060099
+			public const int AppCompatTextView_android_textAppearance = 2131099801;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTextView_autoSizeMaxTextSize = 1;
@@ -10109,19 +7595,10 @@ namespace GoogleCalender.Droid
 			public const int AppCompatTextView_autoSizeTextType = 5;
 			
 			// aapt resource value: 0x6
-			public const int AppCompatTextView_firstBaselineToTopHeight = 6;
+			public const int AppCompatTextView_fontFamily = 6;
 			
 			// aapt resource value: 0x7
-			public const int AppCompatTextView_fontFamily = 7;
-			
-			// aapt resource value: 0x8
-			public const int AppCompatTextView_lastBaselineToBottomHeight = 8;
-			
-			// aapt resource value: 0x9
-			public const int AppCompatTextView_lineHeight = 9;
-			
-			// aapt resource value: 0x10
-			public const int AppCompatTextView_textAllCaps = 16;
+			public const int AppCompatTextView_textAllCaps = 7;
 			
 			public static int[] AppCompatTheme = new int[] {
 					2130968577,
@@ -10162,92 +7639,90 @@ namespace GoogleCalender.Droid
 					16842926,
 					16842839,
 					2130968620,
-					2130968632,
-					2130968633,
-					2130968634,
-					2130968635,
-					2130968636,
-					2130968637,
+					2130968638,
 					2130968641,
 					2130968642,
+					2130968643,
+					2130968644,
 					2130968645,
-					2130968646,
+					2130968648,
+					2130968649,
 					2130968652,
 					2130968653,
-					2130968654,
-					2130968655,
-					2130968656,
-					2130968657,
-					2130968658,
-					2130968659,
-					2130968660,
 					2130968661,
+					2130968662,
+					2130968663,
+					2130968664,
+					2130968665,
+					2130968666,
+					2130968667,
+					2130968668,
+					2130968669,
 					2130968670,
-					2130968674,
-					2130968675,
-					2130968676,
-					2130968679,
-					2130968681,
-					2130968684,
-					2130968685,
-					2130968686,
+					2130968680,
 					2130968687,
 					2130968688,
-					2130968708,
-					2130968714,
-					2130968729,
-					2130968730,
-					2130968733,
-					2130968734,
-					2130968735,
-					2130968736,
-					2130968737,
+					2130968691,
+					2130968693,
+					2130968696,
+					2130968697,
+					2130968698,
+					2130968699,
+					2130968700,
 					2130968738,
-					2130968739,
-					2130968754,
-					2130968755,
-					2130968756,
-					2130968757,
-					2130968759,
-					2130968765,
-					2130968766,
+					2130968744,
 					2130968767,
 					2130968768,
 					2130968771,
 					2130968772,
 					2130968773,
 					2130968774,
-					2130968781,
-					2130968782,
+					2130968775,
+					2130968776,
+					2130968777,
+					2130968794,
+					2130968795,
 					2130968796,
-					2130968799,
-					2130968800,
-					2130968801,
 					2130968802,
-					2130968803,
 					2130968804,
-					2130968805,
-					2130968806,
-					2130968807,
-					2130968808,
-					2130968829,
-					2130968830,
-					2130968831,
+					2130968811,
+					2130968812,
+					2130968813,
+					2130968814,
+					2130968821,
+					2130968822,
+					2130968823,
+					2130968824,
 					2130968832,
-					2130968839,
-					2130968841,
-					2130968842,
-					2130968843,
-					2130968844,
-					2130968845,
-					2130968846,
-					2130968847,
-					2130968848,
-					2130968849,
-					2130968850};
+					2130968833,
+					2130968851,
+					2130968870,
+					2130968871,
+					2130968872,
+					2130968873,
+					2130968874,
+					2130968875,
+					2130968876,
+					2130968877,
+					2130968878,
+					2130968880,
+					2130968903,
+					2130968904,
+					2130968905,
+					2130968906,
+					2130968913,
+					2130968914,
+					2130968915,
+					2130968916,
+					2130968917,
+					2130968918,
+					2130968919,
+					2130968920,
+					2130968921,
+					2130968922};
 			
-			// aapt resource value: 0x7F060102
-			public const int AppCompatTheme_actionBarDivider = 2131099906;
+			// aapt resource value: 0x7F060108
+			public const int AppCompatTheme_actionBarDivider = 2131099912;
 			
 			// aapt resource value: 0x1
 			public const int AppCompatTheme_actionBarItemBackground = 1;
@@ -10424,190 +7899,184 @@ namespace GoogleCalender.Droid
 			public const int AppCompatTheme_controlBackground = 88;
 			
 			// aapt resource value: 0x59
-			public const int AppCompatTheme_dialogCornerRadius = 89;
+			public const int AppCompatTheme_dialogPreferredPadding = 89;
 			
 			// aapt resource value: 0x60
-			public const int AppCompatTheme_dialogPreferredPadding = 96;
+			public const int AppCompatTheme_dialogTheme = 96;
 			
 			// aapt resource value: 0x61
-			public const int AppCompatTheme_dialogTheme = 97;
+			public const int AppCompatTheme_dividerHorizontal = 97;
 			
 			// aapt resource value: 0x62
-			public const int AppCompatTheme_dividerHorizontal = 98;
-			
-			// aapt resource value: 0x63
-			public const int AppCompatTheme_dividerVertical = 99;
-			
-			// aapt resource value: 0x65
-			public const int AppCompatTheme_dropdownListPreferredItemHeight = 101;
+			public const int AppCompatTheme_dividerVertical = 98;
 			
 			// aapt resource value: 0x64
-			public const int AppCompatTheme_dropDownListViewStyle = 100;
+			public const int AppCompatTheme_dropdownListPreferredItemHeight = 100;
+			
+			// aapt resource value: 0x63
+			public const int AppCompatTheme_dropDownListViewStyle = 99;
+			
+			// aapt resource value: 0x65
+			public const int AppCompatTheme_editTextBackground = 101;
 			
 			// aapt resource value: 0x66
-			public const int AppCompatTheme_editTextBackground = 102;
+			public const int AppCompatTheme_editTextColor = 102;
 			
 			// aapt resource value: 0x67
-			public const int AppCompatTheme_editTextColor = 103;
+			public const int AppCompatTheme_editTextStyle = 103;
 			
 			// aapt resource value: 0x68
-			public const int AppCompatTheme_editTextStyle = 104;
+			public const int AppCompatTheme_homeAsUpIndicator = 104;
 			
 			// aapt resource value: 0x69
-			public const int AppCompatTheme_homeAsUpIndicator = 105;
+			public const int AppCompatTheme_imageButtonStyle = 105;
 			
 			// aapt resource value: 0x70
-			public const int AppCompatTheme_imageButtonStyle = 112;
+			public const int AppCompatTheme_listChoiceBackgroundIndicator = 112;
 			
 			// aapt resource value: 0x71
-			public const int AppCompatTheme_listChoiceBackgroundIndicator = 113;
+			public const int AppCompatTheme_listDividerAlertDialog = 113;
 			
 			// aapt resource value: 0x72
-			public const int AppCompatTheme_listDividerAlertDialog = 114;
+			public const int AppCompatTheme_listMenuViewStyle = 114;
 			
 			// aapt resource value: 0x73
-			public const int AppCompatTheme_listMenuViewStyle = 115;
+			public const int AppCompatTheme_listPopupWindowStyle = 115;
 			
 			// aapt resource value: 0x74
-			public const int AppCompatTheme_listPopupWindowStyle = 116;
+			public const int AppCompatTheme_listPreferredItemHeight = 116;
 			
 			// aapt resource value: 0x75
-			public const int AppCompatTheme_listPreferredItemHeight = 117;
+			public const int AppCompatTheme_listPreferredItemHeightLarge = 117;
 			
 			// aapt resource value: 0x76
-			public const int AppCompatTheme_listPreferredItemHeightLarge = 118;
+			public const int AppCompatTheme_listPreferredItemHeightSmall = 118;
 			
 			// aapt resource value: 0x77
-			public const int AppCompatTheme_listPreferredItemHeightSmall = 119;
+			public const int AppCompatTheme_listPreferredItemPaddingLeft = 119;
 			
 			// aapt resource value: 0x78
-			public const int AppCompatTheme_listPreferredItemPaddingLeft = 120;
+			public const int AppCompatTheme_listPreferredItemPaddingRight = 120;
 			
 			// aapt resource value: 0x79
-			public const int AppCompatTheme_listPreferredItemPaddingRight = 121;
+			public const int AppCompatTheme_panelBackground = 121;
 			
 			// aapt resource value: 0x80
-			public const int AppCompatTheme_panelBackground = 128;
+			public const int AppCompatTheme_panelMenuListTheme = 128;
 			
 			// aapt resource value: 0x81
-			public const int AppCompatTheme_panelMenuListTheme = 129;
+			public const int AppCompatTheme_panelMenuListWidth = 129;
 			
 			// aapt resource value: 0x82
-			public const int AppCompatTheme_panelMenuListWidth = 130;
+			public const int AppCompatTheme_popupMenuStyle = 130;
 			
 			// aapt resource value: 0x83
-			public const int AppCompatTheme_popupMenuStyle = 131;
+			public const int AppCompatTheme_popupWindowStyle = 131;
 			
 			// aapt resource value: 0x84
-			public const int AppCompatTheme_popupWindowStyle = 132;
+			public const int AppCompatTheme_radioButtonStyle = 132;
 			
 			// aapt resource value: 0x85
-			public const int AppCompatTheme_radioButtonStyle = 133;
+			public const int AppCompatTheme_ratingBarStyle = 133;
 			
 			// aapt resource value: 0x86
-			public const int AppCompatTheme_ratingBarStyle = 134;
+			public const int AppCompatTheme_ratingBarStyleIndicator = 134;
 			
 			// aapt resource value: 0x87
-			public const int AppCompatTheme_ratingBarStyleIndicator = 135;
+			public const int AppCompatTheme_ratingBarStyleSmall = 135;
 			
 			// aapt resource value: 0x88
-			public const int AppCompatTheme_ratingBarStyleSmall = 136;
+			public const int AppCompatTheme_searchViewStyle = 136;
 			
 			// aapt resource value: 0x89
-			public const int AppCompatTheme_searchViewStyle = 137;
+			public const int AppCompatTheme_seekBarStyle = 137;
 			
 			// aapt resource value: 0x90
-			public const int AppCompatTheme_seekBarStyle = 144;
+			public const int AppCompatTheme_selectableItemBackground = 144;
 			
 			// aapt resource value: 0x91
-			public const int AppCompatTheme_selectableItemBackground = 145;
+			public const int AppCompatTheme_selectableItemBackgroundBorderless = 145;
 			
 			// aapt resource value: 0x92
-			public const int AppCompatTheme_selectableItemBackgroundBorderless = 146;
+			public const int AppCompatTheme_spinnerDropDownItemStyle = 146;
 			
 			// aapt resource value: 0x93
-			public const int AppCompatTheme_spinnerDropDownItemStyle = 147;
+			public const int AppCompatTheme_spinnerStyle = 147;
 			
 			// aapt resource value: 0x94
-			public const int AppCompatTheme_spinnerStyle = 148;
+			public const int AppCompatTheme_switchStyle = 148;
 			
 			// aapt resource value: 0x95
-			public const int AppCompatTheme_switchStyle = 149;
+			public const int AppCompatTheme_textAppearanceLargePopupMenu = 149;
 			
 			// aapt resource value: 0x96
-			public const int AppCompatTheme_textAppearanceLargePopupMenu = 150;
+			public const int AppCompatTheme_textAppearanceListItem = 150;
 			
 			// aapt resource value: 0x97
-			public const int AppCompatTheme_textAppearanceListItem = 151;
+			public const int AppCompatTheme_textAppearanceListItemSecondary = 151;
 			
 			// aapt resource value: 0x98
-			public const int AppCompatTheme_textAppearanceListItemSecondary = 152;
+			public const int AppCompatTheme_textAppearanceListItemSmall = 152;
 			
 			// aapt resource value: 0x99
-			public const int AppCompatTheme_textAppearanceListItemSmall = 153;
+			public const int AppCompatTheme_textAppearancePopupMenuHeader = 153;
 			
 			// aapt resource value: 0x100
-			public const int AppCompatTheme_textAppearancePopupMenuHeader = 256;
+			public const int AppCompatTheme_textAppearanceSearchResultSubtitle = 256;
 			
 			// aapt resource value: 0x101
-			public const int AppCompatTheme_textAppearanceSearchResultSubtitle = 257;
+			public const int AppCompatTheme_textAppearanceSearchResultTitle = 257;
 			
 			// aapt resource value: 0x102
-			public const int AppCompatTheme_textAppearanceSearchResultTitle = 258;
+			public const int AppCompatTheme_textAppearanceSmallPopupMenu = 258;
 			
 			// aapt resource value: 0x103
-			public const int AppCompatTheme_textAppearanceSmallPopupMenu = 259;
+			public const int AppCompatTheme_textColorAlertDialogListItem = 259;
 			
 			// aapt resource value: 0x104
-			public const int AppCompatTheme_textColorAlertDialogListItem = 260;
+			public const int AppCompatTheme_textColorSearchUrl = 260;
 			
 			// aapt resource value: 0x105
-			public const int AppCompatTheme_textColorSearchUrl = 261;
+			public const int AppCompatTheme_toolbarNavigationButtonStyle = 261;
 			
 			// aapt resource value: 0x106
-			public const int AppCompatTheme_toolbarNavigationButtonStyle = 262;
+			public const int AppCompatTheme_toolbarStyle = 262;
 			
 			// aapt resource value: 0x107
-			public const int AppCompatTheme_toolbarStyle = 263;
+			public const int AppCompatTheme_tooltipForegroundColor = 263;
 			
 			// aapt resource value: 0x108
-			public const int AppCompatTheme_tooltipForegroundColor = 264;
+			public const int AppCompatTheme_tooltipFrameBackground = 264;
 			
 			// aapt resource value: 0x109
-			public const int AppCompatTheme_tooltipFrameBackground = 265;
+			public const int AppCompatTheme_windowActionBar = 265;
 			
 			// aapt resource value: 0x110
-			public const int AppCompatTheme_viewInflaterClass = 272;
+			public const int AppCompatTheme_windowActionBarOverlay = 272;
 			
 			// aapt resource value: 0x111
-			public const int AppCompatTheme_windowActionBar = 273;
+			public const int AppCompatTheme_windowActionModeOverlay = 273;
 			
 			// aapt resource value: 0x112
-			public const int AppCompatTheme_windowActionBarOverlay = 274;
+			public const int AppCompatTheme_windowFixedHeightMajor = 274;
 			
 			// aapt resource value: 0x113
-			public const int AppCompatTheme_windowActionModeOverlay = 275;
+			public const int AppCompatTheme_windowFixedHeightMinor = 275;
 			
 			// aapt resource value: 0x114
-			public const int AppCompatTheme_windowFixedHeightMajor = 276;
+			public const int AppCompatTheme_windowFixedWidthMajor = 276;
 			
 			// aapt resource value: 0x115
-			public const int AppCompatTheme_windowFixedHeightMinor = 277;
+			public const int AppCompatTheme_windowFixedWidthMinor = 277;
 			
 			// aapt resource value: 0x116
-			public const int AppCompatTheme_windowFixedWidthMajor = 278;
+			public const int AppCompatTheme_windowMinWidthMajor = 278;
 			
 			// aapt resource value: 0x117
-			public const int AppCompatTheme_windowFixedWidthMinor = 279;
+			public const int AppCompatTheme_windowMinWidthMinor = 279;
 			
 			// aapt resource value: 0x118
-			public const int AppCompatTheme_windowMinWidthMajor = 280;
-			
-			// aapt resource value: 0x119
-			public const int AppCompatTheme_windowMinWidthMinor = 281;
-			
-			// aapt resource value: 0x120
-			public const int AppCompatTheme_windowNoTitle = 288;
+			public const int AppCompatTheme_windowNoTitle = 280;
 			
 			public static int[] BottomNavigationView = new int[] {
 					2130968701,
@@ -10616,8 +8085,8 @@ namespace GoogleCalender.Droid
 					2130968753,
 					2130968783};
 			
-			// aapt resource value: 0x7F060479
-			public const int BottomNavigationView_elevation = 2131100793;
+			// aapt resource value: 0x7F060228
+			public const int BottomNavigationView_elevation = 2131100200;
 			
 			// aapt resource value: 0x1
 			public const int BottomNavigationView_itemBackground = 1;
@@ -10636,8 +8105,8 @@ namespace GoogleCalender.Droid
 					2130968635,
 					2130968636};
 			
-			// aapt resource value: 0x7F060485
-			public const int BottomSheetBehavior_Layout_behavior_hideable = 2131100805;
+			// aapt resource value: 0x7F060234
+			public const int BottomSheetBehavior_Layout_behavior_hideable = 2131100212;
 			
 			// aapt resource value: 0x1
 			public const int BottomSheetBehavior_Layout_behavior_peekHeight = 1;
@@ -10648,8 +8117,8 @@ namespace GoogleCalender.Droid
 			public static int[] ButtonBarLayout = new int[] {
 					2130968615};
 			
-			// aapt resource value: 0x7F060224
-			public const int ButtonBarLayout_allowStacking = 2131100196;
+			// aapt resource value: 0x7F060238
+			public const int ButtonBarLayout_allowStacking = 2131100216;
 			
 			public static int[] CardView = new int[] {
 					16843072,
@@ -10666,8 +8135,8 @@ namespace GoogleCalender.Droid
 					2130968586,
 					2130968587};
 			
-			// aapt resource value: 0x7F060597
-			public const int CardView_android_minHeight = 2131101079;
+			// aapt resource value: 0x7F060541
+			public const int CardView_android_minHeight = 2131100993;
 			
 			// aapt resource value: 0x1
 			public const int CardView_android_minWidth = 1;
@@ -10723,8 +8192,8 @@ namespace GoogleCalender.Droid
 					2130968892,
 					2130968902};
 			
-			// aapt resource value: 0x7F060489
-			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131100809;
+			// aapt resource value: 0x7F060240
+			public const int CollapsingToolbarLayout_collapsedTitleGravity = 2131100224;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_collapsedTitleTextAppearance = 1;
@@ -10757,8 +8226,8 @@ namespace GoogleCalender.Droid
 					2130968760,
 					2130968761};
 			
-			// aapt resource value: 0x7F060506
-			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131100934;
+			// aapt resource value: 0x7F060257
+			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 2131100247;
 			
 			// aapt resource value: 0x1
 			public const int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
@@ -10786,8 +8255,8 @@ namespace GoogleCalender.Droid
 					16843551,
 					16843173};
 			
-			// aapt resource value: 0x7F060226
-			public const int ColorStateListItem_alpha = 2131100198;
+			// aapt resource value: 0x7F060260
+			public const int ColorStateListItem_alpha = 2131100256;
 			
 			// aapt resource value: 0x1
 			public const int ColorStateListItem_android_alpha = 1;
@@ -10797,11 +8266,11 @@ namespace GoogleCalender.Droid
 			
 			public static int[] CompoundButton = new int[] {
 					16843015,
-					2130968643,
-					2130968644};
+					2130968650,
+					2130968651};
 			
-			// aapt resource value: 0x7F060230
-			public const int CompoundButton_android_button = 2131100208;
+			// aapt resource value: 0x7F060264
+			public const int CompoundButton_android_button = 2131100260;
 			
 			// aapt resource value: 0x1
 			public const int CompoundButton_buttonTint = 1;
@@ -10810,23 +8279,23 @@ namespace GoogleCalender.Droid
 			public const int CompoundButton_buttonTintMode = 2;
 			
 			public static int[] CoordinatorLayout = new int[] {
-					2130968719,
-					2130968786};
+					2130968754,
+					2130968840};
 			
-			// aapt resource value: 0x7F060234
-			public const int CoordinatorLayout_keylines = 2131100212;
+			// aapt resource value: 0x7F060268
+			public const int CoordinatorLayout_keylines = 2131100264;
 			
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
-					2130968722,
-					2130968723,
-					2130968724,
-					2130968725,
-					2130968726,
-					2130968727};
+					2130968757,
+					2130968758,
+					2130968759,
+					2130968762,
+					2130968763,
+					2130968764};
 			
-			// aapt resource value: 0x7F060237
-			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131100215;
+			// aapt resource value: 0x7F060271
+			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131100273;
 			
 			// aapt resource value: 0x1
 			public const int CoordinatorLayout_Layout_layout_anchor = 1;
@@ -10854,8 +8323,8 @@ namespace GoogleCalender.Droid
 					2130968640,
 					2130968879};
 			
-			// aapt resource value: 0x7F060509
-			public const int DesignTheme_bottomSheetDialogTheme = 2131100937;
+			// aapt resource value: 0x7F060279
+			public const int DesignTheme_bottomSheetDialogTheme = 2131100281;
 			
 			// aapt resource value: 0x1
 			public const int DesignTheme_bottomSheetStyle = 1;
@@ -10867,14 +8336,14 @@ namespace GoogleCalender.Droid
 					2130968618,
 					2130968619,
 					2130968631,
-					2130968651,
-					2130968682,
-					2130968704,
-					2130968780,
-					2130968810};
+					2130968660,
+					2130968694,
+					2130968730,
+					2130968831,
+					2130968882};
 			
-			// aapt resource value: 0x7F060245
-			public const int DrawerArrowToggle_arrowHeadLength = 2131100229;
+			// aapt resource value: 0x7F060283
+			public const int DrawerArrowToggle_arrowHeadLength = 2131100291;
 			
 			// aapt resource value: 0x1
 			public const int DrawerArrowToggle_arrowShaftLength = 1;
@@ -10907,8 +8376,8 @@ namespace GoogleCalender.Droid
 					2130968816,
 					2130968911};
 			
-			// aapt resource value: 0x7F060513
-			public const int FloatingActionButton_backgroundTint = 2131100947;
+			// aapt resource value: 0x7F060292
+			public const int FloatingActionButton_backgroundTint = 2131100306;
 			
 			// aapt resource value: 0x1
 			public const int FloatingActionButton_backgroundTintMode = 1;
@@ -10916,8 +8385,8 @@ namespace GoogleCalender.Droid
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
 					2130968632};
 			
-			// aapt resource value: 0x7F060522
-			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131100962;
+			// aapt resource value: 0x7F060301
+			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 2131100417;
 			
 			// aapt resource value: 0x2
 			public const int FloatingActionButton_borderWidth = 2;
@@ -10938,57 +8407,41 @@ namespace GoogleCalender.Droid
 			public const int FloatingActionButton_useCompatPadding = 7;
 			
 			public static int[] FontFamily = new int[] {
-					2130968695,
-					2130968696,
-					2130968697,
-					2130968698,
-					2130968699,
-					2130968700};
+					2130968578,
+					2130968579,
+					2130968580,
+					2130968581,
+					2130968582,
+					2130968583};
 			
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
 					16844095,
-					16844144,
 					16844083,
-					16844143,
-					2130968693,
-					2130968701,
-					2130968702,
-					2130968703,
-					2130968838};
+					2130968577,
+					2130968584,
+					2130968585};
 			
-			// aapt resource value: 0x7F060261
-			public const int FontFamilyFont_android_font = 2131100257;
+			// aapt resource value: 0x7F060010
+			public const int FontFamilyFont_android_font = 2131099664;
 			
 			// aapt resource value: 0x1
 			public const int FontFamilyFont_android_fontStyle = 1;
 			
 			// aapt resource value: 0x2
-			public const int FontFamilyFont_android_fontVariationSettings = 2;
+			public const int FontFamilyFont_android_fontWeight = 2;
 			
 			// aapt resource value: 0x3
-			public const int FontFamilyFont_android_fontWeight = 3;
+			public const int FontFamilyFont_font = 3;
 			
 			// aapt resource value: 0x4
-			public const int FontFamilyFont_android_ttcIndex = 4;
+			public const int FontFamilyFont_fontStyle = 4;
 			
 			// aapt resource value: 0x5
-			public const int FontFamilyFont_font = 5;
+			public const int FontFamilyFont_fontWeight = 5;
 			
-			// aapt resource value: 0x6
-			public const int FontFamilyFont_fontStyle = 6;
-			
-			// aapt resource value: 0x7
-			public const int FontFamilyFont_fontVariationSettings = 7;
-			
-			// aapt resource value: 0x8
-			public const int FontFamilyFont_fontWeight = 8;
-			
-			// aapt resource value: 0x9
-			public const int FontFamilyFont_ttcIndex = 9;
-			
-			// aapt resource value: 0x7F060254
-			public const int FontFamily_fontProviderAuthority = 2131100244;
+			// aapt resource value: 0x7F060003
+			public const int FontFamily_fontProviderAuthority = 2131099651;
 			
 			// aapt resource value: 0x1
 			public const int FontFamily_fontProviderCerts = 1;
@@ -11010,8 +8463,8 @@ namespace GoogleCalender.Droid
 					16843264,
 					2130968729};
 			
-			// aapt resource value: 0x7F060524
-			public const int ForegroundLinearLayout_android_foreground = 2131100964;
+			// aapt resource value: 0x7F060303
+			public const int ForegroundLinearLayout_android_foreground = 2131100419;
 			
 			// aapt resource value: 0x1
 			public const int ForegroundLinearLayout_android_foregroundGravity = 1;
@@ -11019,79 +8472,19 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x2
 			public const int ForegroundLinearLayout_foregroundInsidePadding = 2;
 			
-			public static int[] GradientColor = new int[] {
-					16843275,
-					16843170,
-					16843171,
-					16843166,
-					16844050,
-					16844051,
-					16843172,
-					16843165,
-					16844048,
-					16844049,
-					16843265,
-					16843169};
-			
-			public static int[] GradientColorItem = new int[] {
-					16843173,
-					16844052};
-			
-			// aapt resource value: 0x7F060285
-			public const int GradientColorItem_android_color = 2131100293;
-			
-			// aapt resource value: 0x1
-			public const int GradientColorItem_android_offset = 1;
-			
-			// aapt resource value: 0x7F060272
-			public const int GradientColor_android_centerColor = 2131100274;
-			
-			// aapt resource value: 0x1
-			public const int GradientColor_android_centerX = 1;
-			
-			// aapt resource value: 0x2
-			public const int GradientColor_android_centerY = 2;
-			
-			// aapt resource value: 0x3
-			public const int GradientColor_android_endColor = 3;
-			
-			// aapt resource value: 0x4
-			public const int GradientColor_android_endX = 4;
-			
-			// aapt resource value: 0x5
-			public const int GradientColor_android_endY = 5;
-			
-			// aapt resource value: 0x6
-			public const int GradientColor_android_gradientRadius = 6;
-			
-			// aapt resource value: 0x7
-			public const int GradientColor_android_startColor = 7;
-			
-			// aapt resource value: 0x8
-			public const int GradientColor_android_startX = 8;
-			
-			// aapt resource value: 0x9
-			public const int GradientColor_android_startY = 9;
-			
-			// aapt resource value: 0x10
-			public const int GradientColor_android_tileMode = 16;
-			
-			// aapt resource value: 0x11
-			public const int GradientColor_android_type = 17;
-			
 			public static int[] LinearLayoutCompat = new int[] {
 					16843046,
 					16843047,
 					16842927,
 					16842948,
 					16843048,
-					2130968678,
-					2130968680,
-					2130968743,
-					2130968776};
+					2130968690,
+					2130968692,
+					2130968782,
+					2130968826};
 			
-			// aapt resource value: 0x7F060288
-			public const int LinearLayoutCompat_android_baselineAligned = 2131100296;
+			// aapt resource value: 0x7F060307
+			public const int LinearLayoutCompat_android_baselineAligned = 2131100423;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_android_baselineAlignedChildIndex = 1;
@@ -11117,8 +8510,8 @@ namespace GoogleCalender.Droid
 					16843137,
 					16842996};
 			
-			// aapt resource value: 0x7F060298
-			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131100312;
+			// aapt resource value: 0x7F060317
+			public const int LinearLayoutCompat_Layout_android_layout_gravity = 2131100439;
 			
 			// aapt resource value: 0x1
 			public const int LinearLayoutCompat_Layout_android_layout_height = 1;
@@ -11139,8 +8532,8 @@ namespace GoogleCalender.Droid
 					16843436,
 					16843437};
 			
-			// aapt resource value: 0x7F060303
-			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131100419;
+			// aapt resource value: 0x7F060322
+			public const int ListPopupWindow_android_dropDownHorizontalOffset = 2131100450;
 			
 			// aapt resource value: 0x1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
@@ -11151,8 +8544,8 @@ namespace GoogleCalender.Droid
 					2130968688,
 					2130968732};
 			
-			// aapt resource value: 0x7F060611
-			public const int MediaRouteButton_android_minHeight = 2131101201;
+			// aapt resource value: 0x7F060555
+			public const int MediaRouteButton_android_minHeight = 2131101013;
 			
 			// aapt resource value: 0x1
 			public const int MediaRouteButton_android_minWidth = 1;
@@ -11171,8 +8564,8 @@ namespace GoogleCalender.Droid
 					16843231,
 					16843156};
 			
-			// aapt resource value: 0x7F060306
-			public const int MenuGroup_android_checkableBehavior = 2131100422;
+			// aapt resource value: 0x7F060325
+			public const int MenuGroup_android_checkableBehavior = 2131100453;
 			
 			// aapt resource value: 0x1
 			public const int MenuGroup_android_enabled = 1;
@@ -11207,15 +8600,15 @@ namespace GoogleCalender.Droid
 					16843233,
 					16843234,
 					16843156,
-					2130968663,
-					2130968711,
-					2130968712,
-					2130968748,
-					2130968775,
-					2130968833};
+					2130968672,
+					2130968741,
+					2130968742,
+					2130968788,
+					2130968825,
+					2130968907};
 			
-			// aapt resource value: 0x7F060313
-			public const int MenuItem_actionLayout = 2131100435;
+			// aapt resource value: 0x7F060332
+			public const int MenuItem_actionLayout = 2131100466;
 			
 			// aapt resource value: 0x1
 			public const int MenuItem_actionProviderClass = 1;
@@ -11291,11 +8684,11 @@ namespace GoogleCalender.Droid
 					16843052,
 					16843054,
 					16842926,
-					2130968760,
-					2130968787};
+					2130968805,
+					2130968842};
 			
-			// aapt resource value: 0x7F060337
-			public const int MenuView_android_headerBackground = 2131100471;
+			// aapt resource value: 0x7F060356
+			public const int MenuView_android_headerBackground = 2131100502;
 			
 			// aapt resource value: 0x1
 			public const int MenuView_android_horizontalDivider = 1;
@@ -11333,8 +8726,8 @@ namespace GoogleCalender.Droid
 					2130968753,
 					2130968783};
 			
-			// aapt resource value: 0x7F060528
-			public const int NavigationView_android_background = 2131100968;
+			// aapt resource value: 0x7F060366
+			public const int NavigationView_android_background = 2131100518;
 			
 			// aapt resource value: 0x1
 			public const int NavigationView_android_fitsSystemWindows = 1;
@@ -11366,16 +8759,16 @@ namespace GoogleCalender.Droid
 			public static int[] PopupWindow = new int[] {
 					16843465,
 					16843126,
-					2130968749};
+					2130968789};
 			
 			public static int[] PopupWindowBackgroundState = new int[] {
-					2130968785};
+					2130968837};
 			
-			// aapt resource value: 0x7F060351
-			public const int PopupWindowBackgroundState_state_above_anchor = 2131100497;
+			// aapt resource value: 0x7F060381
+			public const int PopupWindowBackgroundState_state_above_anchor = 2131100545;
 			
-			// aapt resource value: 0x7F060347
-			public const int PopupWindow_android_popupAnimationStyle = 2131100487;
+			// aapt resource value: 0x7F060377
+			public const int PopupWindow_android_popupAnimationStyle = 2131100535;
 			
 			// aapt resource value: 0x1
 			public const int PopupWindow_android_popupBackground = 1;
@@ -11384,11 +8777,11 @@ namespace GoogleCalender.Droid
 			public const int PopupWindow_overlapAnchor = 2;
 			
 			public static int[] RecycleListView = new int[] {
-					2130968750,
-					2130968753};
+					2130968790,
+					2130968793};
 			
-			// aapt resource value: 0x7F060353
-			public const int RecycleListView_paddingBottomNoButtons = 2131100499;
+			// aapt resource value: 0x7F060383
+			public const int RecycleListView_paddingBottomNoButtons = 2131100547;
 			
 			// aapt resource value: 0x1
 			public const int RecycleListView_paddingTopNoTitle = 1;
@@ -11406,8 +8799,8 @@ namespace GoogleCalender.Droid
 					2130968830,
 					2130968836};
 			
-			// aapt resource value: 0x7F060539
-			public const int RecyclerView_android_descendantFocusability = 2131100985;
+			// aapt resource value: 0x7F060386
+			public const int RecyclerView_android_descendantFocusability = 2131100550;
 			
 			// aapt resource value: 0x1
 			public const int RecyclerView_android_orientation = 1;
@@ -11439,57 +8832,39 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x10
 			public const int RecyclerView_stackFromEnd = 16;
 			
-			public static int[] Scheduler = new int[] {
-					2130968689,
-					2130968837,
-					2130968851,
-					2130968852};
-			
-			// aapt resource value: 0x7F060356
-			public const int Scheduler_elementState = 2131100502;
-			
-			// aapt resource value: 0x1
-			public const int Scheduler_treeDownValues = 1;
-			
-			// aapt resource value: 0x2
-			public const int Scheduler_xIndex = 2;
-			
-			// aapt resource value: 0x3
-			public const int Scheduler_zIndex = 3;
-			
 			public static int[] ScrimInsetsFrameLayout = new int[] {
 					2130968747};
 			
-			// aapt resource value: 0x7F060551
-			public const int ScrimInsetsFrameLayout_insetForeground = 2131101009;
+			// aapt resource value: 0x7F060398
+			public const int ScrimInsetsFrameLayout_insetForeground = 2131100568;
 			
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
 					2130968634};
 			
-			// aapt resource value: 0x7F060553
-			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131101011;
+			// aapt resource value: 0x7F060400
+			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 2131100672;
 			
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843364,
 					16843296,
 					16843039,
-					2130968647,
-					2130968662,
-					2130968673,
-					2130968705,
-					2130968713,
-					2130968721,
-					2130968763,
-					2130968764,
-					2130968769,
-					2130968770,
-					2130968788,
-					2130968793,
-					2130968840};
+					2130968654,
+					2130968671,
+					2130968686,
+					2130968731,
+					2130968743,
+					2130968755,
+					2130968809,
+					2130968810,
+					2130968819,
+					2130968820,
+					2130968843,
+					2130968848,
+					2130968912};
 			
-			// aapt resource value: 0x7F060361
-			public const int SearchView_android_focusable = 2131100513;
+			// aapt resource value: 0x7F060402
+			public const int SearchView_android_focusable = 2131100674;
 			
 			// aapt resource value: 0x1
 			public const int SearchView_android_imeOptions = 1;
@@ -11544,8 +8919,8 @@ namespace GoogleCalender.Droid
 					2130968701,
 					2130968780};
 			
-			// aapt resource value: 0x7F060555
-			public const int SnackbarLayout_android_maxWidth = 2131101013;
+			// aapt resource value: 0x7F060420
+			public const int SnackbarLayout_android_maxWidth = 2131100704;
 			
 			// aapt resource value: 0x1
 			public const int SnackbarLayout_elevation = 1;
@@ -11558,10 +8933,10 @@ namespace GoogleCalender.Droid
 					16842930,
 					16843126,
 					16843131,
-					2130968758};
+					2130968803};
 			
-			// aapt resource value: 0x7F060379
-			public const int Spinner_android_dropDownWidth = 2131100537;
+			// aapt resource value: 0x7F060424
+			public const int Spinner_android_dropDownWidth = 2131100708;
 			
 			// aapt resource value: 0x1
 			public const int Spinner_android_entries = 1;
@@ -11575,56 +8950,24 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x4
 			public const int Spinner_popupTheme = 4;
 			
-			public static int[] StateListDrawable = new int[] {
-					16843158,
-					16843036,
-					16843532,
-					16843533,
-					16843157,
-					16843156};
-			
-			public static int[] StateListDrawableItem = new int[] {
-					16843161};
-			
-			// aapt resource value: 0x7F060392
-			public const int StateListDrawableItem_android_drawable = 2131100562;
-			
-			// aapt resource value: 0x7F060385
-			public const int StateListDrawable_android_constantSize = 2131100549;
-			
-			// aapt resource value: 0x1
-			public const int StateListDrawable_android_dither = 1;
-			
-			// aapt resource value: 0x2
-			public const int StateListDrawable_android_enterFadeDuration = 2;
-			
-			// aapt resource value: 0x3
-			public const int StateListDrawable_android_exitFadeDuration = 3;
-			
-			// aapt resource value: 0x4
-			public const int StateListDrawable_android_variablePadding = 4;
-			
-			// aapt resource value: 0x5
-			public const int StateListDrawable_android_visible = 5;
-			
 			public static int[] SwitchCompat = new int[] {
 					16843045,
 					16843044,
 					16843074,
-					2130968777,
-					2130968783,
-					2130968794,
-					2130968795,
-					2130968797,
-					2130968811,
-					2130968812,
-					2130968813,
+					2130968827,
 					2130968834,
-					2130968835,
-					2130968836};
+					2130968849,
+					2130968850,
+					2130968852,
+					2130968883,
+					2130968884,
+					2130968885,
+					2130968908,
+					2130968909,
+					2130968910};
 			
-			// aapt resource value: 0x7F060394
-			public const int SwitchCompat_android_textOff = 2131100564;
+			// aapt resource value: 0x7F060430
+			public const int SwitchCompat_android_textOff = 2131100720;
 			
 			// aapt resource value: 0x1
 			public const int SwitchCompat_android_textOn = 1;
@@ -11670,8 +9013,8 @@ namespace GoogleCalender.Droid
 					16842994,
 					16843087};
 			
-			// aapt resource value: 0x7F060559
-			public const int TabItem_android_icon = 2131101017;
+			// aapt resource value: 0x7F060445
+			public const int TabItem_android_icon = 2131100741;
 			
 			// aapt resource value: 0x1
 			public const int TabItem_android_layout = 1;
@@ -11697,8 +9040,8 @@ namespace GoogleCalender.Droid
 					2130968867,
 					2130968868};
 			
-			// aapt resource value: 0x7F060563
-			public const int TabLayout_tabBackground = 2131101027;
+			// aapt resource value: 0x7F060449
+			public const int TabLayout_tabBackground = 2131100745;
 			
 			// aapt resource value: 0x1
 			public const int TabLayout_tabContentStart = 1;
@@ -11757,11 +9100,11 @@ namespace GoogleCalender.Droid
 					16842901,
 					16842903,
 					16842902,
-					2130968694,
-					2130968798};
+					2130968720,
+					2130968869};
 			
-			// aapt resource value: 0x7F060409
-			public const int TextAppearance_android_fontFamily = 2131100681;
+			// aapt resource value: 0x7F060466
+			public const int TextAppearance_android_fontFamily = 2131100774;
 			
 			// aapt resource value: 0x1
 			public const int TextAppearance_android_shadowColor = 1;
@@ -11817,8 +9160,8 @@ namespace GoogleCalender.Droid
 					2130968800,
 					2130968801};
 			
-			// aapt resource value: 0x7F060580
-			public const int TextInputLayout_android_hint = 2131101056;
+			// aapt resource value: 0x7F060480
+			public const int TextInputLayout_android_hint = 2131100800;
 			
 			// aapt resource value: 0x1
 			public const int TextInputLayout_android_textColorHint = 1;
@@ -11868,36 +9211,36 @@ namespace GoogleCalender.Droid
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
-					2130968638,
-					2130968649,
-					2130968650,
-					2130968664,
-					2130968665,
-					2130968666,
-					2130968667,
-					2130968668,
-					2130968669,
-					2130968740,
-					2130968741,
-					2130968742,
-					2130968745,
-					2130968746,
-					2130968758,
-					2130968789,
-					2130968790,
-					2130968791,
-					2130968819,
-					2130968820,
-					2130968821,
-					2130968822,
-					2130968823,
-					2130968824,
-					2130968825,
-					2130968826,
-					2130968827};
+					2130968646,
+					2130968656,
+					2130968657,
+					2130968673,
+					2130968674,
+					2130968675,
+					2130968676,
+					2130968677,
+					2130968678,
+					2130968778,
+					2130968779,
+					2130968781,
+					2130968785,
+					2130968786,
+					2130968803,
+					2130968844,
+					2130968845,
+					2130968846,
+					2130968891,
+					2130968893,
+					2130968894,
+					2130968895,
+					2130968896,
+					2130968897,
+					2130968898,
+					2130968899,
+					2130968900};
 			
-			// aapt resource value: 0x7F060423
-			public const int Toolbar_android_gravity = 2131100707;
+			// aapt resource value: 0x7F060497
+			public const int Toolbar_android_gravity = 2131100823;
 			
 			// aapt resource value: 0x1
 			public const int Toolbar_android_minHeight = 1;
@@ -11986,17 +9329,17 @@ namespace GoogleCalender.Droid
 			public static int[] View = new int[] {
 					16842970,
 					16842752,
-					2130968751,
-					2130968752,
-					2130968809};
+					2130968791,
+					2130968792,
+					2130968881};
 			
 			public static int[] ViewBackgroundHelper = new int[] {
 					16842964,
 					2130968629,
 					2130968630};
 			
-			// aapt resource value: 0x7F060459
-			public const int ViewBackgroundHelper_android_background = 2131100761;
+			// aapt resource value: 0x7F060533
+			public const int ViewBackgroundHelper_android_background = 2131100979;
 			
 			// aapt resource value: 0x1
 			public const int ViewBackgroundHelper_backgroundTint = 1;
@@ -12009,8 +9352,8 @@ namespace GoogleCalender.Droid
 					16842995,
 					16842994};
 			
-			// aapt resource value: 0x7F060463
-			public const int ViewStubCompat_android_id = 2131100771;
+			// aapt resource value: 0x7F060537
+			public const int ViewStubCompat_android_id = 2131100983;
 			
 			// aapt resource value: 0x1
 			public const int ViewStubCompat_android_inflatedId = 1;
@@ -12018,8 +9361,8 @@ namespace GoogleCalender.Droid
 			// aapt resource value: 0x2
 			public const int ViewStubCompat_android_layout = 2;
 			
-			// aapt resource value: 0x7F060453
-			public const int View_android_focusable = 2131100755;
+			// aapt resource value: 0x7F060527
+			public const int View_android_focusable = 2131100967;
 			
 			// aapt resource value: 0x1
 			public const int View_android_theme = 1;

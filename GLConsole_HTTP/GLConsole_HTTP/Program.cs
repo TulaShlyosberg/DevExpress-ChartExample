@@ -18,9 +18,9 @@ namespace GLConsole_HTTP {
     class Program {
 
         const string scope = "https://www.googleapis.com/auth/calendar.readonly";
-        const string endPoint = "https://www.googleapis.com/calendar/v3/calendars/events?key=AIzaSyAMOgJJuWuaAgG9H450T5R3pV8BDCA8re8";
-        const string clientId = "819713777853-7ggs28apgk8vg8vum0o9ouot8743jttc.apps.googleusercontent.com";
-        const string clientSecrets = "04Q223hyv-SEfAQdvWmDU4Ws";
+        const string endPoint = "https://www.googleapis.com/calendar/v3/calendars/noskov.fa@phystech.edu/events?key=AIzaSyAMOgJJuWuaAgG9H450T5R3pV8BDCA8re8";
+        const string clientId = "819713777853-7ajlvaeh2ceoju3bt6nqie2k74nrvusl.apps.googleusercontent.com";
+        const string clientSecrets = "GB6JmwaZs03H2GYnSMXuSsZ4";
 
 
         static void Main(string[] args) {
@@ -90,7 +90,7 @@ namespace GLConsole_HTTP {
             tokenString = client.PostAsync(new Uri(@"https://accounts.google.com/o/oauth2/token"), content).Result.Content.ReadAsStringAsync().Result;
             accessToken = JObject.Parse(tokenString)["access_token"].ToString();
 
-            Console.WriteLine(accessToken);
+            Console.WriteLine("New access token: {0}", accessToken);
 
             //Get Calendar html
             client.DefaultRequestHeaders.Add("Authorization", "Bearer " + accessToken);

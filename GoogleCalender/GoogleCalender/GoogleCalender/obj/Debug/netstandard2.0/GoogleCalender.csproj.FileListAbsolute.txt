@@ -14,3 +14,11 @@ C:\Users\student08\source\repos\GoogleCalender\GoogleCalender\GoogleCalender\obj
 C:\Users\student08\source\repos\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.dll
 C:\Users\student08\source\repos\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.pdb
 C:\Users\student08\source\repos\GoogleCalender\GoogleCalender\GoogleCalender\bin\Debug\netstandard2.0\credentials.json
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.csprojAssemblyReference.cache
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.csproj.CoreCompileInputs.cache
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.AssemblyInfoInputs.cache
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.AssemblyInfo.cs
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.dll
+C:\Users\student08\Git\DevExpress-ChartExample\GoogleCalender\GoogleCalender\GoogleCalender\obj\Debug\netstandard2.0\GoogleCalender.pdb

@@ -4809,11 +4809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.Android\\GoogleCalender.Android.csproj",
+      "projectUniqueName": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.Android\\GoogleCalender.Android.csproj",
       "projectName": "GoogleCalender.Android",
-      "projectPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.Android\\GoogleCalender.Android.csproj",
+      "projectPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.Android\\GoogleCalender.Android.csproj",
       "packagesPath": "C:\\Users\\student08\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.Android\\obj\\",
+      "outputPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4834,8 +4834,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj": {
-              "projectPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj"
+            "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj": {
+              "projectPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj": {}
+    "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj": {
+    "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj",
         "projectName": "GoogleCalender.iOS",
-        "projectPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj",
+        "projectPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\GoogleCalender.iOS.csproj",
         "packagesPath": "C:\\Users\\student08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\obj\\",
+        "outputPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj": {
-                "projectPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj"
+              "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj": {
+                "projectPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj": {
+    "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj",
+        "projectUniqueName": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj",
         "projectName": "GoogleCalender",
-        "projectPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj",
+        "projectPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\GoogleCalender.csproj",
         "packagesPath": "C:\\Users\\student08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student08\\source\\repos\\GoogleCalender\\GoogleCalender\\GoogleCalender\\obj\\",
+        "outputPath": "C:\\Users\\student08\\Git\\DevExpress-ChartExample\\GoogleCalender\\GoogleCalender\\GoogleCalender\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

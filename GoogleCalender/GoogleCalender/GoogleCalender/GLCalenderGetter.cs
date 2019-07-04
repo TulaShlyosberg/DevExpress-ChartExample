@@ -5,10 +5,14 @@ using Google.Apis.Services;
 using Google.Apis.Util.Store;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Net;
+using System.Net.Http;
 using System.Text;
-using System.Threading;
 using System.Threading.Tasks;
 using System.Collections.ObjectModel;
 using System.Reflection;
@@ -26,42 +30,19 @@ namespace GoogleCalender
         private EventsResource.ListRequest request;
 
         public GLCalenderGetter() {
-            string[] Scopes = { CalendarService.Scope.CalendarReadonly };
-
-            UserCredential credential = null;
-            Assembly assembly = Assembly.GetExecutingAssembly();
-            using (Stream stream = assembly.GetManifestResourceStream("GoogleCalender.credentials.json"))
-            using (StreamReader reader = new StreamReader(stream)) {
-            //using (var stream =
-            //    new FileStream("credentials.json", FileMode.Open, FileAccess.Read))
-            //{
-                // The file token.json stores the user's access and refresh tokens, and is created
-                // automatically when the authorization flow completes for the first time.
-                string credPath = "token.json";
-                try {
-                    credential = GoogleWebAuthorizationBroker.AuthorizeAsync(
-                        GoogleClientSecrets.Load(stream).Secrets,
-                        Scopes,
-                        "user",
-                        CancellationToken.None).Result;
-                }catch (Exception e) {
-
-                }
-
-                // Create Google Calendar API service.
-                var service = new CalendarService(new BaseClientService.Initializer()
-                {
-                    HttpClientInitializer = credential,
-                    ApplicationName = "DevExpress Scheduler",
-                });
-
-                // Define parameters of request.
-                request = service.Events.List("primary");
-                request.TimeMin = DateTime.MinValue;
-                request.ShowDeleted = false;
-                request.SingleEvents = true;
-                request.OrderBy = EventsResource.ListRequest.OrderByEnum.StartTime;
-            }
+            var client = new HttpClient();
+            var authDictionary = new Dictionary<string, string>() {
+                {"response_type", "code"},
+                {"client_id", "435208680463-mtp4umgqv8n15ak2v6d3690q1isd1cb9.apps.googleusercontent.com"},
+                {"redirect_uri", "http://localhost:8080"},
+                {"prompt", "consent"},
+                {"scope", "https://www.googleapis.com/auth/calendar.readonly"},
+                {"state", "1"},
+                {"login_hint", "noskov.fa@phystech.edu"},
+            };
+            var content = new FormUrlEncodedContent(authDictionary);
+            var str = client.PostAsync(new Uri(@"https://accounts.google.com/o/oauth2/auth"), content).Result.Content.ReadAsStringAsync().Result;
+            string code = string.Empty;
         }
 
         public ObservableCollection<GoogleUserAppointment> GetData()
