@@ -1,5 +1,0 @@
-values/Strings.xml;values/strings.xml
-drawable/clock_icon.png;drawable/clock_icon.png
-drawable/repeat_icon.png;drawable/repeat_icon.png
-drawable/subject_icon.png;drawable/subject_icon.png
-drawable/ic_done.xml;drawable/ic_done.xml
