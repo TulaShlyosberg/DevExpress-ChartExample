@@ -11,6 +11,7 @@ namespace GoogleCalendar.Models
 
         public ReceptionDeskData()
         {
+            GoogleUserAppointments = new ObservableCollection<GoogleUserAppointment>();
         }
     }
 }

@@ -14,6 +14,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
+using System.Net.Sockets;
 
 namespace GoogleCalendar
 {
@@ -32,14 +33,14 @@ namespace GoogleCalendar
         }
 
 
-        public string AuthAndGetEvents(ObservableCollection<GoogleUserAppointment> currentCollection) {
+        public void AuthAndGetEvents(ObservableCollection<GoogleUserAppointment> currentCollection) {
             //Create authorization request
 
             /*
             var authDictionary = new Dictionary<string, string>() {
                 {"response_type", "code"},
                 {"client_id", clientId},
-                {"redirect_uri", "http://localhost:8080"},
+                {"redirect_uri", localPort},
                 {"prompt", "consent"},
                 {"scope", scope},
                 {"state", "1"},
@@ -47,7 +48,11 @@ namespace GoogleCalendar
             var content = new FormUrlEncodedContent(authDictionary);
             var authorizationForm = client.PostAsync(new Uri(@"https://accounts.google.com/o/oauth2/v2/auth"), content).Result
                 .Content.ReadAsStringAsync().Result;
-                */
+               
+            
+            IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
+            IPAddress ipAddress = ipHostInfo.AddressList[0];
+            IPEndPoint localEndPoint = new IPEndPoint(ipAddress, 11000);*/
 
             string authorizationForm = string.Empty;
 
@@ -55,34 +60,32 @@ namespace GoogleCalendar
                 "&client_id={1}&redirect_uri={2}&prompt={3}&scope={4}&state={5}",
                 "code", clientId, localPort, "consent", scope, "1");
 
+
+
             Task.Factory.StartNew(() => {
                 Device.OpenUri(new Uri(authURL));
+                return;
             });
 
             //Create listener
-            Task.Factory.StartNew(() => {
-                using (var httpListener = new HttpListener()) {
-                    httpListener.Prefixes.Add(localPort);
+            using (var httpListener = new HttpListener()) {
+                httpListener.Prefixes.Add(localPort);
+                httpListener.Start();
 
-                    httpListener.Start();
+                while (true) {
 
-                    while (true) {
-
-                        var context = httpListener.GetContext();
-                        var request = context.Request;
-                        var result = request.QueryString;
-                        if (result["state"] == "1") {
-                            code = result["code"];
-                            context.Response.StatusCode = 200;
-                            context.Response.Close();
-                            StoreData(currentCollection);
-                            return;
-                        }
+                    var context = httpListener.GetContext();
+                    var request = context.Request;
+                    var result = request.QueryString;
+                    if (result["state"] == "1") {
+                        code = result["code"];
+                        context.Response.StatusCode = 200;
+                        context.Response.Close();
+                        StoreData(currentCollection);
+                        return;
                     }
                 }
-            });
-
-            return authorizationForm;
+            }
         }
 
 
@@ -92,7 +95,7 @@ namespace GoogleCalendar
                 {"client_id", clientId},
                 {"client_secret", clientSecrets},
                 {"grant_type", "authorization_code"},
-                {"redirect_uri", "http://localhost:8080"},
+                {"redirect_uri", localPort},
                 {"code", code}
             };
 
@@ -121,6 +124,6 @@ namespace GoogleCalendar
         private const string clientSecrets = "GB6JmwaZs03H2GYnSMXuSsZ4";
         private string endPoint;
         private string code = string.Empty;
-        private string localPort = "http://localhost:80";
+        private string localPort = "http://127.0.0.1:8080/";
     }
 }
