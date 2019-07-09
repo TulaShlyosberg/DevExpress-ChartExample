@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GLCalendarAndroid</string>
+    <string name="server_client_id">682086401144-dek23n7qu0f0rgu1krmsmo4v24prhsi3.apps.googleusercontent.com</string>
+    <string name="api_key">AIzaSyCQOiX-m4MVBM5dJUZrS1DVpsvv4m9Zudw</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
