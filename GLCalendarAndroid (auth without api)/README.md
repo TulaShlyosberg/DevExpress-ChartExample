@@ -2,4 +2,6 @@
 
 https://habr.com/ru/post/229039/
 
-https://android-developers.googleblog.com/2012/09/google-play-services-and-oauth-identity.html
+Регистрировать можно здесь кнопкой configure project:
+
+https://developers.google.com/identity/sign-in/android/start-integrating
