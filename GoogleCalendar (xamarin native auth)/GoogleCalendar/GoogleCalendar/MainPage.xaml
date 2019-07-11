@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:GoogleCalendar"
+             xmlns:dxsch="clr-namespace:DevExpress.XamarinForms.Scheduler;assembly=DevExpress.XamarinForms.Scheduler"
+             xmlns:vm="clr-namespace:GoogleCalendar.ViewModels"
+             x:Class="GoogleCalendar.MainPage">
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+      
+         <dxsch:SchedulerView x:Name="scheduler" Grid.Row="0">
+            <dxsch:SchedulerView.DataSource>
+                <!--Replace it!-->
+                <dxsch:DataSource AppointmentsSource="{Binding GoogleUserAppointments}">
+                    <dxsch:DataSource.AppointmentMappings>
+                        <dxsch:AppointmentMappings 
+                                Id="Id" 
+                                Start="StartTime" 
+                                End="EndTime" 
+                                Subject="Summary"/>
+                    </dxsch:DataSource.AppointmentMappings>
+                </dxsch:DataSource>
+            </dxsch:SchedulerView.DataSource>
+        </dxsch:SchedulerView>
+
+        <Button x:Name="ImportButon" Text="Импорт из GlCalendar" Clicked="Import" Grid.Row="1" />
+    
+  </Grid>
+
+
+</ContentPage>
