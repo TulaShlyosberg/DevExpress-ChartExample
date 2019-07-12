@@ -28,9 +28,9 @@ namespace GoogleCalendar.Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
-            String[] permissions = new String[] { Manifest.Permission.GetAccounts,
-                Manifest.Permission.Internet, Manifest.Permission.ReadCalendar };
-            ActivityCompat.RequestPermissions(this, permissions, 200);
+            SetGetter();
+            Auth();
+            GetEvents();
         }
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
         {
